@@ -32,7 +32,7 @@ if args.from_currency not in ccc["Currency"]:
     sys.exit(1)
 
 if args.to_currency not in ccc ["Currency"]:
-    print ("NOt in system, try again")
+    print ("Not in system, try again")
     sys.exit(1)
 
 #conversion rate

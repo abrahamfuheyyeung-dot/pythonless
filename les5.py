@@ -23,7 +23,7 @@ parser = argparse.ArgumentParser(prog='test_results', description = 'here are so
 
 parser.add_argument('--name', help= 'have no fear, help is here', action ='store', default = '')
 
-parser.add_argument('--readcsv', help="", action="store", default=False )
+parser.add_argument('--readcsv', help="", action="store", default=int )
 args = parser.parse_args()
 #here is the whole list
 #"r" is the file handler, it is opening as a Read ability (write would be W)
