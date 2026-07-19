@@ -1,0 +1,10000 @@
+people,250
+20 min,chinese
+diner,4
+wheelchair,thai
+price,2
+pet friendly,child
+drive through,distance
+10,10 min
+10,accomodation
+30,indian
+type,walkable
+50,20
+50,quiet place
+20,30 min
+wheelchair,20 min
+quiet place,child
+people,chinese
+accomodation,pet friendly
+20,10
+50,walkable
+10 min,indian
+10,20
+30,diner
+250,distance
+50,4
+price,type
+2,thai
+drive through,30 min
+price,people
+10,chinese
+accomodation,30 min
+distance,thai
+2,walkable
+diner,50
+250,20
+indian,20 min
+30,pet friendly
+wheelchair,20
+4,type
+10,child
+drive through,50
+quiet place,10 min
+50,people
+2,10 min
+20,50
+child,4
+diner,10
+price,250
+20,type
+chinese,wheelchair
+10,20 min
+walkable,distance
+thai,drive through
+30,pet friendly
+indian,30 min
+accomodation,quiet place
+20 min,people
+20,pet friendly
+10 min,drive through
+thai,indian
+50,2
+30 min,50
+250,accomodation
+quiet place,child
+diner,price
+distance,30
+10,10
+20,4
+chinese,walkable
+type,wheelchair
+10,10
+250,10 min
+20 min,pet friendly
+thai,30 min
+50,wheelchair
+diner,indian
+30,50
+accomodation,drive through
+chinese,price
+child,20
+20,walkable
+type,quiet place
+distance,4
+2,people
+10,10
+thai,wheelchair
+30 min,indian
+20 min,30
+chinese,price
+diner,250
+4,pet friendly
+distance,drive through
+20,type
+10 min,50
+walkable,quiet place
+50,accomodation
+people,2
+child,20
+price,quiet place
+10,chinese
+2,20
+pet friendly,20 min
+10 min,drive through
+10,child
+accomodation,30 min
+indian,walkable
+wheelchair,250
+4,thai
+50,50
+20,people
+distance,type
+diner,30
+price,20 min
+indian,pet friendly
+20,30
+walkable,10 min
+thai,diner
+50,wheelchair
+drive through,type
+2,quiet place
+accomodation,50
+10,20
+4,child
+people,30 min
+chinese,250
+10,distance
+20,type
+chinese,accomodation
+child,10 min
+people,50
+50,2
+quiet place,10
+30,thai
+walkable,20 min
+diner,indian
+wheelchair,30 min
+drive through,250
+4,distance
+20,pet friendly
+10,price
+20,20
+walkable,diner
+pet friendly,thai
+10,indian
+2,50
+type,30 min
+price,4
+distance,10 min
+30,child
+quiet place,50
+20 min,250
+accomodation,people
+10,chinese
+wheelchair,drive through
+30 min,price
+50,indian
+diner,pet friendly
+4,chinese
+20 min,250
+child,20
+10 min,10
+distance,drive through
+50,20
+quiet place,accomodation
+wheelchair,walkable
+10,30
+2,people
+thai,type
+30 min,diner
+50,10
+walkable,distance
+10 min,10
+pet friendly,price
+people,child
+thai,wheelchair
+type,30
+chinese,accomodation
+indian,20 min
+250,20
+2,quiet place
+20,4
+drive through,50
+distance,chinese
+thai,pet friendly
+2,50
+10,10
+walkable,people
+drive through,wheelchair
+20,250
+child,20
+type,quiet place
+30 min,50
+20 min,diner
+4,accomodation
+price,30
+10 min,indian
+indian,people
+walkable,50
+250,20
+20,drive through
+30 min,10
+4,30
+accomodation,2
+10,quiet place
+type,20 min
+child,diner
+chinese,10 min
+distance,50
+price,thai
+wheelchair,pet friendly
+20,50
+250,quiet place
+2,child
+pet friendly,accomodation
+30,wheelchair
+30 min,walkable
+people,4
+indian,thai
+20 min,20
+drive through,chinese
+diner,10
+distance,10 min
+50,price
+10,type
+people,indian
+20,20 min
+10,walkable
+30,quiet place
+diner,20
+type,thai
+accomodation,child
+pet friendly,4
+price,10 min
+250,distance
+drive through,50
+chinese,wheelchair
+10,2
+30 min,50
+drive through,indian
+10,pet friendly
+250,people
+20,walkable
+accomodation,diner
+10,20 min
+price,chinese
+50,wheelchair
+30 min,4
+50,10 min
+distance,thai
+2,20
+child,quiet place
+30,type
+indian,drive through
+walkable,thai
+quiet place,accomodation
+10,10
+chinese,20 min
+distance,20
+type,250
+child,30 min
+30,10 min
+4,pet friendly
+diner,wheelchair
+2,50
+50,20
+people,price
+indian,2
+20,thai
+walkable,50
+10,accomodation
+distance,250
+quiet place,child
+people,10
+price,20 min
+30,diner
+30 min,type
+wheelchair,pet friendly
+4,10 min
+drive through,20
+chinese,50
+250,pet friendly
+diner,chinese
+indian,4
+30 min,50
+10,10
+walkable,child
+price,type
+20,50
+10 min,distance
+20 min,accomodation
+quiet place,30
+20,people
+2,thai
+drive through,wheelchair
+30,drive through
+chinese,indian
+wheelchair,10
+thai,50
+2,accomodation
+30 min,10
+distance,10 min
+price,quiet place
+diner,20
+50,type
+walkable,20 min
+pet friendly,250
+20,people
+4,child
+price,chinese
+diner,250
+thai,50
+20,quiet place
+30,wheelchair
+2,people
+20,30 min
+distance,walkable
+drive through,child
+10 min,pet friendly
+accomodation,type
+10,indian
+4,20 min
+50,10
+wheelchair,indian
+20,pet friendly
+drive through,quiet place
+distance,walkable
+child,type
+50,10
+2,people
+10,4
+250,accomodation
+50,30 min
+chinese,20 min
+20,thai
+30,diner
+10 min,price
+thai,quiet place
+50,30
+pet friendly,10
+2,people
+price,chinese
+walkable,drive through
+10,type
+50,indian
+20,20
+child,wheelchair
+250,4
+distance,accomodation
+30 min,10 min
+diner,20 min
+indian,people
+2,thai
+250,diner
+child,accomodation
+50,10
+20,4
+quiet place,walkable
+drive through,20
+50,type
+30 min,10
+chinese,20 min
+wheelchair,distance
+pet friendly,10 min
+30,price
+distance,4
+child,people
+drive through,walkable
+diner,quiet place
+10,20
+thai,chinese
+type,wheelchair
+50,price
+pet friendly,250
+accomodation,30
+indian,20 min
+2,20
+30 min,50
+10 min,10
+price,10
+diner,thai
+2,pet friendly
+20,drive through
+4,250
+distance,20 min
+10,50
+people,accomodation
+type,wheelchair
+20,10 min
+indian,chinese
+walkable,child
+30 min,50
+30,quiet place
+20 min,price
+people,20
+accomodation,250
+wheelchair,child
+30 min,50
+quiet place,indian
+walkable,drive through
+50,20
+10 min,pet friendly
+10,diner
+type,chinese
+distance,4
+10,thai
+2,30
+diner,20
+10 min,10
+walkable,50
+thai,type
+accomodation,10
+4,wheelchair
+people,drive through
+quiet place,chinese
+20,pet friendly
+price,30 min
+indian,distance
+child,20 min
+30,50
+2,250
+child,20
+10,people
+10,type
+250,price
+10 min,30 min
+accomodation,thai
+pet friendly,4
+20,2
+diner,indian
+50,chinese
+walkable,drive through
+30,20 min
+wheelchair,quiet place
+distance,50
+child,10
+accomodation,30 min
+20 min,distance
+chinese,50
+walkable,10
+price,drive through
+2,people
+pet friendly,indian
+type,diner
+thai,10 min
+quiet place,250
+50,4
+30,20
+wheelchair,20
+10 min,accomodation
+drive through,child
+walkable,50
+indian,10
+10,chinese
+quiet place,pet friendly
+4,20
+wheelchair,50
+people,type
+price,2
+20,thai
+250,distance
+diner,30
+30 min,20 min
+30,quiet place
+type,indian
+child,4
+10,20 min
+distance,pet friendly
+10 min,10
+people,50
+50,thai
+accomodation,20
+drive through,diner
+price,walkable
+30 min,wheelchair
+2,20
+chinese,250
+pet friendly,10
+accomodation,10 min
+250,30
+child,price
+thai,type
+distance,20
+people,50
+20 min,30 min
+10,indian
+20,2
+quiet place,walkable
+4,50
+chinese,drive through
+diner,wheelchair
+drive through,accomodation
+30 min,250
+10,pet friendly
+people,child
+walkable,30
+10 min,type
+price,wheelchair
+20 min,2
+chinese,50
+thai,4
+10,indian
+quiet place,diner
+50,distance
+20,20
+price,chinese
+10,250
+20,diner
+people,wheelchair
+quiet place,child
+thai,50
+type,30
+walkable,4
+10,10 min
+2,20 min
+30 min,pet friendly
+accomodation,distance
+50,indian
+20,drive through
+indian,30 min
+child,2
+quiet place,20 min
+wheelchair,price
+30,accomodation
+distance,10
+20,people
+pet friendly,10 min
+20,walkable
+10,chinese
+thai,50
+50,4
+250,drive through
+diner,type
+20,wheelchair
+indian,child
+10,diner
+20 min,accomodation
+10,pet friendly
+250,50
+10 min,2
+walkable,30 min
+price,people
+4,thai
+type,distance
+50,drive through
+30,quiet place
+20,chinese
+20,walkable
+2,20
+pet friendly,indian
+30 min,chinese
+people,thai
+10,type
+diner,10
+distance,price
+wheelchair,10 min
+30,quiet place
+accomodation,50
+drive through,50
+child,4
+20 min,250
+indian,20 min
+30 min,type
+2,price
+drive through,10 min
+thai,accomodation
+quiet place,10
+diner,250
+chinese,pet friendly
+child,50
+20,4
+wheelchair,people
+10,30
+walkable,50
+20,distance
+indian,type
+4,quiet place
+10 min,20 min
+250,20
+2,child
+30,accomodation
+diner,chinese
+price,people
+50,wheelchair
+50,10
+30 min,20
+pet friendly,drive through
+walkable,10
+distance,thai
+250,price
+2,50
+child,pet friendly
+diner,indian
+10,accomodation
+20,30 min
+drive through,20 min
+quiet place,chinese
+thai,people
+10 min,walkable
+type,4
+wheelchair,distance
+50,20
+10,30
+drive through,chinese
+2,20
+30,walkable
+20 min,10
+50,quiet place
+type,250
+price,10 min
+diner,4
+thai,indian
+accomodation,child
+wheelchair,distance
+people,20
+50,pet friendly
+30 min,10
+10 min,chinese
+drive through,child
+20 min,30
+diner,type
+10,quiet place
+20,30 min
+people,50
+2,walkable
+250,10
+4,distance
+pet friendly,thai
+20,wheelchair
+indian,accomodation
+50,price
+250,diner
+50,thai
+price,20 min
+quiet place,20
+50,distance
+2,10 min
+drive through,child
+4,type
+accomodation,people
+indian,30 min
+20,10
+10,walkable
+pet friendly,30
+wheelchair,chinese
+type,distance
+diner,drive through
+accomodation,50
+wheelchair,20 min
+2,quiet place
+chinese,people
+30,10 min
+4,price
+10,30 min
+20,walkable
+10,pet friendly
+child,250
+20,thai
+50,indian
+price,50
+2,people
+pet friendly,type
+250,accomodation
+50,drive through
+quiet place,20
+20,10 min
+child,chinese
+indian,4
+30,10
+wheelchair,distance
+thai,walkable
+10,30 min
+diner,20 min
+50,4
+type,20
+indian,distance
+quiet place,250
+pet friendly,10 min
+accomodation,walkable
+50,thai
+2,10
+child,20 min
+10,30 min
+chinese,wheelchair
+price,30
+people,diner
+drive through,20
+50,wheelchair
+accomodation,price
+2,distance
+10,walkable
+thai,quiet place
+indian,20 min
+chinese,pet friendly
+diner,4
+type,child
+20,10 min
+people,10
+drive through,30 min
+30,50
+20,250
+quiet place,10
+wheelchair,price
+2,250
+50,chinese
+child,diner
+walkable,distance
+10,30 min
+50,30
+people,10 min
+drive through,4
+thai,20
+accomodation,indian
+type,20 min
+pet friendly,20
+people,price
+50,20
+diner,child
+thai,wheelchair
+10 min,drive through
+20 min,20
+chinese,accomodation
+4,distance
+type,pet friendly
+quiet place,indian
+50,10
+30,250
+2,walkable
+30 min,10
+quiet place,accomodation
+20,chinese
+wheelchair,10 min
+diner,30
+2,walkable
+50,10
+thai,drive through
+people,pet friendly
+20,20 min
+child,type
+250,price
+indian,50
+30 min,10
+4,distance
+wheelchair,20 min
+30 min,20
+child,type
+walkable,people
+chinese,pet friendly
+30,2
+20,250
+10,10
+10 min,drive through
+price,50
+diner,distance
+4,indian
+accomodation,thai
+50,quiet place
+30 min,distance
+quiet place,50
+50,drive through
+10 min,30
+indian,20
+10,thai
+child,pet friendly
+accomodation,price
+chinese,20 min
+diner,walkable
+2,people
+20,10
+4,type
+wheelchair,250
+diner,price
+type,quiet place
+10 min,250
+20 min,thai
+accomodation,20
+distance,4
+chinese,20
+10,30
+wheelchair,10
+2,indian
+30 min,child
+50,walkable
+50,pet friendly
+people,drive through
+type,price
+50,pet friendly
+people,child
+50,20
+20,4
+indian,walkable
+drive through,diner
+quiet place,10
+thai,wheelchair
+accomodation,10
+250,2
+30 min,distance
+10 min,chinese
+20 min,30
+accomodation,diner
+thai,4
+50,10
+20,type
+10,pet friendly
+30,price
+distance,walkable
+wheelchair,chinese
+250,10 min
+indian,30 min
+20,50
+2,quiet place
+people,drive through
+20 min,child
+chinese,child
+quiet place,walkable
+10,50
+thai,20
+2,diner
+30 min,10 min
+distance,20 min
+accomodation,people
+4,250
+price,30
+type,pet friendly
+20,10
+wheelchair,indian
+drive through,50
+30,quiet place
+50,10
+distance,50
+price,20 min
+walkable,child
+20,type
+250,10
+chinese,2
+30 min,20
+pet friendly,indian
+wheelchair,drive through
+diner,thai
+10 min,people
+accomodation,4
+30,50
+drive through,4
+wheelchair,2
+walkable,type
+indian,20 min
+50,10 min
+accomodation,people
+chinese,thai
+quiet place,10
+30 min,10
+20,price
+250,pet friendly
+20,distance
+child,diner
+thai,20
+price,30 min
+indian,distance
+child,wheelchair
+50,20 min
+chinese,50
+drive through,walkable
+type,pet friendly
+people,quiet place
+250,diner
+10,accomodation
+10,2
+10 min,20
+4,30
+50,drive through
+10 min,pet friendly
+diner,people
+2,30 min
+indian,wheelchair
+accomodation,walkable
+10,price
+child,4
+10,20 min
+50,250
+distance,quiet place
+thai,type
+20,20
+30,chinese
+10 min,2
+price,child
+people,20
+pet friendly,30
+250,type
+30 min,50
+indian,wheelchair
+thai,20
+walkable,20 min
+drive through,distance
+50,quiet place
+accomodation,10
+diner,10
+chinese,4
+diner,wheelchair
+50,type
+30 min,thai
+quiet place,4
+250,10
+price,20
+child,drive through
+50,distance
+chinese,walkable
+accomodation,30
+2,20
+20 min,10
+pet friendly,10 min
+indian,people
+20,2
+20 min,price
+wheelchair,diner
+chinese,10 min
+indian,20
+accomodation,quiet place
+drive through,30 min
+10,30
+distance,250
+50,4
+thai,50
+pet friendly,child
+people,type
+walkable,10
+pet friendly,50
+30,price
+50,walkable
+30 min,10
+2,people
+accomodation,indian
+child,chinese
+250,type
+10 min,thai
+drive through,20 min
+4,quiet place
+distance,wheelchair
+diner,10
+20,20
+people,250
+20,10 min
+50,thai
+4,walkable
+price,distance
+20,20 min
+chinese,wheelchair
+30,indian
+child,50
+2,accomodation
+pet friendly,10
+diner,30 min
+quiet place,10
+type,drive through
+20 min,20
+people,thai
+50,20
+10 min,drive through
+indian,2
+4,wheelchair
+distance,30 min
+250,walkable
+30,chinese
+accomodation,pet friendly
+50,type
+10,price
+diner,10
+quiet place,child
+2,20
+quiet place,pet friendly
+10,drive through
+accomodation,30 min
+wheelchair,10 min
+4,indian
+child,chinese
+type,thai
+diner,50
+20,20 min
+50,price
+distance,10
+30,250
+walkable,people
+thai,walkable
+quiet place,indian
+accomodation,diner
+distance,50
+20,child
+2,20 min
+50,price
+250,wheelchair
+20,10
+drive through,10
+10 min,type
+4,30
+chinese,pet friendly
+people,30 min
+quiet place,20
+pet friendly,people
+30,10
+drive through,child
+20,walkable
+2,wheelchair
+thai,30 min
+4,50
+diner,50
+type,10
+price,chinese
+accomodation,250
+20 min,indian
+distance,10 min
+pet friendly,wheelchair
+50,distance
+20 min,diner
+type,chinese
+drive through,30 min
+10 min,quiet place
+10,2
+20,child
+10,walkable
+indian,thai
+30,people
+price,4
+250,20
+accomodation,50
+type,wheelchair
+20,child
+price,20 min
+10,drive through
+people,chinese
+20,50
+pet friendly,30
+distance,thai
+4,10 min
+250,indian
+diner,accomodation
+2,50
+walkable,quiet place
+30 min,10
+pet friendly,2
+10 min,price
+50,diner
+20,thai
+30 min,distance
+quiet place,20 min
+drive through,accomodation
+30,10
+people,20
+50,10
+4,indian
+wheelchair,child
+chinese,walkable
+250,type
+pet friendly,2
+drive through,20 min
+chinese,quiet place
+10,wheelchair
+10 min,20
+walkable,distance
+10,250
+30,diner
+30 min,people
+thai,50
+child,4
+accomodation,20
+50,indian
+type,price
+indian,walkable
+10,50
+10,30 min
+thai,diner
+20,type
+quiet place,chinese
+distance,250
+price,50
+wheelchair,10 min
+child,people
+20 min,2
+drive through,pet friendly
+accomodation,30
+4,20
+10 min,accomodation
+pet friendly,20
+30,diner
+indian,child
+10,people
+30 min,50
+250,distance
+walkable,20 min
+2,wheelchair
+type,thai
+50,price
+quiet place,drive through
+chinese,4
+20,10
+thai,10
+50,child
+indian,20 min
+wheelchair,drive through
+20,accomodation
+people,price
+4,type
+quiet place,50
+walkable,diner
+30 min,20
+distance,10
+pet friendly,250
+2,10 min
+chinese,30
+type,10
+50,10
+wheelchair,indian
+2,thai
+diner,4
+price,10 min
+walkable,50
+250,drive through
+20,20 min
+child,20
+quiet place,people
+30 min,pet friendly
+distance,30
+accomodation,chinese
+20,4
+50,20 min
+250,20
+30 min,10 min
+30,diner
+distance,50
+price,2
+thai,pet friendly
+10,indian
+10,child
+chinese,wheelchair
+type,people
+walkable,drive through
+accomodation,quiet place
+price,10 min
+chinese,quiet place
+indian,thai
+walkable,20 min
+drive through,250
+4,10
+2,50
+accomodation,type
+30 min,20
+distance,wheelchair
+pet friendly,10
+30,diner
+20,50
+child,people
+thai,accomodation
+chinese,10 min
+20 min,people
+30,drive through
+quiet place,child
+2,type
+indian,50
+20,20
+10,diner
+pet friendly,50
+4,walkable
+distance,30 min
+10,250
+wheelchair,price
+diner,accomodation
+50,4
+people,30 min
+20 min,10 min
+indian,distance
+thai,250
+50,10
+pet friendly,wheelchair
+type,child
+10,drive through
+chinese,2
+30,walkable
+price,20
+20,quiet place
+30,50
+quiet place,accomodation
+walkable,250
+people,distance
+50,20
+type,20
+20 min,2
+indian,price
+drive through,10
+10 min,diner
+4,pet friendly
+wheelchair,30 min
+chinese,thai
+10,child
+20,wheelchair
+accomodation,2
+child,250
+thai,price
+50,walkable
+30 min,drive through
+people,indian
+diner,50
+quiet place,chinese
+type,distance
+10,30
+pet friendly,10
+10 min,20 min
+20,4
+accomodation,50
+20 min,chinese
+type,diner
+30 min,pet friendly
+4,thai
+child,distance
+2,10
+250,indian
+20,quiet place
+30,drive through
+10,50
+wheelchair,people
+walkable,10 min
+20,price
+accomodation,wheelchair
+30,drive through
+10,pet friendly
+walkable,people
+distance,20 min
+30 min,50
+type,child
+10,50
+thai,price
+20,2
+chinese,20
+250,quiet place
+indian,diner
+10 min,4
+type,thai
+wheelchair,quiet place
+child,30 min
+diner,50
+walkable,20
+distance,10 min
+250,10
+people,pet friendly
+chinese,accomodation
+10,20
+20 min,indian
+50,30
+2,price
+drive through,4
+10,walkable
+people,10 min
+10,50
+20,30
+2,20 min
+price,30 min
+250,indian
+20,diner
+wheelchair,thai
+drive through,chinese
+child,distance
+type,4
+pet friendly,50
+accomodation,quiet place
+20,walkable
+wheelchair,child
+distance,type
+30 min,50
+people,pet friendly
+10,diner
+250,accomodation
+2,price
+4,50
+drive through,10
+thai,quiet place
+20 min,10 min
+20,chinese
+30,indian
+20,quiet place
+10,pet friendly
+child,type
+wheelchair,4
+thai,50
+30 min,price
+chinese,distance
+drive through,accomodation
+diner,250
+20 min,10 min
+people,30
+walkable,20
+50,10
+2,indian
+250,wheelchair
+people,20 min
+accomodation,drive through
+10,chinese
+quiet place,20
+50,pet friendly
+4,10 min
+20,price
+type,walkable
+2,50
+child,30
+30 min,indian
+distance,thai
+10,diner
+pet friendly,10
+10 min,chinese
+indian,thai
+price,10
+type,20
+people,50
+distance,250
+wheelchair,quiet place
+accomodation,20
+2,30
+4,child
+walkable,30 min
+20 min,50
+diner,drive through
+50,4
+accomodation,drive through
+30 min,chinese
+type,50
+20 min,walkable
+indian,child
+10,wheelchair
+price,20
+quiet place,pet friendly
+10,thai
+10 min,2
+30,diner
+20,distance
+people,250
+diner,chinese
+accomodation,distance
+drive through,thai
+50,10
+10,price
+quiet place,30
+30 min,pet friendly
+4,wheelchair
+2,50
+people,250
+walkable,20
+20,type
+20 min,10 min
+child,indian
+people,drive through
+thai,30 min
+accomodation,30
+price,4
+quiet place,diner
+child,pet friendly
+2,250
+20 min,10
+10 min,walkable
+20,distance
+50,wheelchair
+chinese,20
+type,indian
+50,10
+thai,quiet place
+10,indian
+chinese,30 min
+walkable,price
+20 min,drive through
+people,30
+wheelchair,10 min
+pet friendly,accomodation
+child,10
+50,diner
+20,250
+50,4
+type,2
+20,distance
+walkable,50
+price,accomodation
+distance,child
+chinese,indian
+people,50
+type,10
+pet friendly,20
+10,4
+quiet place,10 min
+2,drive through
+20,wheelchair
+30 min,diner
+20 min,30
+thai,250
+child,20
+30,wheelchair
+50,distance
+10 min,diner
+20 min,10
+accomodation,walkable
+20,quiet place
+2,drive through
+4,30 min
+thai,50
+indian,pet friendly
+chinese,type
+250,10
+price,people
+10,indian
+50,30
+2,50
+quiet place,diner
+thai,pet friendly
+250,accomodation
+20 min,drive through
+walkable,chinese
+10,price
+type,distance
+child,20
+people,10 min
+4,wheelchair
+30 min,20
+30,walkable
+50,distance
+quiet place,30 min
+people,10 min
+250,drive through
+4,2
+pet friendly,diner
+20 min,20
+thai,wheelchair
+indian,10
+child,chinese
+50,accomodation
+price,type
+20,10
+30 min,10
+child,20
+2,pet friendly
+indian,people
+20 min,diner
+price,thai
+walkable,10 min
+20,10
+50,distance
+wheelchair,drive through
+30,250
+accomodation,type
+50,quiet place
+4,chinese
+walkable,diner
+distance,child
+people,thai
+type,wheelchair
+drive through,20
+20,50
+30,2
+250,pet friendly
+10,4
+20 min,quiet place
+chinese,30 min
+indian,price
+50,10 min
+accomodation,10
+distance,accomodation
+50,drive through
+20 min,child
+30,quiet place
+50,10 min
+walkable,10
+chinese,people
+10,30 min
+20,thai
+20,pet friendly
+4,type
+wheelchair,250
+2,indian
+price,diner
+10,50
+type,child
+50,quiet place
+distance,wheelchair
+20 min,20
+accomodation,20
+chinese,250
+2,indian
+drive through,10 min
+price,diner
+pet friendly,people
+walkable,thai
+30 min,30
+4,10
+thai,50
+20,20 min
+chinese,diner
+people,30 min
+child,drive through
+10,2
+quiet place,10 min
+indian,30
+type,walkable
+250,pet friendly
+4,10
+distance,wheelchair
+price,20
+50,accomodation
+diner,child
+accomodation,type
+2,30 min
+250,drive through
+10,4
+30,50
+20 min,walkable
+price,50
+pet friendly,10 min
+indian,distance
+10,thai
+20,chinese
+20,quiet place
+people,wheelchair
+quiet place,50
+30,distance
+chinese,walkable
+indian,drive through
+20,thai
+50,10
+people,pet friendly
+accomodation,price
+4,diner
+30 min,wheelchair
+250,20 min
+2,10 min
+child,10
+type,20
+accomodation,20
+250,10
+type,drive through
+50,wheelchair
+child,indian
+chinese,diner
+walkable,pet friendly
+30,people
+20,50
+price,quiet place
+thai,10
+2,distance
+4,20 min
+30 min,10 min
+diner,30
+wheelchair,accomodation
+people,50
+drive through,chinese
+price,2
+20 min,walkable
+child,thai
+pet friendly,distance
+type,250
+quiet place,10
+10,20
+indian,30 min
+50,4
+20,10 min
+30 min,price
+quiet place,thai
+50,10 min
+4,child
+people,walkable
+diner,2
+30,20
+250,10
+20,chinese
+10,type
+pet friendly,accomodation
+20 min,50
+drive through,indian
+distance,wheelchair
+20,quiet place
+accomodation,indian
+30,type
+20,thai
+price,drive through
+people,50
+50,4
+2,10
+10 min,wheelchair
+pet friendly,distance
+250,child
+chinese,10
+20 min,walkable
+diner,30 min
+30 min,4
+price,20 min
+20,30
+pet friendly,accomodation
+250,child
+diner,indian
+50,10 min
+chinese,10
+distance,50
+wheelchair,20
+quiet place,people
+walkable,type
+10,drive through
+thai,2
+pet friendly,50
+10 min,quiet place
+20,price
+child,type
+30 min,walkable
+chinese,2
+20 min,people
+30,distance
+drive through,250
+diner,indian
+4,wheelchair
+thai,50
+10,20
+10,accomodation
+30,50
+chinese,accomodation
+walkable,wheelchair
+20 min,diner
+quiet place,30 min
+10 min,drive through
+price,50
+2,child
+pet friendly,10
+250,4
+20,indian
+20,people
+distance,10
+type,thai
+child,distance
+10 min,chinese
+quiet place,price
+drive through,diner
+2,4
+walkable,pet friendly
+accomodation,indian
+30,people
+wheelchair,20
+type,50
+250,30 min
+20,20 min
+50,thai
+10,10
+indian,drive through
+10 min,4
+50,2
+30 min,20
+10,30
+chinese,child
+price,distance
+walkable,type
+accomodation,thai
+diner,wheelchair
+pet friendly,people
+20,20 min
+10,250
+50,quiet place
+child,250
+20,distance
+30,50
+accomodation,walkable
+people,10
+diner,price
+10,2
+10 min,indian
+thai,20 min
+drive through,50
+4,quiet place
+type,wheelchair
+30 min,chinese
+20,pet friendly
+thai,wheelchair
+20,10
+20,10 min
+4,distance
+pet friendly,30
+walkable,type
+250,accomodation
+people,child
+diner,drive through
+chinese,quiet place
+30 min,20 min
+10,indian
+price,2
+50,50
+pet friendly,indian
+diner,price
+people,10
+30,50
+20,type
+30 min,quiet place
+thai,distance
+chinese,2
+4,child
+20,drive through
+10 min,20 min
+walkable,250
+wheelchair,50
+10,accomodation
+20,type
+10,20 min
+quiet place,accomodation
+4,10 min
+drive through,thai
+50,pet friendly
+walkable,indian
+30,wheelchair
+30 min,diner
+20,distance
+250,chinese
+2,10
+price,child
+50,people
+10,30
+50,20
+20,diner
+thai,50
+250,30 min
+distance,10
+drive through,indian
+type,child
+quiet place,chinese
+10 min,pet friendly
+4,people
+accomodation,wheelchair
+walkable,20 min
+2,price
+10,quiet place
+10,walkable
+20 min,wheelchair
+type,price
+accomodation,50
+indian,30
+people,thai
+250,drive through
+4,pet friendly
+20,10 min
+20,chinese
+distance,50
+child,diner
+30 min,2
+quiet place,wheelchair
+30 min,50
+50,diner
+indian,20 min
+chinese,20
+drive through,pet friendly
+10 min,30
+10,walkable
+4,20
+250,10
+accomodation,price
+type,thai
+2,people
+child,distance
+drive through,child
+250,20
+chinese,distance
+diner,50
+indian,50
+2,30
+people,accomodation
+price,wheelchair
+type,quiet place
+4,10
+pet friendly,10 min
+walkable,thai
+10,20
+20 min,30 min
+50,4
+price,20
+10,drive through
+indian,30
+type,2
+distance,50
+chinese,walkable
+people,thai
+pet friendly,10
+250,20 min
+10 min,wheelchair
+quiet place,30 min
+20,child
+diner,accomodation
+20 min,accomodation
+type,quiet place
+pet friendly,30
+chinese,250
+2,distance
+people,wheelchair
+price,50
+thai,20
+indian,4
+walkable,drive through
+20,10
+diner,50
+10 min,10
+30 min,child
+4,20 min
+walkable,child
+250,price
+pet friendly,10 min
+20,type
+2,drive through
+10,chinese
+20,30
+30 min,distance
+indian,quiet place
+accomodation,50
+50,10
+people,thai
+diner,wheelchair
+accomodation,250
+type,2
+50,walkable
+10 min,10
+30 min,50
+30,indian
+4,child
+20,10
+price,drive through
+diner,distance
+wheelchair,pet friendly
+20,20 min
+thai,chinese
+people,quiet place
+4,30 min
+10,quiet place
+2,20
+price,chinese
+diner,wheelchair
+250,20
+accomodation,drive through
+pet friendly,type
+10 min,walkable
+50,child
+indian,50
+30,10
+distance,20 min
+people,thai
+child,indian
+wheelchair,250
+50,10 min
+people,50
+20,4
+30,10
+chinese,drive through
+10,walkable
+accomodation,30 min
+diner,20 min
+thai,distance
+2,price
+quiet place,20
+type,pet friendly
+30,chinese
+20 min,4
+2,type
+250,10 min
+50,50
+thai,price
+20,10
+distance,pet friendly
+20,walkable
+10,quiet place
+accomodation,drive through
+child,diner
+people,wheelchair
+indian,30 min
+accomodation,20 min
+30 min,people
+10 min,pet friendly
+10,30
+2,250
+type,10
+diner,wheelchair
+chinese,walkable
+distance,quiet place
+50,indian
+thai,drive through
+price,50
+20,20
+child,4
+10,walkable
+drive through,4
+2,distance
+50,250
+people,wheelchair
+child,20
+type,indian
+50,chinese
+thai,10 min
+10,20
+price,diner
+quiet place,accomodation
+pet friendly,30 min
+30,20 min
+child,drive through
+chinese,20
+wheelchair,pet friendly
+walkable,50
+accomodation,diner
+30,20 min
+indian,type
+2,thai
+20,4
+price,people
+distance,quiet place
+10,10 min
+30 min,10
+250,50
+price,10
+quiet place,wheelchair
+thai,distance
+walkable,chinese
+indian,drive through
+50,child
+20,20 min
+250,30
+2,4
+accomodation,10 min
+people,pet friendly
+20,50
+type,30 min
+10,diner
+250,50
+accomodation,50
+type,30
+20 min,people
+diner,price
+drive through,distance
+walkable,chinese
+20,thai
+pet friendly,indian
+4,10 min
+10,2
+quiet place,20
+10,wheelchair
+child,30 min
+child,20
+10,thai
+10 min,250
+pet friendly,distance
+30,type
+chinese,4
+10,indian
+price,2
+quiet place,drive through
+50,50
+wheelchair,people
+accomodation,20
+30 min,20 min
+walkable,diner
+30 min,10
+4,20 min
+quiet place,accomodation
+30,chinese
+indian,type
+pet friendly,diner
+walkable,250
+50,price
+20,2
+50,10 min
+10,child
+thai,distance
+20,drive through
+people,wheelchair
+price,indian
+20 min,drive through
+250,pet friendly
+50,diner
+chinese,type
+4,10
+accomodation,2
+quiet place,wheelchair
+distance,10 min
+20,30
+child,10
+20,thai
+30 min,50
+walkable,people
+250,wheelchair
+diner,walkable
+accomodation,30 min
+30,distance
+people,10
+20,chinese
+thai,4
+10 min,50
+price,20 min
+10,child
+indian,quiet place
+pet friendly,type
+2,drive through
+20,50
+price,wheelchair
+pet friendly,4
+distance,walkable
+accomodation,2
+20 min,quiet place
+20,diner
+30 min,child
+thai,10 min
+chinese,30
+10,250
+20,drive through
+type,50
+10,people
+indian,50
+20,10 min
+people,30 min
+child,250
+30,20
+wheelchair,distance
+20 min,walkable
+diner,thai
+accomodation,2
+10,chinese
+indian,50
+50,type
+price,10
+drive through,pet friendly
+4,quiet place
+50,30
+2,price
+quiet place,20
+50,20
+diner,walkable
+people,250
+drive through,10
+indian,pet friendly
+10 min,4
+thai,10
+wheelchair,accomodation
+distance,20 min
+child,chinese
+type,30 min
+child,quiet place
+4,accomodation
+30 min,people
+50,20
+30,10
+10,walkable
+pet friendly,type
+20 min,10 min
+20,thai
+diner,50
+chinese,drive through
+price,250
+distance,indian
+2,wheelchair
+20,20 min
+10,2
+250,price
+accomodation,20
+distance,people
+50,4
+30,child
+30 min,diner
+chinese,wheelchair
+drive through,indian
+10 min,pet friendly
+50,thai
+quiet place,10
+type,walkable
+price,walkable
+indian,child
+pet friendly,20
+50,distance
+10,50
+250,30 min
+diner,20 min
+drive through,30
+10 min,people
+quiet place,2
+accomodation,10
+wheelchair,chinese
+4,thai
+type,20
+30,indian
+quiet place,4
+20,10 min
+thai,pet friendly
+walkable,20 min
+10,10
+price,2
+type,50
+distance,250
+child,diner
+chinese,20
+people,30 min
+wheelchair,drive through
+accomodation,50
+20,30
+50,price
+distance,child
+10,thai
+people,diner
+drive through,20 min
+chinese,10
+wheelchair,250
+50,pet friendly
+30 min,2
+type,walkable
+4,20
+accomodation,10 min
+quiet place,indian
+4,20
+2,people
+20,pet friendly
+thai,quiet place
+indian,type
+250,30
+10,50
+10 min,diner
+distance,chinese
+child,walkable
+price,50
+drive through,20 min
+wheelchair,accomodation
+10,30 min
+accomodation,50
+drive through,child
+30,250
+30 min,type
+price,quiet place
+50,diner
+chinese,walkable
+20 min,pet friendly
+people,20
+10 min,thai
+10,wheelchair
+indian,2
+4,20
+distance,10
+10,250
+child,walkable
+thai,10 min
+10,wheelchair
+20 min,diner
+4,pet friendly
+price,people
+30,chinese
+type,quiet place
+distance,2
+indian,50
+20,50
+drive through,30 min
+accomodation,20
+30,walkable
+quiet place,thai
+diner,indian
+people,4
+distance,20
+price,20
+250,50
+wheelchair,10 min
+10,child
+50,type
+drive through,20 min
+chinese,pet friendly
+accomodation,2
+10,30 min
+30 min,drive through
+chinese,20
+10,10
+50,indian
+2,quiet place
+thai,accomodation
+30,pet friendly
+people,10 min
+250,distance
+20 min,4
+type,price
+walkable,wheelchair
+child,diner
+50,20
+20,drive through
+accomodation,50
+people,4
+indian,thai
+pet friendly,type
+30 min,30
+10,250
+50,10
+10 min,distance
+2,chinese
+20 min,child
+20,price
+wheelchair,walkable
+quiet place,diner
+10,2
+chinese,20 min
+thai,50
+30 min,type
+accomodation,drive through
+30,price
+distance,people
+20,250
+indian,pet friendly
+50,walkable
+child,diner
+10,quiet place
+10 min,4
+20,wheelchair
+child,drive through
+20,distance
+250,price
+thai,chinese
+indian,50
+2,wheelchair
+diner,people
+30 min,20 min
+10,accomodation
+4,10 min
+quiet place,20
+walkable,50
+30,pet friendly
+type,10
+20 min,10
+distance,chinese
+walkable,accomodation
+20,4
+price,50
+quiet place,50
+2,10 min
+child,thai
+indian,people
+30 min,pet friendly
+250,30
+10,20
+drive through,wheelchair
+type,diner
+people,chinese
+thai,price
+diner,30
+20 min,drive through
+2,pet friendly
+50,20
+child,distance
+30 min,quiet place
+accomodation,250
+10,type
+walkable,10
+wheelchair,4
+20,50
+10 min,indian
+walkable,child
+diner,wheelchair
+50,type
+price,thai
+accomodation,indian
+10 min,50
+20,quiet place
+10,pet friendly
+people,4
+20,10
+20 min,30
+250,chinese
+drive through,2
+distance,30 min
+type,4
+distance,walkable
+price,10
+10,30
+thai,20 min
+accomodation,wheelchair
+drive through,50
+50,pet friendly
+people,2
+10 min,indian
+20,child
+250,30 min
+diner,quiet place
+chinese,20
+diner,indian
+20,price
+chinese,people
+walkable,50
+2,thai
+pet friendly,type
+4,30 min
+child,10
+20 min,quiet place
+drive through,10
+30,250
+accomodation,20
+50,distance
+10 min,wheelchair
+distance,wheelchair
+2,chinese
+20 min,diner
+50,indian
+child,thai
+people,quiet place
+10,250
+20,pet friendly
+type,drive through
+4,20
+walkable,10 min
+10,30 min
+price,30
+accomodation,50
+pet friendly,child
+10 min,distance
+50,walkable
+type,accomodation
+wheelchair,price
+4,thai
+250,30 min
+10,20 min
+indian,drive through
+50,quiet place
+people,diner
+2,30
+20,20
+10,chinese
+price,10 min
+50,type
+chinese,diner
+2,wheelchair
+indian,accomodation
+people,250
+pet friendly,10
+thai,50
+30 min,child
+10,drive through
+distance,20
+4,walkable
+quiet place,20 min
+20,30
+wheelchair,distance
+20,50
+4,50
+quiet place,pet friendly
+20 min,10
+30 min,30
+drive through,price
+thai,child
+2,diner
+250,people
+10,walkable
+accomodation,chinese
+type,10 min
+indian,20
+distance,30
+price,2
+pet friendly,4
+250,wheelchair
+indian,thai
+20,50
+chinese,people
+accomodation,diner
+10,30 min
+drive through,10 min
+20,quiet place
+walkable,type
+child,10
+20 min,50
+20,chinese
+4,quiet place
+pet friendly,50
+drive through,thai
+2,walkable
+people,diner
+10 min,distance
+50,30 min
+10,20
+250,30
+child,20 min
+price,indian
+type,accomodation
+wheelchair,10
+chinese,2
+30,pet friendly
+wheelchair,50
+4,10
+distance,child
+10,20 min
+indian,accomodation
+30 min,250
+type,10 min
+thai,20
+diner,walkable
+price,quiet place
+people,20
+drive through,50
+child,price
+20,quiet place
+people,20 min
+drive through,50
+thai,chinese
+10 min,30
+type,distance
+10,indian
+20,10
+50,pet friendly
+4,diner
+250,2
+wheelchair,30 min
+accomodation,walkable
+50,walkable
+accomodation,child
+2,price
+drive through,distance
+wheelchair,pet friendly
+4,10
+20,chinese
+thai,10 min
+10,30 min
+20 min,20
+30,people
+type,250
+diner,indian
+quiet place,50
+accomodation,pet friendly
+quiet place,indian
+child,50
+type,chinese
+walkable,10
+30,2
+250,price
+10 min,20
+30 min,thai
+4,diner
+20 min,50
+10,people
+distance,wheelchair
+20,drive through
+50,250
+drive through,child
+thai,2
+wheelchair,4
+pet friendly,10
+30 min,distance
+diner,10
+50,type
+walkable,20
+20 min,people
+price,indian
+quiet place,chinese
+accomodation,30
+20,10 min
+250,indian
+child,20
+50,quiet place
+diner,30 min
+20,distance
+accomodation,10
+chinese,wheelchair
+type,people
+price,pet friendly
+10 min,2
+4,50
+thai,30
+drive through,walkable
+20 min,10
+4,10
+people,2
+20,wheelchair
+20 min,pet friendly
+accomodation,indian
+chinese,distance
+250,50
+20,30 min
+10 min,price
+diner,child
+drive through,walkable
+thai,type
+30,quiet place
+10,50
+50,chinese
+2,4
+30 min,type
+20,30
+drive through,10 min
+walkable,10
+50,price
+wheelchair,thai
+child,quiet place
+diner,10
+20,indian
+20 min,people
+pet friendly,accomodation
+250,distance
+20 min,diner
+30,walkable
+20,price
+4,indian
+quiet place,child
+50,drive through
+pet friendly,10 min
+50,thai
+2,20
+chinese,10
+accomodation,250
+10,people
+30 min,wheelchair
+distance,type
+diner,price
+2,quiet place
+30 min,30
+20 min,people
+10,walkable
+chinese,accomodation
+20,4
+type,child
+pet friendly,drive through
+thai,50
+distance,10 min
+20,10
+wheelchair,250
+indian,50
+30 min,10
+50,people
+250,thai
+10 min,walkable
+drive through,20
+4,wheelchair
+50,type
+20 min,pet friendly
+distance,child
+diner,30
+price,chinese
+20,accomodation
+quiet place,2
+10,indian
+drive through,accomodation
+diner,wheelchair
+50,50
+distance,20
+10 min,4
+price,indian
+type,30 min
+people,10
+chinese,250
+pet friendly,2
+walkable,20 min
+child,thai
+20,quiet place
+30,10
+250,20
+drive through,indian
+4,50
+10,quiet place
+2,type
+20 min,distance
+price,50
+chinese,30
+accomodation,diner
+30 min,walkable
+wheelchair,thai
+pet friendly,20
+people,10 min
+10,child
+accomodation,20 min
+50,price
+people,10
+50,diner
+drive through,indian
+pet friendly,distance
+child,250
+30 min,quiet place
+30,10
+type,20
+thai,walkable
+20,2
+4,chinese
+10 min,wheelchair
+4,20 min
+wheelchair,50
+20,thai
+10,20
+type,chinese
+child,indian
+walkable,50
+people,pet friendly
+diner,30
+10 min,drive through
+30 min,accomodation
+10,2
+price,distance
+quiet place,250
+pet friendly,quiet place
+20,diner
+type,2
+distance,chinese
+price,20 min
+drive through,20
+50,50
+thai,child
+people,30
+wheelchair,10
+10 min,accomodation
+4,10
+walkable,250
+30 min,indian
+20,pet friendly
+20 min,2
+diner,10 min
+price,child
+10,10
+walkable,50
+quiet place,chinese
+thai,30 min
+drive through,distance
+30,people
+20,indian
+wheelchair,50
+250,accomodation
+4,type
+indian,50
+30,10
+pet friendly,distance
+10,wheelchair
+child,drive through
+people,quiet place
+10 min,50
+price,chinese
+2,accomodation
+walkable,20
+20 min,250
+30 min,20
+thai,4
+diner,type
+250,child
+quiet place,thai
+indian,10
+accomodation,50
+20,people
+diner,20 min
+price,distance
+type,wheelchair
+drive through,pet friendly
+4,chinese
+2,50
+10 min,walkable
+10,30 min
+20,30
+4,10
+wheelchair,walkable
+pet friendly,10 min
+child,quiet place
+10,250
+20 min,2
+price,drive through
+30 min,20
+30,accomodation
+20,chinese
+diner,people
+indian,distance
+thai,50
+type,50
+10,walkable
+4,distance
+30,price
+child,30 min
+people,indian
+250,20
+20 min,quiet place
+50,diner
+accomodation,pet friendly
+type,10
+wheelchair,drive through
+50,2
+chinese,20
+thai,10 min
+people,20
+drive through,250
+10 min,distance
+50,30 min
+2,quiet place
+accomodation,type
+20 min,indian
+walkable,price
+4,20
+30,diner
+10,chinese
+wheelchair,pet friendly
+child,10
+50,thai
+walkable,50
+10,20
+quiet place,thai
+wheelchair,diner
+pet friendly,250
+20 min,price
+30 min,4
+2,indian
+drive through,10 min
+accomodation,type
+30,20
+distance,people
+10,chinese
+50,child
+accomodation,thai
+10,20
+30,people
+20,indian
+4,chinese
+drive through,250
+10 min,walkable
+quiet place,10
+diner,50
+20 min,wheelchair
+distance,2
+price,child
+type,30 min
+50,pet friendly
+chinese,drive through
+child,thai
+people,walkable
+wheelchair,10
+20,10 min
+50,price
+30 min,4
+quiet place,30
+accomodation,distance
+2,indian
+20 min,250
+diner,type
+50,pet friendly
+10,20
+10,10 min
+wheelchair,drive through
+accomodation,people
+thai,20
+20,50
+distance,30 min
+pet friendly,250
+2,walkable
+type,4
+diner,child
+10,30
+quiet place,price
+chinese,50
+20 min,indian
+price,child
+diner,2
+accomodation,20
+pet friendly,250
+10,50
+thai,type
+20 min,10 min
+indian,30 min
+wheelchair,20
+walkable,10
+distance,50
+quiet place,people
+30,chinese
+drive through,4
+50,20 min
+people,thai
+250,chinese
+20,4
+20,30 min
+quiet place,type
+10,diner
+distance,accomodation
+walkable,30
+price,10
+indian,wheelchair
+50,pet friendly
+child,10 min
+drive through,2
+10,drive through
+2,10 min
+people,accomodation
+50,10
+50,type
+distance,30 min
+thai,walkable
+indian,diner
+4,price
+child,30
+chinese,pet friendly
+20 min,20
+wheelchair,20
+250,quiet place
+10,distance
+30 min,wheelchair
+10 min,people
+4,drive through
+20,diner
+child,pet friendly
+30,quiet place
+accomodation,indian
+50,10
+type,2
+price,250
+50,20 min
+chinese,thai
+20,walkable
+30,walkable
+price,4
+indian,child
+diner,wheelchair
+chinese,20 min
+50,50
+20,10 min
+2,10
+people,10
+distance,250
+type,20
+pet friendly,30 min
+accomodation,drive through
+thai,quiet place
+10,20
+people,4
+30,20 min
+child,2
+distance,10 min
+diner,50
+price,type
+wheelchair,30 min
+250,10
+chinese,accomodation
+thai,drive through
+50,walkable
+20,pet friendly
+quiet place,indian
+10,50
+20 min,pet friendly
+250,distance
+price,10
+20,drive through
+thai,type
+diner,wheelchair
+people,indian
+accomodation,30
+30 min,50
+20,walkable
+4,quiet place
+child,10 min
+chinese,2
+distance,price
+10 min,10
+pet friendly,child
+30 min,250
+20 min,drive through
+thai,indian
+30,accomodation
+10,diner
+20,2
+walkable,20
+people,wheelchair
+50,50
+chinese,quiet place
+type,4
+30,10 min
+20 min,20
+people,2
+indian,walkable
+quiet place,10
+diner,4
+type,50
+distance,price
+chinese,drive through
+thai,accomodation
+pet friendly,10
+30 min,wheelchair
+child,20
+50,250
+30 min,walkable
+10 min,30
+distance,diner
+20,10
+type,child
+chinese,10
+drive through,accomodation
+2,20
+250,pet friendly
+thai,indian
+50,4
+20 min,price
+quiet place,people
+50,wheelchair
+people,indian
+20,10
+20 min,chinese
+wheelchair,10 min
+pet friendly,30
+drive through,walkable
+thai,2
+type,child
+50,diner
+30 min,50
+price,accomodation
+distance,250
+quiet place,20
+4,10
+20,indian
+2,diner
+30,10 min
+accomodation,child
+10,50
+chinese,walkable
+distance,250
+wheelchair,50
+4,quiet place
+drive through,type
+people,20 min
+20,pet friendly
+10,thai
+30 min,price
+quiet place,walkable
+30,4
+chinese,diner
+pet friendly,50
+50,type
+wheelchair,accomodation
+thai,20 min
+drive through,20
+10,2
+people,price
+child,indian
+20,10
+distance,30 min
+10 min,250
+type,20 min
+indian,10
+distance,20
+50,2
+250,chinese
+drive through,10
+10 min,20
+people,walkable
+4,wheelchair
+50,accomodation
+price,pet friendly
+quiet place,30
+30 min,diner
+child,thai
+4,chinese
+30 min,accomodation
+type,drive through
+indian,20 min
+50,child
+pet friendly,50
+price,10
+20,2
+10,diner
+thai,10 min
+250,distance
+people,quiet place
+walkable,wheelchair
+30,20
+type,4
+wheelchair,20
+chinese,quiet place
+20 min,pet friendly
+30 min,20
+distance,thai
+child,people
+10,drive through
+30,indian
+10,10 min
+50,50
+price,diner
+walkable,accomodation
+2,250
+30,30 min
+child,20
+walkable,10 min
+type,pet friendly
+chinese,20 min
+50,diner
+2,thai
+price,wheelchair
+distance,people
+drive through,250
+indian,quiet place
+10,10
+accomodation,50
+4,20
+type,20 min
+wheelchair,20
+indian,50
+30 min,10
+4,accomodation
+50,distance
+chinese,250
+2,10 min
+20,quiet place
+people,pet friendly
+30,child
+10,price
+walkable,diner
+thai,drive through
+50,250
+type,10
+30,chinese
+2,walkable
+10 min,distance
+quiet place,10
+drive through,20
+wheelchair,30 min
+child,thai
+20,20 min
+price,people
+50,diner
+indian,4
+pet friendly,accomodation
+child,type
+quiet place,10
+accomodation,10 min
+drive through,20 min
+thai,10
+2,walkable
+20,diner
+indian,4
+50,pet friendly
+30 min,price
+20,30
+50,wheelchair
+people,chinese
+250,distance
+30 min,2
+50,4
+type,20
+walkable,20
+250,quiet place
+child,indian
+10,chinese
+diner,distance
+50,thai
+10 min,people
+accomodation,drive through
+pet friendly,price
+20 min,wheelchair
+30,10
+30,drive through
+20,2
+child,50
+type,50
+10,pet friendly
+20,diner
+10,4
+indian,price
+distance,quiet place
+30 min,accomodation
+thai,250
+walkable,chinese
+10 min,people
+wheelchair,20 min
+10,20 min
+250,price
+type,quiet place
+10,thai
+20,pet friendly
+diner,30
+wheelchair,20
+2,10 min
+distance,50
+drive through,walkable
+30 min,indian
+chinese,accomodation
+child,4
+50,people
+quiet place,thai
+250,20
+50,accomodation
+20,price
+diner,50
+walkable,drive through
+distance,4
+indian,10 min
+people,2
+pet friendly,10
+chinese,child
+30,wheelchair
+20 min,30 min
+type,10
+chinese,accomodation
+20,50
+quiet place,diner
+wheelchair,30 min
+250,20
+10,walkable
+2,50
+indian,child
+distance,10
+4,people
+20 min,30
+pet friendly,drive through
+thai,type
+price,10 min
+20 min,chinese
+pet friendly,distance
+50,people
+diner,250
+20,walkable
+type,2
+wheelchair,accomodation
+4,50
+quiet place,10 min
+30 min,10
+thai,drive through
+child,30
+10,price
+indian,20
+30,child
+accomodation,wheelchair
+price,indian
+type,250
+distance,20
+20 min,50
+50,10
+10,diner
+20,quiet place
+2,thai
+pet friendly,10 min
+30 min,4
+walkable,drive through
+people,chinese
+20 min,accomodation
+4,50
+walkable,10
+price,chinese
+quiet place,people
+type,50
+indian,20
+30,distance
+250,thai
+diner,2
+drive through,30 min
+child,pet friendly
+20,10
+wheelchair,10 min
+quiet place,indian
+20,people
+thai,chinese
+250,child
+50,price
+drive through,10 min
+diner,30
+distance,20
+accomodation,10
+20 min,type
+10,wheelchair
+walkable,30 min
+pet friendly,4
+2,50
+20,wheelchair
+10,50
+distance,20 min
+50,2
+pet friendly,drive through
+250,child
+type,10
+thai,chinese
+walkable,quiet place
+accomodation,20
+10 min,indian
+people,30
+diner,4
+price,30 min
+30,10
+2,drive through
+type,50
+10 min,30 min
+10,20
+20,indian
+quiet place,thai
+chinese,people
+diner,50
+child,pet friendly
+20 min,250
+walkable,price
+distance,wheelchair
+accomodation,4
+distance,indian
+2,pet friendly
+people,20 min
+20,30 min
+diner,chinese
+50,250
+child,10
+walkable,price
+10 min,wheelchair
+drive through,type
+20,10
+50,30
+quiet place,thai
+accomodation,4
+type,distance
+10,250
+walkable,wheelchair
+20,quiet place
+price,4
+indian,20 min
+child,thai
+2,chinese
+accomodation,50
+drive through,diner
+20,30 min
+pet friendly,10
+people,50
+10 min,30
+10,10 min
+indian,drive through
+50,child
+20,30 min
+30,people
+chinese,20
+4,thai
+wheelchair,walkable
+20 min,50
+type,pet friendly
+diner,distance
+250,quiet place
+2,accomodation
+price,10
+type,30 min
+4,30
+price,quiet place
+child,20 min
+20,2
+10,indian
+drive through,people
+pet friendly,walkable
+chinese,50
+50,10
+250,wheelchair
+distance,10 min
+diner,20
+accomodation,thai
+pet friendly,20 min
+10 min,walkable
+accomodation,4
+drive through,chinese
+20,2
+price,distance
+thai,250
+10,type
+50,30 min
+indian,quiet place
+wheelchair,10
+50,child
+30,20
+people,diner
+thai,wheelchair
+250,30
+50,20 min
+10,2
+10 min,drive through
+child,10
+quiet place,diner
+4,price
+people,chinese
+accomodation,distance
+50,20
+type,30 min
+pet friendly,walkable
+20,indian
+type,diner
+price,10 min
+10,250
+30 min,10
+people,20
+child,quiet place
+50,wheelchair
+20 min,20
+pet friendly,thai
+2,indian
+chinese,distance
+4,accomodation
+30,drive through
+50,walkable
+30 min,wheelchair
+drive through,walkable
+quiet place,accomodation
+20,thai
+50,price
+type,pet friendly
+4,30
+chinese,20
+child,20 min
+people,distance
+50,10 min
+10,2
+diner,10
+indian,250
+indian,quiet place
+chinese,distance
+diner,walkable
+2,10 min
+20 min,50
+pet friendly,20
+wheelchair,20
+type,10
+people,price
+250,drive through
+thai,30 min
+child,30
+10,4
+50,accomodation
+price,50
+250,30
+diner,2
+30 min,walkable
+quiet place,wheelchair
+50,thai
+20 min,10
+20,10
+10 min,type
+20,accomodation
+4,indian
+drive through,child
+distance,pet friendly
+people,chinese
+pet friendly,child
+4,10
+price,20
+10,distance
+drive through,50
+diner,thai
+20 min,quiet place
+250,50
+people,chinese
+wheelchair,30 min
+2,10 min
+walkable,accomodation
+type,30
+indian,20
+thai,indian
+50,drive through
+20,2
+20 min,accomodation
+pet friendly,30
+wheelchair,type
+quiet place,people
+distance,price
+20,250
+30 min,4
+50,10
+chinese,walkable
+child,10 min
+10,diner
+250,distance
+chinese,child
+4,10
+indian,20
+20,walkable
+30 min,50
+accomodation,thai
+price,20 min
+quiet place,diner
+30,10
+people,wheelchair
+2,drive through
+10 min,type
+pet friendly,50
+250,50
+wheelchair,10
+type,indian
+10 min,20 min
+4,child
+30,50
+20,people
+accomodation,pet friendly
+walkable,2
+20,chinese
+10,distance
+price,diner
+drive through,quiet place
+30 min,thai
+10,diner
+people,20 min
+10,30 min
+thai,walkable
+chinese,child
+drive through,distance
+quiet place,50
+20,wheelchair
+2,250
+price,4
+20,50
+accomodation,type
+30,10 min
+indian,pet friendly
+quiet place,2
+20,child
+type,pet friendly
+distance,price
+30 min,10 min
+drive through,10
+20 min,4
+diner,50
+indian,10
+people,250
+accomodation,walkable
+wheelchair,thai
+20,30
+chinese,50
+distance,accomodation
+drive through,walkable
+250,50
+child,indian
+diner,pet friendly
+10,20
+10,type
+people,chinese
+20 min,30 min
+4,price
+wheelchair,2
+10 min,30
+quiet place,50
+20,thai
+price,walkable
+4,20 min
+thai,10
+10,20
+distance,wheelchair
+indian,drive through
+people,20
+10 min,50
+quiet place,2
+child,chinese
+30,type
+diner,250
+pet friendly,30 min
+accomodation,50
+4,people
+20,30
+diner,10
+drive through,accomodation
+price,20
+wheelchair,child
+50,type
+30 min,250
+walkable,50
+indian,10 min
+chinese,20 min
+quiet place,2
+10,distance
+thai,pet friendly
+wheelchair,20
+distance,diner
+30 min,30
+4,10 min
+50,price
+thai,indian
+250,chinese
+quiet place,child
+50,drive through
+people,10
+10,walkable
+pet friendly,20 min
+type,2
+20,accomodation
+2,10
+child,20
+250,walkable
+thai,quiet place
+30 min,indian
+20,50
+price,pet friendly
+type,20 min
+distance,10 min
+diner,4
+50,people
+10,30
+accomodation,drive through
+wheelchair,chinese
+diner,quiet place
+chinese,drive through
+250,people
+2,20
+price,30
+indian,10
+type,30 min
+4,thai
+50,accomodation
+wheelchair,walkable
+pet friendly,50
+10,distance
+child,20
+10 min,20 min
+chinese,30
+drive through,20
+walkable,250
+30 min,accomodation
+people,type
+price,indian
+wheelchair,quiet place
+20 min,2
+10 min,diner
+distance,20
+pet friendly,10
+50,4
+child,10
+thai,50
+20 min,quiet place
+250,10
+20,50
+30,walkable
+people,wheelchair
+type,chinese
+2,10
+pet friendly,diner
+accomodation,child
+4,50
+30 min,price
+drive through,10 min
+thai,distance
+indian,20
+indian,30 min
+people,30
+50,50
+20 min,diner
+child,10
+pet friendly,type
+accomodation,20
+chinese,drive through
+250,thai
+2,distance
+4,price
+walkable,quiet place
+20,10 min
+wheelchair,10
+20 min,indian
+50,30
+walkable,quiet place
+250,2
+wheelchair,type
+10 min,50
+chinese,price
+10,diner
+drive through,distance
+20,10
+child,20
+people,pet friendly
+accomodation,4
+thai,30 min
+50,people
+2,drive through
+4,wheelchair
+10,30
+distance,indian
+20,price
+10,10 min
+quiet place,20
+250,type
+diner,chinese
+pet friendly,20 min
+walkable,thai
+30 min,child
+50,accomodation
+250,10 min
+2,4
+50,chinese
+people,quiet place
+price,diner
+type,walkable
+distance,10
+50,pet friendly
+20 min,20
+wheelchair,drive through
+30 min,accomodation
+indian,10
+30,20
+child,thai
+diner,quiet place
+10,accomodation
+child,250
+drive through,people
+2,10 min
+10,wheelchair
+distance,20 min
+walkable,20
+50,30 min
+pet friendly,20
+indian,4
+type,thai
+30,50
+price,chinese
+250,4
+pet friendly,people
+10 min,child
+10,quiet place
+type,accomodation
+50,distance
+20 min,20
+10,price
+drive through,wheelchair
+30 min,30
+thai,20
+diner,50
+2,indian
+chinese,walkable
+chinese,10
+quiet place,2
+child,wheelchair
+250,10
+50,20 min
+30,20
+price,accomodation
+distance,thai
+indian,type
+4,30 min
+10 min,20
+diner,people
+pet friendly,50
+walkable,drive through
+2,chinese
+walkable,50
+drive through,type
+thai,20
+accomodation,30 min
+250,20
+4,child
+indian,price
+people,pet friendly
+30,quiet place
+distance,10
+wheelchair,10
+10 min,diner
+50,20 min
+quiet place,distance
+10,10
+30 min,type
+20,50
+drive through,pet friendly
+diner,20 min
+10 min,250
+chinese,walkable
+price,accomodation
+indian,wheelchair
+50,child
+4,20
+30,thai
+2,people
+30 min,10
+2,10
+quiet place,4
+walkable,people
+type,250
+price,pet friendly
+50,chinese
+20,child
+wheelchair,20
+thai,10 min
+drive through,20 min
+diner,distance
+50,30
+accomodation,indian
+drive through,walkable
+thai,child
+price,quiet place
+diner,distance
+10,2
+50,indian
+chinese,20
+wheelchair,4
+people,10
+20 min,30 min
+50,10 min
+pet friendly,20
+accomodation,30
+type,250
+diner,quiet place
+type,pet friendly
+wheelchair,50
+drive through,walkable
+30,30 min
+10,250
+people,distance
+chinese,2
+10,indian
+thai,accomodation
+20 min,price
+10 min,4
+20,50
+child,20
+type,10
+10 min,indian
+chinese,4
+thai,20 min
+2,people
+30 min,30
+diner,50
+20,wheelchair
+drive through,250
+price,distance
+quiet place,20
+pet friendly,child
+10,accomodation
+walkable,50
+250,thai
+accomodation,50
+quiet place,2
+pet friendly,50
+walkable,people
+child,chinese
+20,20
+10,drive through
+20 min,30
+4,10 min
+30 min,10
+distance,wheelchair
+diner,type
+price,indian
+chinese,indian
+2,50
+20,50
+250,20 min
+people,thai
+diner,10
+distance,quiet place
+10,price
+20,child
+walkable,accomodation
+wheelchair,type
+drive through,4
+10 min,30
+30 min,pet friendly
+indian,20
+accomodation,30
+thai,wheelchair
+4,20
+chinese,20 min
+30 min,price
+2,drive through
+50,10 min
+10,child
+distance,10
+people,pet friendly
+250,50
+type,quiet place
+walkable,diner
+accomodation,type
+indian,walkable
+child,10
+30 min,20 min
+wheelchair,50
+2,20
+diner,20
+distance,30
+price,10
+quiet place,pet friendly
+50,4
+thai,chinese
+drive through,250
+10 min,people
+price,50
+250,indian
+20,diner
+distance,10
+4,10 min
+30 min,50
+child,quiet place
+2,people
+thai,chinese
+wheelchair,pet friendly
+type,20
+30,walkable
+drive through,20 min
+accomodation,10
+type,30 min
+50,indian
+quiet place,thai
+10 min,chinese
+distance,30
+accomodation,4
+10,child
+50,drive through
+20,diner
+people,wheelchair
+10,20
+walkable,price
+20 min,pet friendly
+2,250
+2,people
+type,20
+wheelchair,10 min
+10,thai
+quiet place,30 min
+50,4
+250,50
+distance,20 min
+20,pet friendly
+drive through,walkable
+10,child
+chinese,price
+accomodation,30
+diner,indian
+10 min,people
+drive through,thai
+250,accomodation
+distance,10
+indian,quiet place
+type,child
+50,30 min
+price,10
+20 min,diner
+chinese,pet friendly
+20,wheelchair
+30,2
+20,walkable
+50,4
+10,2
+quiet place,distance
+wheelchair,chinese
+type,250
+50,4
+20 min,child
+pet friendly,50
+indian,30 min
+20,30
+10 min,price
+walkable,diner
+thai,drive through
+people,accomodation
+20,10
+10,50
+30 min,10
+child,people
+20,50
+250,wheelchair
+type,20
+indian,diner
+price,chinese
+drive through,20 min
+walkable,pet friendly
+2,thai
+10 min,30
+distance,accomodation
+quiet place,4
+people,distance
+thai,drive through
+chinese,pet friendly
+indian,diner
+10,child
+type,50
+walkable,4
+accomodation,250
+price,quiet place
+20,30 min
+30,20 min
+50,10 min
+20,2
+10,wheelchair
+people,accomodation
+30,distance
+child,250
+type,10
+chinese,price
+pet friendly,50
+walkable,30 min
+20,4
+quiet place,diner
+50,10
+10 min,drive through
+2,thai
+indian,20
+wheelchair,20 min
+30 min,quiet place
+4,chinese
+10,walkable
+distance,20
+child,30
+price,indian
+type,thai
+50,250
+people,2
+pet friendly,diner
+50,wheelchair
+10,20
+accomodation,10 min
+20 min,drive through
+distance,30 min
+50,10
+20 min,people
+20,chinese
+50,price
+drive through,diner
+accomodation,250
+10,4
+walkable,10 min
+type,thai
+indian,20
+30,quiet place
+child,2
+pet friendly,wheelchair
+walkable,20
+people,20 min
+30,distance
+10,child
+pet friendly,chinese
+thai,10 min
+indian,quiet place
+diner,accomodation
+price,10
+30 min,50
+4,type
+wheelchair,drive through
+50,20
+250,2
+chinese,type
+4,10 min
+20,diner
+20,2
+20 min,accomodation
+child,wheelchair
+30,250
+30 min,distance
+quiet place,pet friendly
+thai,50
+50,drive through
+10,10
+walkable,people
+indian,price
+20,drive through
+people,4
+20,20 min
+type,10
+30,thai
+wheelchair,30 min
+indian,50
+diner,quiet place
+250,50
+10 min,accomodation
+chinese,distance
+10,child
+walkable,pet friendly
+2,price
+thai,2
+indian,chinese
+quiet place,price
+walkable,wheelchair
+diner,pet friendly
+10,250
+50,20
+people,50
+20 min,4
+30 min,30
+distance,accomodation
+10,child
+20,type
+drive through,10 min
+10 min,wheelchair
+20 min,price
+10,type
+people,20
+250,distance
+drive through,20
+10,thai
+walkable,indian
+accomodation,chinese
+30 min,2
+30,quiet place
+50,child
+pet friendly,diner
+4,50
+chinese,price
+pet friendly,250
+30,10
+4,walkable
+type,people
+diner,distance
+50,30 min
+50,indian
+20,quiet place
+accomodation,20
+wheelchair,10 min
+20 min,child
+2,thai
+10,drive through
+20 min,distance
+pet friendly,50
+child,drive through
+20,price
+250,indian
+thai,20
+people,diner
+10,10
+2,10 min
+4,30
+chinese,wheelchair
+30 min,type
+50,accomodation
+quiet place,walkable
+10,50
+10 min,20 min
+drive through,chinese
+250,accomodation
+people,4
+20,30 min
+pet friendly,wheelchair
+type,distance
+indian,50
+10,diner
+walkable,30
+price,thai
+child,2
+20,quiet place
+distance,2
+price,drive through
+thai,30
+4,50
+50,type
+quiet place,10 min
+indian,chinese
+child,diner
+30 min,20
+wheelchair,20
+20 min,10
+250,10
+walkable,accomodation
+pet friendly,people
+250,people
+indian,drive through
+20,20
+quiet place,chinese
+walkable,distance
+50,diner
+accomodation,wheelchair
+pet friendly,child
+30 min,10 min
+30,50
+price,type
+10,10
+2,20 min
+4,thai
+price,thai
+type,10
+50,child
+walkable,10
+30 min,20
+30,chinese
+50,250
+20,indian
+diner,people
+2,drive through
+10 min,quiet place
+4,20 min
+pet friendly,distance
+wheelchair,accomodation
+walkable,distance
+child,people
+30 min,indian
+10,250
+2,10 min
+10,wheelchair
+diner,chinese
+50,pet friendly
+type,4
+drive through,50
+thai,accomodation
+price,quiet place
+30,20
+20,20 min
+10,30
+people,20
+30 min,pet friendly
+250,child
+indian,10 min
+wheelchair,type
+50,4
+drive through,quiet place
+chinese,50
+walkable,diner
+20,accomodation
+10,20 min
+2,distance
+thai,price
+chinese,quiet place
+thai,diner
+20,4
+10 min,indian
+50,50
+child,drive through
+pet friendly,30
+wheelchair,20
+250,accomodation
+walkable,10
+2,30 min
+price,distance
+10,people
+20 min,type
+child,quiet place
+20,50
+4,wheelchair
+thai,people
+20,2
+indian,walkable
+20 min,10 min
+chinese,250
+price,drive through
+10,type
+pet friendly,10
+diner,accomodation
+30 min,30
+distance,50
+10,chinese
+price,10 min
+child,type
+quiet place,20 min
+pet friendly,distance
+30,30 min
+indian,people
+drive through,20
+50,10
+20,accomodation
+4,50
+diner,2
+wheelchair,thai
+walkable,250
+30,20 min
+thai,distance
+2,price
+indian,10
+wheelchair,250
+20,accomodation
+20,diner
+10 min,people
+50,pet friendly
+10,child
+quiet place,4
+chinese,50
+walkable,drive through
+30 min,type
+distance,4
+thai,walkable
+diner,20
+10 min,20 min
+price,chinese
+30 min,child
+type,indian
+30,pet friendly
+20,250
+10,50
+50,10
+drive through,wheelchair
+2,quiet place
+people,accomodation
+pet friendly,250
+quiet place,diner
+10,accomodation
+chinese,drive through
+people,indian
+wheelchair,20
+distance,walkable
+50,price
+10 min,thai
+type,30
+20 min,50
+4,2
+10,child
+30 min,20
+50,250
+child,distance
+pet friendly,10 min
+thai,quiet place
+10,20 min
+diner,20
+walkable,4
+accomodation,indian
+30,2
+20,50
+wheelchair,type
+drive through,30 min
+10,price
+people,chinese
+chinese,child
+4,people
+20,30 min
+drive through,thai
+2,250
+quiet place,pet friendly
+30,50
+price,indian
+10 min,diner
+wheelchair,accomodation
+type,distance
+10,walkable
+20,50
+10,20 min
+2,20
+accomodation,50
+10,child
+thai,pet friendly
+walkable,distance
+drive through,type
+50,10 min
+wheelchair,20 min
+people,30
+30 min,4
+250,10
+20,indian
+diner,chinese
+price,quiet place
+type,accomodation
+price,walkable
+wheelchair,pet friendly
+20 min,50
+10 min,people
+thai,chinese
+2,indian
+20,10
+30,drive through
+quiet place,30 min
+child,4
+20,10
+50,distance
+250,diner
+distance,30
+250,10 min
+drive through,accomodation
+wheelchair,20
+thai,price
+indian,chinese
+20,type
+2,10
+walkable,child
+people,20 min
+quiet place,10
+pet friendly,4
+50,30 min
+50,diner
+thai,10
+diner,chinese
+child,20 min
+indian,10 min
+type,quiet place
+distance,30
+250,wheelchair
+50,2
+20,accomodation
+50,20
+30 min,people
+10,walkable
+drive through,pet friendly
+4,price
+10,30
+2,20
+quiet place,people
+thai,drive through
+walkable,10
+child,50
+wheelchair,10 min
+pet friendly,accomodation
+4,chinese
+20,price
+50,indian
+20 min,250
+30 min,distance
+type,diner
+20,30
+quiet place,pet friendly
+distance,walkable
+thai,chinese
+indian,2
+50,people
+wheelchair,type
+10,10
+child,20 min
+30 min,50
+drive through,price
+250,accomodation
+diner,10 min
+20,4
+50,4
+quiet place,price
+chinese,20 min
+walkable,10 min
+50,2
+10,wheelchair
+indian,diner
+250,type
+10,pet friendly
+30 min,20
+drive through,distance
+30,20
+accomodation,child
+thai,people
+price,type
+20,20
+accomodation,thai
+2,10 min
+wheelchair,4
+drive through,walkable
+diner,20 min
+distance,indian
+quiet place,child
+30,50
+pet friendly,250
+30 min,50
+chinese,10
+10,people
+pet friendly,thai
+10,10
+2,type
+10 min,wheelchair
+price,diner
+people,accomodation
+4,50
+20,30 min
+drive through,indian
+distance,walkable
+quiet place,20 min
+chinese,20
+child,50
+250,30
+50,chinese
+quiet place,child
+walkable,wheelchair
+20 min,10
+drive through,people
+30,accomodation
+10 min,10
+distance,20
+20,diner
+indian,type
+2,price
+30 min,250
+pet friendly,50
+thai,4
+50,drive through
+child,type
+diner,10 min
+walkable,4
+20,wheelchair
+pet friendly,30
+2,thai
+distance,20 min
+250,50
+accomodation,price
+10,chinese
+quiet place,30 min
+people,20
+10,indian
+price,diner
+2,walkable
+20,20
+50,250
+50,30 min
+chinese,30
+accomodation,indian
+thai,people
+wheelchair,child
+distance,10 min
+pet friendly,type
+drive through,10
+20 min,10
+4,quiet place
+30 min,50
+20 min,price
+50,child
+20,wheelchair
+250,pet friendly
+10,10 min
+diner,people
+distance,20
+30,2
+quiet place,chinese
+accomodation,type
+thai,walkable
+drive through,4
+indian,10
+quiet place,4
+child,wheelchair
+chinese,indian
+30 min,20 min
+2,thai
+accomodation,10
+pet friendly,diner
+drive through,10
+price,type
+50,10 min
+walkable,20
+30,people
+distance,250
+50,20
+walkable,distance
+30 min,30
+wheelchair,50
+4,250
+10,20
+people,indian
+drive through,2
+20 min,50
+thai,10 min
+10,child
+20,type
+pet friendly,diner
+price,chinese
+accomodation,quiet place
+50,20 min
+10 min,30 min
+2,20
+drive through,price
+walkable,distance
+30,people
+250,indian
+quiet place,50
+thai,diner
+child,4
+10,chinese
+wheelchair,type
+10,accomodation
+20,pet friendly
+drive through,type
+20 min,indian
+child,20
+250,4
+thai,10
+chinese,accomodation
+distance,pet friendly
+wheelchair,30
+50,2
+people,10
+price,diner
+walkable,20
+50,quiet place
+30 min,10 min
+distance,20
+walkable,wheelchair
+10,chinese
+thai,diner
+2,250
+indian,10 min
+10,people
+4,50
+30 min,50
+30,accomodation
+quiet place,price
+20,type
+drive through,child
+20 min,pet friendly
+distance,250
+pet friendly,20
+child,wheelchair
+price,50
+accomodation,10
+50,2
+20,quiet place
+chinese,diner
+10 min,4
+30 min,drive through
+30,walkable
+20 min,indian
+type,people
+10,thai
+4,20 min
+10 min,indian
+diner,10
+pet friendly,quiet place
+wheelchair,type
+thai,child
+chinese,10
+walkable,50
+250,distance
+people,2
+20,drive through
+price,30
+20,30 min
+accomodation,50
+diner,10
+quiet place,30
+accomodation,2
+people,child
+20 min,250
+4,20
+30 min,price
+thai,type
+indian,20
+walkable,chinese
+distance,pet friendly
+10,50
+wheelchair,50
+10 min,drive through
+20 min,30
+4,10
+20,type
+indian,10
+people,50
+wheelchair,2
+chinese,drive through
+50,20
+child,30 min
+pet friendly,price
+250,walkable
+thai,diner
+10 min,quiet place
+distance,accomodation
+type,child
+chinese,2
+people,pet friendly
+30,indian
+20 min,10
+quiet place,30 min
+thai,diner
+50,10 min
+10,20
+distance,wheelchair
+price,drive through
+accomodation,250
+4,walkable
+20,50
+child,accomodation
+diner,2
+20 min,4
+20,distance
+drive through,quiet place
+50,indian
+10,thai
+30,people
+price,pet friendly
+walkable,20
+10,50
+chinese,30 min
+250,wheelchair
+10 min,type
+250,type
+indian,20 min
+thai,child
+30,accomodation
+4,distance
+walkable,20
+pet friendly,people
+50,2
+price,10
+chinese,wheelchair
+20,10 min
+diner,quiet place
+drive through,50
+30 min,10
+10 min,child
+20,walkable
+50,price
+wheelchair,distance
+10,30
+quiet place,20 min
+accomodation,chinese
+30 min,250
+2,10
+people,indian
+diner,thai
+type,drive through
+50,4
+pet friendly,20
+20 min,indian
+quiet place,20
+wheelchair,price
+diner,4
+10,2
+chinese,walkable
+50,20
+10,250
+accomodation,30
+child,type
+30 min,distance
+drive through,10 min
+pet friendly,50
+people,thai
+people,30 min
+quiet place,price
+50,2
+child,10
+chinese,20
+30,indian
+4,10
+pet friendly,20 min
+10 min,walkable
+thai,50
+diner,type
+wheelchair,distance
+250,accomodation
+drive through,20
+20,type
+drive through,indian
+thai,20 min
+chinese,child
+2,30
+distance,walkable
+people,4
+10 min,30 min
+50,price
+pet friendly,accomodation
+20,quiet place
+50,10
+wheelchair,diner
+10,250
+price,accomodation
+10 min,10
+50,20 min
+wheelchair,thai
+child,pet friendly
+2,type
+distance,drive through
+diner,walkable
+30,30 min
+quiet place,chinese
+people,20
+20,50
+indian,10
+4,250
+20 min,people
+child,10
+10 min,quiet place
+2,20
+thai,accomodation
+chinese,50
+indian,pet friendly
+price,50
+drive through,diner
+type,30 min
+wheelchair,250
+20,10
+4,distance
+30,walkable
+drive through,50
+20,30
+quiet place,20 min
+walkable,thai
+30 min,10
+chinese,people
+distance,type
+50,10
+child,pet friendly
+10 min,250
+2,diner
+20,accomodation
+wheelchair,4
+price,indian
+30 min,50
+20 min,10 min
+50,walkable
+chinese,thai
+price,diner
+10,child
+quiet place,indian
+20,4
+accomodation,type
+drive through,30
+people,2
+distance,20
+250,wheelchair
+pet friendly,10
+20,10
+pet friendly,child
+distance,50
+50,people
+quiet place,thai
+10 min,10
+2,20 min
+type,indian
+30,20
+30 min,250
+price,chinese
+wheelchair,drive through
+diner,accomodation
+4,walkable
+thai,20
+indian,10
+4,people
+250,50
+wheelchair,walkable
+20 min,child
+20,50
+30 min,30
+chinese,quiet place
+drive through,10 min
+10,diner
+accomodation,pet friendly
+2,type
+distance,price
+distance,quiet place
+20 min,20
+10,4
+people,wheelchair
+30,accomodation
+10 min,drive through
+pet friendly,walkable
+chinese,2
+250,10
+50,30 min
+50,20
+type,indian
+child,price
+thai,diner
+4,20 min
+walkable,thai
+quiet place,people
+pet friendly,drive through
+price,30 min
+type,20
+50,10 min
+250,30
+child,10
+50,diner
+10,wheelchair
+distance,indian
+chinese,2
+20,accomodation
+10,30 min
+50,10 min
+accomodation,indian
+type,thai
+quiet place,drive through
+people,250
+2,10
+chinese,distance
+pet friendly,child
+wheelchair,diner
+walkable,price
+20,30
+20,20 min
+4,50
+30,wheelchair
+thai,20
+people,250
+50,pet friendly
+10 min,50
+4,indian
+20 min,type
+2,walkable
+diner,accomodation
+20,child
+10,30 min
+price,quiet place
+drive through,distance
+chinese,10
+people,distance
+10 min,accomodation
+chinese,10
+price,child
+indian,2
+10,250
+type,drive through
+walkable,20
+pet friendly,30 min
+quiet place,thai
+50,30
+diner,wheelchair
+20,50
+20 min,4
+10,accomodation
+type,diner
+250,drive through
+thai,4
+20,20
+indian,50
+10 min,distance
+people,child
+30,quiet place
+price,walkable
+10,50
+chinese,2
+pet friendly,wheelchair
+30 min,20 min
+people,distance
+2,diner
+type,10
+10,pet friendly
+thai,accomodation
+quiet place,20
+drive through,indian
+price,walkable
+20,20 min
+child,10 min
+30,250
+50,30 min
+4,wheelchair
+chinese,50
+10 min,quiet place
+20,chinese
+child,price
+50,50
+people,pet friendly
+accomodation,type
+walkable,10
+distance,20
+20 min,30 min
+2,wheelchair
+diner,drive through
+30,250
+indian,thai
+4,10
+chinese,type
+accomodation,drive through
+20 min,10
+4,20
+thai,10
+30 min,30
+distance,50
+quiet place,250
+diner,price
+2,child
+pet friendly,10 min
+people,20
+indian,50
+walkable,wheelchair
+people,accomodation
+thai,wheelchair
+chinese,indian
+10 min,quiet place
+30 min,250
+50,pet friendly
+drive through,20
+2,10
+10,20 min
+price,type
+20,diner
+child,30
+distance,4
+walkable,50
+20,thai
+20,drive through
+30 min,pet friendly
+2,50
+diner,walkable
+accomodation,10
+20 min,chinese
+people,50
+4,wheelchair
+250,30
+type,child
+10 min,quiet place
+price,indian
+distance,10
+people,30 min
+price,4
+type,30
+50,indian
+10,thai
+child,50
+accomodation,20 min
+20,walkable
+drive through,wheelchair
+250,20
+pet friendly,quiet place
+2,chinese
+10 min,diner
+distance,10
+20,drive through
+10,diner
+250,30
+quiet place,30 min
+accomodation,walkable
+type,10
+4,50
+chinese,people
+10 min,wheelchair
+pet friendly,20 min
+distance,20
+2,indian
+child,thai
+price,50
+20 min,type
+30 min,quiet place
+20,20
+indian,walkable
+accomodation,2
+pet friendly,price
+diner,4
+10,distance
+30,child
+250,50
+people,50
+chinese,10
+thai,10 min
+wheelchair,drive through
+2,child
+10 min,diner
+indian,10
+quiet place,50
+type,20 min
+wheelchair,20
+50,distance
+chinese,20
+pet friendly,price
+thai,30 min
+walkable,250
+10,30
+people,4
+drive through,accomodation
+2,20
+distance,diner
+30 min,price
+accomodation,10
+quiet place,drive through
+pet friendly,10
+50,thai
+50,4
+20,type
+10 min,30
+indian,walkable
+250,20 min
+chinese,wheelchair
+people,child
+30,walkable
+10,child
+250,20
+chinese,thai
+type,50
+50,indian
+20,distance
+10,10 min
+price,people
+quiet place,accomodation
+2,4
+30 min,diner
+pet friendly,20 min
+drive through,wheelchair
+10 min,20 min
+distance,indian
+20,10
+price,2
+child,chinese
+4,50
+drive through,30
+250,diner
+people,type
+accomodation,10
+20,wheelchair
+50,walkable
+thai,30 min
+pet friendly,quiet place
+4,chinese
+diner,child
+price,accomodation
+50,30 min
+2,20
+drive through,10 min
+10,20 min
+10,people
+walkable,50
+20,distance
+quiet place,pet friendly
+wheelchair,type
+250,thai
+30,indian
+20 min,chinese
+250,wheelchair
+30,20
+accomodation,type
+price,drive through
+distance,diner
+2,10 min
+30 min,4
+child,20
+indian,pet friendly
+thai,10
+walkable,people
+50,10
+quiet place,50
+30 min,pet friendly
+walkable,10 min
+distance,2
+20 min,people
+type,quiet place
+10,drive through
+4,child
+10,chinese
+30,20
+accomodation,20
+50,250
+thai,50
+indian,wheelchair
+diner,price
+indian,child
+people,20
+quiet place,wheelchair
+50,30 min
+20 min,thai
+diner,drive through
+30,10
+250,10 min
+price,10
+accomodation,chinese
+4,50
+walkable,2
+20,pet friendly
+distance,type
+4,quiet place
+20 min,drive through
+indian,accomodation
+20,pet friendly
+30,10 min
+distance,type
+walkable,2
+10,30 min
+thai,child
+people,20
+price,diner
+wheelchair,50
+10,chinese
+50,250
+diner,chinese
+30,250
+child,type
+10 min,2
+20,distance
+30 min,thai
+indian,pet friendly
+drive through,accomodation
+20 min,20
+50,price
+10,4
+10,walkable
+people,50
+wheelchair,quiet place
+50,10
+price,walkable
+type,20
+50,drive through
+people,250
+distance,wheelchair
+10,thai
+child,accomodation
+quiet place,2
+pet friendly,chinese
+10 min,indian
+20,30 min
+4,diner
+30,20 min
+2,thai
+diner,walkable
+pet friendly,child
+20,quiet place
+wheelchair,type
+50,indian
+50,30 min
+price,20
+people,30
+250,accomodation
+10,20 min
+chinese,distance
+drive through,10 min
+10,4
+30 min,people
+indian,50
+50,walkable
+4,2
+distance,thai
+drive through,wheelchair
+chinese,accomodation
+type,child
+pet friendly,10 min
+250,price
+10,10
+quiet place,20 min
+20,30
+20,diner
+drive through,pet friendly
+diner,20 min
+250,chinese
+quiet place,50
+30,20
+walkable,type
+distance,indian
+30 min,child
+10 min,20
+people,thai
+2,10
+4,10
+price,accomodation
+wheelchair,50
+accomodation,10
+thai,30 min
+10 min,20
+walkable,indian
+diner,4
+10,20
+price,type
+250,pet friendly
+50,wheelchair
+drive through,quiet place
+people,30
+chinese,child
+20 min,2
+distance,50
+pet friendly,drive through
+diner,chinese
+thai,20
+walkable,30
+people,2
+accomodation,50
+30 min,4
+indian,wheelchair
+20 min,quiet place
+10,distance
+10 min,50
+price,250
+child,10
+type,20
+10 min,indian
+quiet place,pet friendly
+child,20 min
+30 min,250
+wheelchair,20
+accomodation,20
+10,distance
+10,diner
+drive through,chinese
+50,30
+thai,4
+price,50
+2,walkable
+type,people
+20 min,quiet place
+250,thai
+walkable,child
+price,diner
+indian,pet friendly
+10,10 min
+50,20
+people,30
+10,chinese
+wheelchair,distance
+4,20
+accomodation,type
+30 min,50
+2,drive through
+10 min,10
+4,30 min
+50,2
+drive through,quiet place
+20,50
+people,distance
+250,price
+indian,chinese
+20,walkable
+diner,child
+type,wheelchair
+pet friendly,thai
+30,20 min
+10,accomodation
+250,30
+quiet place,20
+type,50
+distance,pet friendly
+diner,2
+people,walkable
+wheelchair,indian
+chinese,4
+child,drive through
+price,30 min
+10 min,20 min
+accomodation,10
+20,thai
+50,10
+price,pet friendly
+indian,wheelchair
+type,child
+walkable,accomodation
+distance,20 min
+4,thai
+10,chinese
+people,20
+10,drive through
+30 min,20
+50,50
+30,10 min
+quiet place,2
+250,diner
+walkable,20 min
+price,50
+people,type
+250,10
+distance,20
+chinese,pet friendly
+diner,accomodation
+30,20
+wheelchair,2
+30 min,drive through
+indian,10
+quiet place,child
+10 min,50
+4,thai
+child,50
+walkable,wheelchair
+drive through,10
+diner,30
+10 min,20
+4,distance
+type,2
+accomodation,50
+30 min,10
+250,20 min
+indian,thai
+20,pet friendly
+chinese,quiet place
+price,people
+30,20
+thai,30 min
+type,walkable
+diner,250
+20 min,people
+10,indian
+50,4
+50,distance
+accomodation,child
+price,10 min
+quiet place,drive through
+chinese,2
+20,10
+wheelchair,pet friendly
+accomodation,walkable
+250,50
+indian,price
+4,20
+2,10
+distance,thai
+type,people
+50,10 min
+quiet place,pet friendly
+20,chinese
+diner,30 min
+30,wheelchair
+10,20 min
+drive through,child
+quiet place,distance
+20,wheelchair
+pet friendly,30
+accomodation,20
+diner,thai
+4,price
+type,chinese
+20 min,indian
+child,50
+people,10 min
+50,10
+30 min,walkable
+2,drive through
+250,10
+indian,250
+50,thai
+20,drive through
+2,30
+child,price
+10,people
+wheelchair,accomodation
+walkable,10 min
+diner,10
+pet friendly,4
+50,chinese
+distance,type
+quiet place,30 min
+20 min,20
+chinese,accomodation
+type,10
+people,indian
+50,pet friendly
+10 min,20
+50,10
+20 min,20
+child,250
+4,quiet place
+price,diner
+walkable,distance
+wheelchair,30 min
+drive through,30
+2,thai
+250,30
+distance,2
+50,type
+indian,50
+20,price
+wheelchair,10 min
+10,walkable
+20 min,30 min
+people,20
+quiet place,accomodation
+chinese,10
+pet friendly,thai
+child,drive through
+4,diner
+thai,250
+30,4
+chinese,30 min
+10 min,50
+walkable,20
+drive through,10
+wheelchair,child
+50,indian
+2,accomodation
+20,pet friendly
+20 min,10
+price,quiet place
+distance,diner
+type,people
+wheelchair,2
+20 min,250
+20,price
+drive through,type
+quiet place,walkable
+accomodation,distance
+30,child
+diner,30 min
+4,10
+pet friendly,10
+50,chinese
+thai,indian
+50,20
+people,10 min
+type,50
+quiet place,10
+indian,distance
+diner,30 min
+child,people
+10,20
+2,pet friendly
+walkable,wheelchair
+10 min,chinese
+20 min,20
+accomodation,50
+30,4
+250,price
+drive through,thai
+accomodation,30
+price,diner
+30 min,10
+4,people
+indian,10
+20,10 min
+2,child
+20 min,wheelchair
+type,20
+distance,250
+50,chinese
+pet friendly,thai
+50,quiet place
+drive through,walkable
+10 min,50
+50,drive through
+indian,accomodation
+diner,people
+2,250
+quiet place,20 min
+wheelchair,20
+child,pet friendly
+type,20
+10,30 min
+thai,walkable
+distance,price
+chinese,30
+10,4
+walkable,distance
+20 min,20
+quiet place,10
+child,chinese
+drive through,20
+price,thai
+2,10 min
+250,people
+50,30
+accomodation,indian
+50,diner
+pet friendly,30 min
+10,wheelchair
+type,4
+50,drive through
+30 min,price
+indian,30
+diner,4
+10,chinese
+people,250
+type,wheelchair
+20,20 min
+10 min,10
+accomodation,distance
+child,pet friendly
+quiet place,thai
+walkable,2
+20,50
+type,20 min
+people,price
+20,10 min
+walkable,50
+wheelchair,250
+pet friendly,thai
+child,2
+20,chinese
+30,distance
+10,drive through
+quiet place,diner
+4,50
+10,accomodation
+30 min,indian
+indian,30
+accomodation,30 min
+20 min,4
+pet friendly,250
+chinese,wheelchair
+child,thai
+50,10
+drive through,diner
+2,quiet place
+walkable,50
+price,20
+type,10
+20,distance
+people,10 min
+type,drive through
+50,10
+20 min,indian
+250,2
+quiet place,price
+walkable,chinese
+diner,30
+thai,pet friendly
+20,child
+20,4
+50,10
+accomodation,people
+distance,10 min
+wheelchair,30 min
+wheelchair,10
+accomodation,30
+50,quiet place
+10 min,price
+child,chinese
+distance,20 min
+walkable,pet friendly
+20,10
+people,diner
+2,type
+250,50
+indian,20
+drive through,30 min
+4,thai
+distance,people
+thai,10 min
+250,child
+50,quiet place
+type,drive through
+50,price
+10,20 min
+30 min,20
+walkable,2
+accomodation,wheelchair
+indian,20
+chinese,diner
+10,pet friendly
+30,4
+chinese,people
+30 min,diner
+50,price
+2,250
+thai,20
+quiet place,30
+type,pet friendly
+10,indian
+distance,10
+4,accomodation
+20,50
+walkable,20 min
+10 min,drive through
+child,wheelchair
+accomodation,10 min
+price,50
+walkable,10
+wheelchair,thai
+distance,child
+20,people
+50,10
+30,indian
+250,2
+pet friendly,4
+diner,drive through
+20,chinese
+quiet place,type
+30 min,20 min
+indian,diner
+250,walkable
+20,10
+distance,4
+10,pet friendly
+drive through,thai
+price,people
+2,50
+accomodation,50
+wheelchair,chinese
+type,30
+20 min,quiet place
+10 min,child
+30 min,20
+20 min,20
+50,30 min
+thai,child
+10,quiet place
+people,walkable
+50,diner
+10,250
+indian,10 min
+chinese,accomodation
+pet friendly,price
+4,drive through
+type,2
+distance,30
+wheelchair,20
+price,diner
+pet friendly,drive through
+50,distance
+10,250
+4,thai
+30,10 min
+child,people
+type,indian
+50,walkable
+30 min,20
+accomodation,20 min
+chinese,wheelchair
+20,quiet place
+10,2
+10 min,quiet place
+type,pet friendly
+accomodation,50
+30 min,20
+50,2
+distance,30
+4,thai
+20 min,walkable
+price,250
+10,people
+chinese,20
+wheelchair,diner
+indian,child
+drive through,10
+wheelchair,10 min
+250,indian
+drive through,price
+20,child
+chinese,distance
+diner,accomodation
+10,type
+quiet place,2
+20 min,10
+4,30 min
+50,pet friendly
+20,thai
+people,walkable
+30,50
+diner,accomodation
+4,chinese
+30,child
+10,thai
+20,price
+50,wheelchair
+pet friendly,quiet place
+10,10 min
+250,drive through
+20 min,indian
+people,distance
+50,30 min
+walkable,2
+20,type
+diner,quiet place
+30,child
+indian,2
+30 min,people
+50,drive through
+10 min,50
+20,wheelchair
+accomodation,4
+thai,20 min
+distance,type
+price,walkable
+chinese,20
+10,pet friendly
+250,10
+10,accomodation
+30,wheelchair
+20 min,indian
+chinese,quiet place
+4,20
+50,50
+250,child
+walkable,thai
+price,type
+20,30 min
+2,10
+10 min,pet friendly
+diner,people
+distance,drive through
+10 min,50
+20,50
+2,250
+quiet place,chinese
+wheelchair,pet friendly
+walkable,child
+30,type
+price,people
+distance,diner
+20 min,accomodation
+10,drive through
+4,indian
+20,10
+thai,30 min
+30,price
+child,chinese
+20,wheelchair
+50,pet friendly
+type,drive through
+20 min,30 min
+20,walkable
+people,4
+accomodation,indian
+diner,10
+distance,thai
+2,10
+50,10 min
+quiet place,250
+drive through,child
+distance,chinese
+20,thai
+20,pet friendly
+50,wheelchair
+2,10
+diner,10
+50,250
+30 min,20 min
+people,10 min
+walkable,type
+quiet place,accomodation
+indian,30
+price,4
+2,20
+pet friendly,indian
+20,50
+chinese,4
+type,diner
+child,20 min
+50,10
+accomodation,10
+thai,10 min
+drive through,distance
+quiet place,30 min
+wheelchair,30
+people,walkable
+250,price
+chinese,20
+drive through,10
+2,250
+thai,diner
+10,20
+people,accomodation
+wheelchair,30
+50,4
+pet friendly,10 min
+30 min,quiet place
+distance,type
+50,indian
+walkable,20 min
+child,price
+distance,accomodation
+20,diner
+thai,2
+quiet place,pet friendly
+50,30
+indian,drive through
+250,people
+10,walkable
+20 min,chinese
+50,30 min
+4,price
+wheelchair,20
+child,10 min
+10,type
+type,20
+50,20 min
+child,20
+30 min,10
+drive through,250
+2,accomodation
+diner,quiet place
+price,indian
+chinese,wheelchair
+distance,thai
+30,people
+4,pet friendly
+10,walkable
+10 min,50
+2,distance
+30,20
+10,walkable
+chinese,20
+10,type
+10 min,250
+pet friendly,price
+30 min,diner
+thai,child
+wheelchair,4
+20 min,people
+accomodation,quiet place
+drive through,50
+50,indian
+2,accomodation
+50,50
+4,20 min
+30,10 min
+10,10
+people,30 min
+drive through,chinese
+quiet place,type
+250,distance
+price,indian
+wheelchair,child
+walkable,20
+thai,20
+pet friendly,diner
+10,pet friendly
+10,50
+20 min,20
+30 min,child
+4,accomodation
+chinese,30
+people,2
+20,250
+drive through,distance
+type,indian
+price,quiet place
+thai,diner
+wheelchair,50
+10 min,walkable
+diner,wheelchair
+drive through,thai
+indian,child
+accomodation,250
+4,walkable
+distance,chinese
+20 min,20
+20,10 min
+pet friendly,30
+10,people
+50,2
+50,10
+30 min,price
+quiet place,type
+accomodation,diner
+50,10 min
+2,indian
+20 min,distance
+type,10
+price,30
+people,20
+pet friendly,30 min
+wheelchair,thai
+drive through,child
+50,4
+walkable,quiet place
+20,10
+250,chinese
+2,20
+250,walkable
+accomodation,50
+20,pet friendly
+quiet place,50
+price,people
+chinese,30
+thai,wheelchair
+20 min,type
+10 min,indian
+10,distance
+4,diner
+child,drive through
+10,30 min
+child,quiet place
+diner,30 min
+30,walkable
+50,people
+10,distance
+4,price
+drive through,20 min
+wheelchair,250
+pet friendly,accomodation
+10,20
+thai,10 min
+50,2
+chinese,indian
+type,20
+wheelchair,4
+30,walkable
+drive through,20
+10,distance
+50,30 min
+type,20 min
+2,child
+quiet place,chinese
+10,250
+price,thai
+10 min,50
+20,pet friendly
+diner,people
+indian,accomodation
+thai,price
+10,type
+2,walkable
+20 min,people
+10 min,accomodation
+50,drive through
+20,pet friendly
+indian,30 min
+4,20
+diner,distance
+child,250
+50,wheelchair
+chinese,10
+30,quiet place
+pet friendly,30 min
+chinese,50
+distance,250
+type,diner
+10,quiet place
+wheelchair,accomodation
+20,drive through
+10 min,50
+thai,price
+people,walkable
+2,child
+10,20
+4,indian
+20 min,30
+50,chinese
+wheelchair,50
+price,10
+distance,pet friendly
+type,20 min
+250,4
+20,drive through
+30,walkable
+30 min,diner
+thai,20
+10 min,10
+2,indian
+child,accomodation
+quiet place,people
+price,10
+people,pet friendly
+50,indian
+walkable,20
+4,thai
+20,wheelchair
+20 min,accomodation
+type,50
+child,distance
+10 min,250
+drive through,diner
+30 min,quiet place
+chinese,10
+30,2
+child,30
+price,4
+accomodation,diner
+250,10 min
+thai,10
+50,wheelchair
+type,chinese
+drive through,quiet place
+indian,20 min
+10,50
+walkable,2
+20,20
+30 min,distance
+pet friendly,people
+quiet place,diner
+accomodation,30 min
+20 min,child
+wheelchair,thai
+price,10
+chinese,walkable
+250,10
+2,pet friendly
+drive through,4
+20,distance
+indian,50
+10 min,50
+people,30
+20,type
+distance,wheelchair
+10,thai
+child,2
+20,250
+quiet place,indian
+diner,10
+type,10 min
+20 min,30
+30 min,people
+accomodation,drive through
+20,pet friendly
+walkable,4
+50,chinese
+price,50
+50,50
+10,20 min
+type,accomodation
+drive through,20
+wheelchair,pet friendly
+thai,4
+price,distance
+2,indian
+30,250
+20,quiet place
+diner,chinese
+10,child
+walkable,people
+30 min,10 min
+child,people
+250,diner
+20,distance
+30 min,50
+50,price
+20,2
+4,chinese
+drive through,pet friendly
+accomodation,10
+20 min,wheelchair
+30,10 min
+walkable,thai
+type,indian
+10,quiet place
+walkable,price
+50,accomodation
+diner,4
+30 min,type
+20 min,thai
+10 min,10
+10,20
+quiet place,pet friendly
+distance,wheelchair
+20,child
+250,indian
+2,drive through
+chinese,people
+50,30
+quiet place,10
+wheelchair,type
+2,30
+walkable,250
+30 min,chinese
+diner,10
+20,people
+50,thai
+20 min,price
+drive through,child
+pet friendly,indian
+10 min,distance
+50,accomodation
+20,4
+50,250
+30,thai
+pet friendly,50
+30 min,walkable
+10,people
+quiet place,10
+drive through,chinese
+wheelchair,20 min
+distance,accomodation
+20,child
+20,10 min
+4,price
+type,2
+indian,diner
+price,20
+diner,child
+indian,250
+distance,thai
+walkable,30
+chinese,10 min
+drive through,people
+10,50
+type,pet friendly
+20 min,4
+accomodation,2
+10,wheelchair
+30 min,quiet place
+50,20
+indian,chinese
+30,2
+50,wheelchair
+10,250
+accomodation,50
+4,child
+diner,30 min
+walkable,pet friendly
+type,20
+price,20
+drive through,10
+distance,10 min
+20 min,people
+thai,quiet place
+wheelchair,2
+10,quiet place
+diner,drive through
+20,pet friendly
+walkable,50
+4,10 min
+50,250
+10,accomodation
+30 min,price
+child,20
+20 min,people
+thai,type
+30,chinese
+distance,indian
+quiet place,2
+wheelchair,10 min
+20 min,child
+diner,250
+30 min,type
+pet friendly,distance
+price,10
+50,walkable
+drive through,30
+chinese,indian
+people,50
+20,4
+20,accomodation
+thai,10
+quiet place,thai
+20,30
+indian,child
+drive through,walkable
+pet friendly,50
+10,accomodation
+distance,people
+10,250
+10 min,50
+diner,type
+wheelchair,4
+30 min,20 min
+2,price
+chinese,20
+diner,people
+30,drive through
+quiet place,wheelchair
+20,4
+pet friendly,child
+walkable,20 min
+chinese,2
+50,10 min
+250,thai
+accomodation,20
+type,indian
+10,distance
+10,30 min
+price,50
+30,diner
+20,30 min
+type,accomodation
+wheelchair,10
+10,20 min
+quiet place,price
+indian,people
+walkable,2
+pet friendly,child
+thai,10 min
+20,distance
+50,250
+chinese,50
+4,drive through
+type,accomodation
+30 min,10
+drive through,250
+pet friendly,2
+50,quiet place
+20,20
+50,thai
+indian,30
+10,chinese
+4,wheelchair
+distance,20 min
+walkable,child
+price,10 min
+diner,people
+20,people
+20,2
+wheelchair,30 min
+child,pet friendly
+walkable,drive through
+thai,type
+250,price
+50,4
+indian,diner
+10,quiet place
+10 min,distance
+20 min,accomodation
+30,10
+chinese,50
+4,indian
+walkable,30 min
+10 min,drive through
+accomodation,price
+50,pet friendly
+child,10
+wheelchair,30
+type,people
+thai,chinese
+250,20
+50,20 min
+distance,2
+20,quiet place
+10,diner
+30 min,wheelchair
+accomodation,50
+chinese,child
+20 min,2
+indian,walkable
+people,250
+20,type
+drive through,distance
+10 min,price
+50,diner
+10,quiet place
+pet friendly,10
+4,30
+20,thai
+type,10
+child,chinese
+thai,20
+quiet place,wheelchair
+indian,20
+10,30
+50,accomodation
+2,price
+pet friendly,diner
+20 min,4
+50,drive through
+250,walkable
+distance,10 min
+people,30 min
+walkable,child
+people,pet friendly
+50,4
+10 min,30 min
+diner,30
+10,20 min
+thai,2
+indian,20
+distance,wheelchair
+50,chinese
+type,10
+quiet place,price
+drive through,20
+accomodation,250
+thai,accomodation
+20 min,2
+child,10
+30 min,price
+people,10
+chinese,4
+50,indian
+pet friendly,20
+type,10 min
+50,walkable
+30,250
+drive through,20
+wheelchair,diner
+quiet place,distance
+10,20
+quiet place,4
+20 min,2
+price,walkable
+10,wheelchair
+indian,child
+chinese,thai
+accomodation,distance
+50,30 min
+50,250
+diner,10 min
+drive through,20
+30,type
+pet friendly,people
+thai,20
+type,price
+chinese,pet friendly
+50,diner
+people,30
+20,child
+250,accomodation
+indian,drive through
+10,walkable
+2,4
+20 min,30 min
+wheelchair,10
+distance,quiet place
+10 min,50
+diner,price
+indian,drive through
+20 min,10 min
+30,quiet place
+10,child
+2,pet friendly
+wheelchair,people
+50,10
+type,chinese
+thai,distance
+20,walkable
+30 min,4
+250,50
+20,accomodation
+quiet place,drive through
+50,20 min
+10,2
+indian,child
+price,20
+walkable,chinese
+diner,30
+wheelchair,250
+20,10
+pet friendly,10 min
+30 min,accomodation
+distance,4
+type,50
+people,thai
+child,thai
+wheelchair,50
+10,2
+10 min,30
+people,accomodation
+20,20 min
+quiet place,drive through
+50,type
+20,diner
+distance,walkable
+indian,pet friendly
+chinese,30 min
+price,4
+10,250
+2,thai
+accomodation,30 min
+10,indian
+250,chinese
+20,30
+wheelchair,10
+child,50
+50,pet friendly
+type,quiet place
+diner,20 min
+price,4
+walkable,20
+10 min,distance
+people,drive through
+distance,50
+20,thai
+wheelchair,4
+drive through,30 min
+pet friendly,people
+10 min,30
+250,10
+chinese,10
+20,quiet place
+20 min,child
+2,type
+price,diner
+50,accomodation
+walkable,indian
+distance,price
+pet friendly,quiet place
+indian,accomodation
+20,thai
+2,4
+30 min,diner
+20,250
+chinese,10
+10 min,30
+20 min,child
+50,10
+drive through,50
+type,people
+wheelchair,walkable
+diner,type
+10,quiet place
+20 min,2
+4,price
+pet friendly,30
+30 min,child
+chinese,wheelchair
+20,10
+drive through,indian
+thai,250
+walkable,50
+10 min,people
+50,distance
+20,accomodation
+10,pet friendly
+indian,people
+price,drive through
+30,20
+wheelchair,type
+250,20 min
+accomodation,10 min
+distance,chinese
+2,child
+20,10
+50,thai
+50,quiet place
+walkable,diner
+4,30 min
+accomodation,30
+10 min,20
+wheelchair,indian
+people,20 min
+50,thai
+4,drive through
+price,type
+quiet place,30 min
+250,chinese
+diner,2
+child,walkable
+10,distance
+10,50
+pet friendly,20
+drive through,20
+diner,30
+30 min,2
+pet friendly,thai
+people,4
+20 min,250
+50,chinese
+accomodation,walkable
+50,type
+distance,price
+10 min,wheelchair
+child,20
+indian,10
+10,quiet place
+quiet place,walkable
+4,10 min
+thai,diner
+2,price
+20 min,50
+child,people
+chinese,pet friendly
+indian,distance
+type,10
+20,50
+drive through,30 min
+30,accomodation
+10,20
+wheelchair,250
+30,thai
+drive through,20
+diner,2
+50,distance
+50,20
+10,250
+4,pet friendly
+walkable,accomodation
+wheelchair,quiet place
+price,people
+indian,10
+10 min,child
+type,30 min
+chinese,20 min
+4,10
+chinese,quiet place
+250,20 min
+child,pet friendly
+50,people
+walkable,indian
+diner,distance
+10 min,30 min
+30,wheelchair
+2,price
+accomodation,drive through
+type,thai
+20,50
+20,10
+people,chinese
+30 min,2
+10,type
+20,10 min
+indian,quiet place
+drive through,10
+4,20
+child,diner
+walkable,distance
+30,250
+accomodation,pet friendly
+thai,20 min
+price,50
+wheelchair,50
+4,20
+thai,30 min
+250,50
+walkable,quiet place
+20,drive through
+10,price
+pet friendly,20 min
+diner,people
+50,10 min
+30,distance
+type,2
+chinese,accomodation
+child,10
+wheelchair,indian
+30,10
+chinese,20
+type,4
+20 min,50
+distance,diner
+2,10
+people,quiet place
+pet friendly,price
+drive through,250
+wheelchair,10 min
+child,50
+30 min,indian
+20,walkable
+thai,accomodation
+2,thai
+distance,30
+chinese,indian
+accomodation,4
+diner,10 min
+20,child
+250,50
+price,quiet place
+20,20 min
+wheelchair,drive through
+10,30 min
+type,people
+walkable,10
+pet friendly,50
+20 min,wheelchair
+type,50
+2,quiet place
+diner,10
+10,people
+walkable,30
+indian,chinese
+20,10 min
+20,accomodation
+price,thai
+pet friendly,4
+30 min,50
+drive through,250
+child,distance
+50,10
+250,30 min
+30,20
+child,walkable
+chinese,pet friendly
+10 min,20
+indian,drive through
+accomodation,thai
+diner,distance
+20 min,people
+type,50
+10,wheelchair
+price,quiet place
+2,4
+type,30
+50,price
+2,20 min
+quiet place,indian
+50,10
+people,drive through
+distance,diner
+30 min,wheelchair
+250,child
+chinese,pet friendly
+thai,walkable
+20,4
+10,20
+accomodation,10 min
+20,wheelchair
+10 min,50
+thai,indian
+chinese,type
+30 min,diner
+250,child
+distance,20 min
+accomodation,4
+2,10
+price,quiet place
+10,people
+pet friendly,20
+30,drive through
+walkable,50
+quiet place,50
+50,4
+type,people
+accomodation,indian
+30,drive through
+distance,10
+20 min,price
+30 min,diner
+250,20
+child,10
+2,10 min
+chinese,20
+wheelchair,walkable
+pet friendly,thai
+2,4
+diner,indian
+price,20
+thai,30
+pet friendly,distance
+child,30 min
+20 min,quiet place
+250,chinese
+people,walkable
+10,20
+10 min,50
+10,drive through
+type,wheelchair
+accomodation,50
+20 min,20
+10 min,accomodation
+distance,pet friendly
+10,4
+wheelchair,50
+chinese,price
+50,30
+30 min,walkable
+10,2
+thai,people
+drive through,quiet place
+type,20
+250,diner
+child,indian
+pet friendly,thai
+distance,20
+chinese,drive through
+20 min,20
+10 min,type
+10,price
+accomodation,wheelchair
+250,10
+quiet place,child
+30,indian
+diner,people
+50,30 min
+4,50
+2,walkable
+distance,walkable
+30,indian
+4,20
+50,20
+thai,30 min
+10,diner
+20 min,people
+10,wheelchair
+quiet place,price
+50,250
+10 min,drive through
+pet friendly,2
+chinese,type
+accomodation,child
+4,20
+distance,people
+30,price
+wheelchair,type
+10 min,2
+walkable,indian
+quiet place,child
+20 min,50
+drive through,250
+thai,30 min
+10,accomodation
+50,pet friendly
+20,10
+diner,chinese
+diner,10 min
+10,30
+walkable,250
+wheelchair,type
+child,accomodation
+chinese,20 min
+indian,20
+quiet place,4
+30 min,pet friendly
+2,drive through
+10,distance
+price,50
+thai,20
+people,50
+30 min,quiet place
+10 min,pet friendly
+wheelchair,indian
+250,thai
+10,diner
+accomodation,chinese
+20,type
+walkable,2
+people,price
+30,child
+10,20
+drive through,50
+4,distance
+20 min,50
+indian,distance
+250,wheelchair
+50,10 min
+30 min,drive through
+20 min,30
+price,people
+chinese,quiet place
+4,2
+50,diner
+accomodation,20
+20,thai
+child,10
+10,walkable
+type,pet friendly
+quiet place,price
+4,type
+drive through,distance
+30,50
+wheelchair,10
+thai,10 min
+50,20
+2,250
+pet friendly,10
+walkable,20 min
+child,people
+diner,accomodation
+chinese,indian
+20,30 min
+20 min,diner
+50,2
+50,price
+drive through,10
+quiet place,wheelchair
+distance,accomodation
+chinese,20
+thai,indian
+walkable,30 min
+type,30
+pet friendly,10
+child,people
+250,10 min
+4,20
+accomodation,20
+250,50
+price,walkable
+wheelchair,chinese
+diner,thai
+2,50
+4,10 min
+distance,20
+30,10
+10,child
+30 min,20 min
+pet friendly,quiet place
+type,indian
+people,drive through
+wheelchair,distance
+diner,walkable
+pet friendly,thai
+50,10 min
+20 min,250
+drive through,30 min
+people,4
+10,10
+2,50
+30,20
+quiet place,20
+chinese,type
+indian,price
+child,accomodation
+20,chinese
+30,20 min
+people,accomodation
+diner,distance
+20,drive through
+2,50
+type,walkable
+pet friendly,10 min
+10,indian
+250,price
+4,quiet place
+30 min,child
+wheelchair,10
+50,thai
+10,wheelchair
+20,quiet place
+10 min,walkable
+10,50
+accomodation,chinese
+distance,indian
+diner,price
+child,thai
+50,30
+type,20 min
+4,30 min
+250,20
+pet friendly,people
+2,drive through
+quiet place,30
+20 min,4
+20,10 min
+accomodation,thai
+30 min,chinese
+2,child
+10,price
+walkable,diner
+10,20
+indian,distance
+drive through,people
+250,50
+type,wheelchair
+50,pet friendly
+walkable,250
+50,chinese
+4,people
+20 min,30
+wheelchair,diner
+10,price
+20,drive through
+50,accomodation
+thai,type
+30 min,quiet place
+20,indian
+child,10
+distance,2
+pet friendly,10 min
+30 min,4
+50,10
+pet friendly,thai
+price,people
+20,child
+walkable,2
+distance,10
+50,drive through
+30,indian
+20,wheelchair
+diner,type
+10 min,accomodation
+20 min,250
+quiet place,chinese
+50,type
+quiet place,thai
+30 min,people
+price,chinese
+30,indian
+pet friendly,10 min
+20 min,wheelchair
+4,accomodation
+10,drive through
+20,diner
+distance,child
+2,50
+250,walkable
+10,20
+10 min,indian
+chinese,price
+wheelchair,pet friendly
+child,4
+walkable,30
+diner,quiet place
+20,distance
+drive through,20 min
+type,50
+accomodation,thai
+250,2
+30 min,20
+10,50
+people,10
+10 min,chinese
+indian,distance
+walkable,type
+20 min,diner
+child,2
+price,accomodation
+thai,20
+pet friendly,10
+30,4
+50,people
+250,50
+quiet place,30 min
+20,wheelchair
+10,drive through
+2,accomodation
+quiet place,people
+250,wheelchair
+30 min,50
+drive through,20
+distance,price
+30,indian
+10,4
+10,child
+type,diner
+20,chinese
+20 min,pet friendly
+thai,50
+walkable,10 min
+20,50
+2,20
+child,pet friendly
+250,walkable
+type,20 min
+quiet place,50
+chinese,4
+accomodation,10
+10 min,30
+diner,people
+indian,wheelchair
+30 min,drive through
+thai,distance
+10,price
+20 min,child
+drive through,accomodation
+quiet place,10
+distance,type
+walkable,thai
+50,10 min
+pet friendly,chinese
+price,4
+50,250
+2,10
+20,30 min
+wheelchair,indian
+30,people
+20,diner
+chinese,price
+10,10 min
+quiet place,20 min
+accomodation,type
+diner,child
+thai,50
+20,wheelchair
+250,20
+10,30 min
+indian,walkable
+drive through,2
+30,people
+pet friendly,4
+50,distance
+20,quiet place
+walkable,price
+distance,type
+drive through,250
+50,4
+child,wheelchair
+chinese,people
+pet friendly,thai
+10 min,20
+2,50
+10,30 min
+accomodation,20 min
+diner,10
+30,indian
+drive through,4
+10,20
+distance,50
+20 min,50
+250,30 min
+accomodation,walkable
+10 min,wheelchair
+people,10
+30,2
+child,quiet place
+pet friendly,type
+20,thai
+diner,chinese
+price,indian
+people,20 min
+accomodation,10
+10,chinese
+20,30
+50,quiet place
+indian,10 min
+type,4
+drive through,30 min
+thai,250
+walkable,child
+2,50
+20,wheelchair
+price,distance
+pet friendly,diner
+30 min,diner
+30,20
+distance,type
+accomodation,pet friendly
+10 min,20
+people,walkable
+child,thai
+250,50
+2,4
+price,chinese
+10,10
+20 min,quiet place
+wheelchair,drive through
+50,indian
+walkable,people
+50,price
+quiet place,30 min
+4,type
+diner,child
+20 min,10 min
+accomodation,chinese
+20,50
+pet friendly,10
+wheelchair,10
+2,20
+thai,drive through
+indian,30
+250,distance
+people,10 min
+diner,child
+quiet place,accomodation
+price,chinese
+20,wheelchair
+2,20 min
+distance,10
+indian,50
+50,250
+pet friendly,type
+10,20
+thai,drive through
+30,walkable
+4,30 min
+30,diner
+50,20
+2,30 min
+people,drive through
+10,distance
+20,wheelchair
+20 min,thai
+type,accomodation
+child,price
+quiet place,10 min
+walkable,pet friendly
+chinese,indian
+10,250
+50,4
+diner,30
+10,2
+indian,50
+50,type
+distance,drive through
+accomodation,20
+walkable,wheelchair
+chinese,quiet place
+30 min,10
+10 min,child
+250,4
+people,pet friendly
+20 min,thai
+20,price
+4,child
+chinese,indian
+drive through,50
+distance,pet friendly
+20,type
+2,walkable
+quiet place,people
+accomodation,250
+30 min,30
+wheelchair,20 min
+10 min,20
+10,50
+10,diner
+thai,price
+people,distance
+walkable,20
+2,drive through
+child,250
+10 min,indian
+wheelchair,type
+50,price
+20,30
+30 min,4
+pet friendly,chinese
+diner,10
+accomodation,quiet place
+50,thai
+20 min,10
+30 min,indian
+50,2
+chinese,10 min
+wheelchair,price
+250,20 min
+drive through,child
+quiet place,accomodation
+10,thai
+50,walkable
+20,diner
+4,20
+10,people
+distance,type
+30,pet friendly
+10 min,child
+diner,20
+distance,price
+type,20 min
+indian,pet friendly
+walkable,accomodation
+250,drive through
+quiet place,10
+wheelchair,4
+10,people
+2,50
+30,20
+30 min,chinese
+thai,50
+pet friendly,accomodation
+type,10
+50,thai
+30 min,20
+10,chinese
+50,wheelchair
+20,distance
+20 min,10 min
+walkable,250
+quiet place,price
+4,30
+drive through,2
+indian,people
+child,diner
+chinese,diner
+50,pet friendly
+10,20 min
+20,wheelchair
+child,2
+indian,people
+thai,20
+4,distance
+walkable,quiet place
+drive through,30
+250,30 min
+type,50
+accomodation,10 min
+10,price
+child,20
+walkable,type
+indian,diner
+quiet place,50
+2,people
+10,250
+thai,chinese
+distance,30
+10,price
+20,4
+wheelchair,drive through
+pet friendly,30 min
+accomodation,10 min
+50,20 min
+50,indian
+4,50
+20,10
+pet friendly,accomodation
+thai,child
+chinese,wheelchair
+20 min,20
+price,10 min
+drive through,distance
+10,type
+diner,2
+30 min,250
+quiet place,people
+30,walkable
+people,10 min
+accomodation,thai
+20,wheelchair
+distance,quiet place
+drive through,10
+pet friendly,250
+50,10
+diner,20 min
+child,price
+20,walkable
+2,30 min
+indian,chinese
+50,4
+type,30
+pet friendly,type
+drive through,20
+10 min,indian
+250,quiet place
+4,30
+20 min,walkable
+10,people
+accomodation,wheelchair
+child,30 min
+chinese,distance
+price,20
+2,50
+50,diner
+10,thai
+diner,price
+distance,10 min
+drive through,type
+10,30 min
+50,quiet place
+250,50
+pet friendly,walkable
+4,people
+indian,accomodation
+20 min,20
+10,chinese
+30,thai
+2,wheelchair
+child,20
+10,indian
+4,30
+250,10
+wheelchair,20 min
+pet friendly,30 min
+20,thai
+50,distance
+type,diner
+2,10 min
+price,walkable
+people,chinese
+child,50
+drive through,quiet place
+20,accomodation
+30 min,diner
+price,30
+250,20 min
+pet friendly,20
+type,10
+drive through,50
+4,20
+10,accomodation
+50,indian
+walkable,people
+distance,2
+wheelchair,chinese
+quiet place,thai
+10 min,child
+250,10
+distance,2
+10 min,50
+walkable,price
+chinese,4
+30 min,type
+indian,wheelchair
+10,pet friendly
+20 min,thai
+20,quiet place
+50,accomodation
+drive through,diner
+child,people
+20,30
+10,wheelchair
+2,accomodation
+250,drive through
+pet friendly,quiet place
+distance,type
+walkable,thai
+price,diner
+people,20
+50,chinese
+10,30
+indian,10 min
+child,50
+30 min,4
+20,20 min
+quiet place,20
+type,chinese
+walkable,30
+drive through,30 min
+child,people
+2,10
+wheelchair,10
+50,price
+pet friendly,distance
+diner,indian
+thai,250
+4,50
+20 min,10 min
+accomodation,20
+10,indian
+50,20 min
+30 min,chinese
+250,10
+type,thai
+people,20
+drive through,20
+child,2
+50,accomodation
+10 min,price
+distance,diner
+30,walkable
+quiet place,wheelchair
+4,pet friendly
+20 min,indian
+2,child
+distance,thai
+accomodation,drive through
+50,30 min
+20,20
+50,4
+10 min,10
+people,walkable
+price,type
+30,250
+diner,pet friendly
+wheelchair,quiet place
+10,chinese
+diner,4
+thai,price
+indian,distance
+accomodation,walkable
+50,people
+10 min,50
+child,20 min
+pet friendly,10
+drive through,2
+30,quiet place
+20,250
+wheelchair,20
+10,type
+chinese,30 min
+distance,thai
+20,wheelchair
+50,indian
+250,4
+50,20
+chinese,walkable
+people,30
+10,pet friendly
+30 min,2
+price,child
+type,quiet place
+accomodation,10
+drive through,diner
+10 min,20 min
+price,walkable
+30,wheelchair
+50,2
+50,indian
+250,4
+type,10
+thai,people
+drive through,accomodation
+quiet place,chinese
+diner,20
+20,child
+distance,10
+30 min,20 min
+pet friendly,10 min
+chinese,thai
+20,10
+type,250
+pet friendly,30 min
+price,quiet place
+walkable,accomodation
+30,indian
+wheelchair,child
+50,drive through
+50,4
+20,distance
+20 min,2
+10 min,people
+10,diner
+diner,quiet place
+50,distance
+2,20 min
+30,people
+chinese,accomodation
+walkable,child
+wheelchair,10
+10,10 min
+drive through,pet friendly
+type,20
+250,50
+30 min,20
+thai,indian
+price,4
+diner,2
+thai,walkable
+20,drive through
+chinese,distance
+10,4
+20,10
+wheelchair,type
+50,indian
+20 min,accomodation
+pet friendly,30 min
+250,10 min
+30,child
+50,quiet place
+price,people
+10,type
+diner,distance
+4,walkable
+accomodation,quiet place
+20,child
+50,30
+20,20 min
+10 min,250
+pet friendly,price
+2,people
+drive through,10
+wheelchair,chinese
+30 min,50
+thai,indian
+50,people
+accomodation,2
+30 min,distance
+quiet place,pet friendly
+20,type
+4,thai
+50,10
+child,20
+10,250
+10 min,indian
+30,drive through
+diner,20 min
+walkable,chinese
+wheelchair,price
+walkable,people
+4,20 min
+10,diner
+thai,10
+wheelchair,50
+250,chinese
+distance,50
+child,2
+10 min,price
+drive through,30 min
+20,pet friendly
+type,quiet place
+indian,accomodation
+20,30
+10,drive through
+accomodation,chinese
+20,20 min
+price,4
+pet friendly,20
+quiet place,indian
+type,10 min
+30,people
+30 min,50
+thai,distance
+wheelchair,child
+250,50
+10,walkable
+2,diner
+walkable,20
+price,accomodation
+chinese,10
+people,child
+20 min,type
+wheelchair,pet friendly
+30 min,30
+50,distance
+20,50
+indian,quiet place
+10,drive through
+250,thai
+4,2
+diner,10 min
+20 min,child
+wheelchair,30 min
+chinese,quiet place
+20,price
+thai,4
+10,diner
+distance,drive through
+10,30
+50,people
+pet friendly,20
+2,10 min
+250,accomodation
+50,type
+walkable,indian
+drive through,quiet place
+50,people
+accomodation,indian
+10,50
+type,chinese
+20,10
+price,30
+walkable,4
+pet friendly,2
+20 min,distance
+20,thai
+wheelchair,10 min
+diner,child
+250,30 min
+10 min,indian
+walkable,20
+price,wheelchair
+10,chinese
+distance,20 min
+10,50
+50,thai
+type,child
+30,people
+quiet place,20
+2,250
+30 min,diner
+4,drive through
+pet friendly,accomodation
+drive through,250
+chinese,2
+accomodation,quiet place
+30,20 min
+pet friendly,20
+wheelchair,20
+price,50
+child,diner
+people,10
+4,50
+30 min,distance
+indian,10
+type,thai
+10 min,walkable
+20,distance
+4,10
+20,child
+chinese,type
+250,price
+30,drive through
+accomodation,quiet place
+diner,2
+50,50
+10 min,wheelchair
+pet friendly,30 min
+20 min,walkable
+indian,people
+thai,10
+distance,50
+child,4
+10,250
+30 min,10
+price,20
+wheelchair,diner
+20 min,20
+2,pet friendly
+indian,50
+thai,10 min
+quiet place,walkable
+30,people
+chinese,type
+drive through,accomodation
+accomodation,50
+pet friendly,diner
+20,thai
+30 min,walkable
+price,10 min
+chinese,20 min
+child,4
+quiet place,2
+drive through,30
+20,50
+wheelchair,type
+indian,people
+10,distance
+10,250
+30 min,drive through
+type,distance
+10 min,20
+wheelchair,10
+people,30
+10,diner
+quiet place,20
+child,20 min
+thai,price
+walkable,250
+indian,50
+50,accomodation
+2,pet friendly
+chinese,4
+indian,people
+20,wheelchair
+chinese,50
+10,diner
+30 min,type
+10,price
+drive through,10 min
+30,quiet place
+walkable,distance
+accomodation,pet friendly
+2,child
+250,20 min
+thai,20
+4,50
+50,20
+indian,50
+30,2
+walkable,30 min
+4,drive through
+thai,20 min
+price,type
+diner,10
+chinese,20
+child,people
+pet friendly,wheelchair
+10,quiet place
+distance,10 min
+accomodation,250
+indian,10
+people,pet friendly
+walkable,thai
+chinese,50
+20,drive through
+diner,wheelchair
+accomodation,4
+distance,10
+type,price
+quiet place,2
+30,30 min
+20,50
+250,child
+10 min,20 min
+thai,10
+type,pet friendly
+distance,10
+10 min,30
+wheelchair,20
+20,chinese
+walkable,indian
+50,2
+diner,drive through
+20 min,people
+250,4
+child,accomodation
+50,30 min
+quiet place,price
+50,20
+wheelchair,chinese
+4,50
+10 min,drive through
+pet friendly,accomodation
+10,indian
+30,20 min
+20,walkable
+250,distance
+people,quiet place
+child,thai
+30 min,diner
+2,10
+type,price
+quiet place,indian
+diner,drive through
+wheelchair,50
+distance,30 min
+30,price
+50,10
+child,pet friendly
+thai,10
+2,people
+20,walkable
+chinese,accomodation
+20,20 min
+type,250
+10 min,4
+10,30
+indian,chinese
+20,thai
+walkable,child
+accomodation,wheelchair
+type,250
+20,10
+drive through,20 min
+50,pet friendly
+30 min,people
+distance,4
+2,diner
+quiet place,10 min
+50,price
+250,price
+people,indian
+walkable,thai
+20,child
+chinese,diner
+wheelchair,10
+4,50
+drive through,10 min
+type,50
+pet friendly,distance
+20,10
+30 min,accomodation
+30,quiet place
+20 min,2
+250,2
+indian,diner
+10,20
+10,drive through
+50,30 min
+accomodation,wheelchair
+people,quiet place
+20,distance
+pet friendly,50
+20 min,price
+10 min,thai
+child,30
+type,chinese
+walkable,4
+thai,20
+30,quiet place
+diner,10
+10,wheelchair
+drive through,type
+pet friendly,child
+10 min,4
+250,indian
+distance,30 min
+accomodation,50
+people,price
+50,20 min
+2,chinese
+20,walkable
+drive through,30
+pet friendly,10
+20,distance
+price,child
+indian,diner
+type,wheelchair
+50,accomodation
+thai,4
+chinese,20 min
+walkable,30 min
+50,10
+2,20
+people,quiet place
+250,10 min
+50,20 min
+2,4
+drive through,thai
+quiet place,indian
+10,pet friendly
+20,30
+30 min,people
+chinese,50
+250,child
+price,wheelchair
+walkable,10 min
+diner,type
+20,distance
+10,accomodation
+quiet place,price
+50,10
+chinese,indian
+distance,2
+4,people
+child,30
+20 min,wheelchair
+20,10 min
+diner,20
+type,accomodation
+pet friendly,walkable
+thai,10
+50,30 min
+250,drive through
+2,10
+walkable,250
+30,drive through
+20,type
+indian,accomodation
+people,10 min
+30 min,pet friendly
+50,thai
+price,4
+10,wheelchair
+20 min,diner
+50,distance
+chinese,20
+child,quiet place
+50,250
+people,10
+indian,4
+10 min,10
+2,quiet place
+50,30
+price,20
+type,20 min
+accomodation,chinese
+child,walkable
+drive through,thai
+distance,30 min
+pet friendly,wheelchair
+diner,20
+child,250
+50,diner
+30 min,distance
+chinese,30
+4,people
+10,10
+accomodation,price
+drive through,20 min
+indian,20
+type,thai
+10 min,wheelchair
+50,2
+walkable,pet friendly
+20,quiet place
+wheelchair,10
+10,chinese
+30,4
+quiet place,2
+50,people
+walkable,50
+accomodation,pet friendly
+diner,distance
+thai,20
+20 min,indian
+20,10 min
+drive through,30 min
+price,type
+child,250
+child,drive through
+price,20
+50,20
+4,2
+diner,20 min
+accomodation,walkable
+people,type
+50,distance
+quiet place,thai
+10 min,10
+wheelchair,pet friendly
+250,indian
+10,30 min
+chinese,30
+250,walkable
+30,diner
+2,people
+10,drive through
+price,50
+wheelchair,quiet place
+4,thai
+20,type
+distance,child
+10,accomodation
+chinese,20 min
+indian,pet friendly
+10 min,30 min
+20,50
+accomodation,2
+wheelchair,30 min
+drive through,people
+chinese,indian
+type,20
+250,pet friendly
+child,price
+thai,10 min
+distance,quiet place
+diner,50
+10,4
+20 min,10
+walkable,30
+50,20
+4,20
+people,distance
+30 min,quiet place
+walkable,diner
+10,2
+30,wheelchair
+10 min,20
+indian,chinese
+pet friendly,50
+drive through,250
+10,type
+thai,20 min
+50,accomodation
+price,child
+child,people
+pet friendly,diner
+30,walkable
+250,indian
+distance,drive through
+type,2
+wheelchair,30 min
+20,50
+20,price
+20 min,accomodation
+10,thai
+4,quiet place
+chinese,10 min
+50,10
+price,20
+distance,walkable
+diner,quiet place
+child,20 min
+accomodation,50
+thai,50
+20,chinese
+4,10
+type,2
+250,people
+30,10 min
+10,drive through
+indian,wheelchair
+pet friendly,30 min
+30 min,indian
+price,people
+50,4
+thai,walkable
+10 min,quiet place
+250,drive through
+diner,type
+child,pet friendly
+20,distance
+accomodation,50
+chinese,wheelchair
+2,10
+20,30
+10,20 min
+walkable,people
+250,pet friendly
+type,chinese
+distance,20
+10,diner
+indian,price
+2,50
+quiet place,20 min
+10 min,drive through
+20,wheelchair
+30 min,child
+thai,accomodation
+50,10
+4,30
+type,price
+20,indian
+walkable,thai
+4,child
+20 min,10
+20,quiet place
+30,distance
+wheelchair,250
+50,accomodation
+30 min,pet friendly
+people,2
+diner,10 min
+drive through,50
+10,chinese
+wheelchair,pet friendly
+people,price
+indian,walkable
+chinese,4
+child,quiet place
+50,20
+30,drive through
+20 min,diner
+10,30 min
+250,thai
+2,10 min
+accomodation,type
+10,distance
+20,50
+50,distance
+10 min,4
+thai,drive through
+30,people
+20 min,accomodation
+pet friendly,wheelchair
+2,child
+30 min,10
+chinese,indian
+10,50
+quiet place,20
+diner,walkable
+250,20
+type,price
+4,child
+2,20
+price,walkable
+30 min,30
+diner,50
+10,people
+accomodation,20
+wheelchair,drive through
+10,distance
+10 min,indian
+type,thai
+50,quiet place
+chinese,pet friendly
+20 min,250
+4,50
+10 min,thai
+drive through,type
+child,accomodation
+10,250
+30 min,pet friendly
+chinese,people
+30,20 min
+20,indian
+diner,10
+20,wheelchair
+quiet place,2
+50,distance
+walkable,price
+thai,4
+20 min,50
+diner,10 min
+250,2
+30 min,wheelchair
+people,walkable
+50,indian
+20,price
+quiet place,30
+drive through,accomodation
+pet friendly,10
+chinese,20
+type,child
+10,distance
+quiet place,20
+type,pet friendly
+2,walkable
+diner,30 min
+wheelchair,50
+20 min,accomodation
+4,indian
+price,50
+10,10
+30,child
+10 min,thai
+20,distance
+250,chinese
+people,drive through
+accomodation,chinese
+type,4
+pet friendly,20
+quiet place,people
+50,20
+walkable,10 min
+10,30 min
+50,2
+price,wheelchair
+30,10
+thai,20 min
+indian,drive through
+child,distance
+diner,250
+30,quiet place
+50,drive through
+thai,50
+accomodation,20 min
+250,20
+chinese,20
+30 min,4
+diner,indian
+type,price
+walkable,10 min
+10,distance
+wheelchair,10
+child,pet friendly
+2,people
+pet friendly,10
+50,250
+drive through,thai
+10 min,accomodation
+30 min,quiet place
+type,people
+20 min,wheelchair
+distance,20
+diner,price
+chinese,10
+walkable,4
+child,indian
+20,30
+2,50
+child,250
+20,diner
+30 min,accomodation
+chinese,people
+50,wheelchair
+20,quiet place
+10,10
+distance,type
+pet friendly,30
+10 min,walkable
+indian,20 min
+thai,price
+4,2
+50,drive through
+50,diner
+20 min,10 min
+10,walkable
+distance,30
+child,thai
+type,4
+2,20
+10,quiet place
+people,price
+indian,chinese
+20,pet friendly
+accomodation,drive through
+30 min,50
+wheelchair,250
+quiet place,type
+10,drive through
+30 min,chinese
+10,4
+20,accomodation
+10 min,250
+2,thai
+indian,diner
+wheelchair,20 min
+pet friendly,people
+price,walkable
+30,50
+50,20
+child,distance
+indian,wheelchair
+thai,4
+child,pet friendly
+10,accomodation
+30,type
+diner,10
+30 min,20
+distance,50
+20 min,drive through
+250,10 min
+price,20
+2,50
+quiet place,chinese
+people,walkable
+10,drive through
+diner,20 min
+thai,10
+accomodation,20
+50,250
+20,10 min
+30 min,chinese
+child,walkable
+distance,wheelchair
+type,2
+price,pet friendly
+people,quiet place
+4,50
+30,indian
+50,distance
+250,20
+pet friendly,type
+price,10
+thai,diner
+quiet place,20
+10,4
+child,wheelchair
+50,people
+chinese,drive through
+accomodation,30
+10 min,20 min
+indian,30 min
+2,walkable
+4,distance
+wheelchair,people
+10 min,type
+diner,50
+drive through,child
+quiet place,50
+250,pet friendly
+indian,20
+price,20
+10,10
+chinese,30
+accomodation,30 min
+thai,2
+walkable,20 min
+10 min,distance
+walkable,250
+wheelchair,diner
+thai,20 min
+chinese,child
+20,20
+price,2
+type,10
+indian,50
+30,accomodation
+30 min,people
+quiet place,4
+drive through,pet friendly
+50,10
+type,accomodation
+pet friendly,price
+10,250
+20,diner
+wheelchair,2
+20 min,child
+people,10 min
+30 min,50
+50,20
+distance,10
+walkable,quiet place
+drive through,indian
+chinese,30
+thai,4
+10 min,chinese
+walkable,thai
+pet friendly,20
+50,price
+2,distance
+10,20 min
+30,30 min
+quiet place,type
+accomodation,wheelchair
+4,50
+250,child
+drive through,indian
+10,20
+diner,people
+10 min,20
+20,thai
+type,30 min
+10,pet friendly
+250,4
+people,walkable
+drive through,30
+2,quiet place
+wheelchair,10
+price,50
+child,20 min
+distance,indian
+accomodation,50
+chinese,diner
+10,accomodation
+indian,people
+thai,child
+20 min,drive through
+30 min,20
+wheelchair,type
+2,10
+chinese,30
+250,pet friendly
+4,distance
+walkable,price
+diner,50
+20,quiet place
+50,10 min
+indian,drive through
+wheelchair,2
+child,accomodation
+thai,price
+10,walkable
+30,20
+distance,20 min
+10,250
+chinese,pet friendly
+type,50
+10 min,people
+30 min,20
+diner,50
+quiet place,4
+10 min,30
+accomodation,wheelchair
+chinese,20
+drive through,child
+diner,4
+price,distance
+people,10
+30 min,walkable
+250,50
+thai,20 min
+20,type
+2,indian
+10,pet friendly
+quiet place,50
+price,10 min
+child,30 min
+4,people
+pet friendly,walkable
+10,diner
+drive through,quiet place
+distance,chinese
+accomodation,250
+thai,type
+indian,10
+wheelchair,50
+20,2
+50,20 min
+30,20
+walkable,4
+people,10
+10 min,quiet place
+50,wheelchair
+indian,30 min
+30,accomodation
+pet friendly,distance
+thai,20
+type,diner
+20,10
+250,drive through
+2,20 min
+50,child
+price,chinese
+diner,child
+30,people
+10,10
+20,distance
+quiet place,4
+10 min,250
+walkable,thai
+50,20
+pet friendly,20 min
+drive through,indian
+wheelchair,accomodation
+price,30 min
+2,50
+chinese,type
+10,thai
+drive through,child
+pet friendly,indian
+quiet place,diner
+20,30 min
+distance,2
+wheelchair,50
+250,price
+type,people
+chinese,10
+4,10 min
+walkable,20
+50,30
+accomodation,20 min
+30 min,50
+price,250
+pet friendly,50
+child,drive through
+30,distance
+chinese,wheelchair
+10,quiet place
+20,walkable
+10 min,diner
+type,thai
+20,indian
+4,20 min
+10,accomodation
+people,2
+50,30
+50,20 min
+250,10
+price,distance
+quiet place,chinese
+pet friendly,2
+4,child
+walkable,type
+20,20
+diner,30 min
+10,people
+10 min,wheelchair
+indian,accomodation
+drive through,thai
+30 min,walkable
+30,people
+quiet place,chinese
+20 min,20
+10 min,drive through
+50,10
+50,10
+accomodation,indian
+250,20
+type,2
+price,wheelchair
+diner,child
+pet friendly,distance
+4,thai
+accomodation,indian
+2,30 min
+quiet place,drive through
+30,10 min
+people,50
+child,20
+price,250
+50,diner
+walkable,thai
+distance,type
+chinese,4
+10,pet friendly
+10,20 min
+20,wheelchair
+wheelchair,50
+20,accomodation
+10,chinese
+20 min,10
+type,walkable
+indian,20
+30 min,50
+drive through,price
+thai,250
+30,10 min
+4,2
+people,diner
+distance,pet friendly
+quiet place,child
+type,indian
+30,250
+distance,20
+50,thai
+quiet place,10 min
+2,20
+20 min,pet friendly
+drive through,people
+diner,accomodation
+child,4
+10,10
+30 min,50
+wheelchair,price
+walkable,chinese
+10,30
+50,price
+people,20
+diner,walkable
+2,wheelchair
+indian,distance
+30 min,pet friendly
+thai,accomodation
+20 min,chinese
+4,10
+drive through,20
+child,250
+10 min,50
+type,quiet place
+10,drive through
+diner,chinese
+people,price
+accomodation,20
+30 min,walkable
+50,pet friendly
+2,child
+indian,thai
+quiet place,30
+10,distance
+type,250
+50,20 min
+wheelchair,4
+10 min,20
+10,4
+20,50
+price,30 min
+walkable,250
+10,50
+type,accomodation
+20 min,20
+pet friendly,30
+10 min,indian
+wheelchair,people
+chinese,distance
+child,drive through
+quiet place,2
+diner,thai
+10,20
+20,10 min
+accomodation,drive through
+2,price
+50,chinese
+20 min,thai
+quiet place,wheelchair
+pet friendly,distance
+type,4
+walkable,people
+50,child
+30,10
+indian,diner
+30 min,250
+pet friendly,30
+accomodation,distance
+wheelchair,10 min
+20,10
+20 min,people
+4,chinese
+250,20
+10,50
+2,quiet place
+50,thai
+walkable,type
+drive through,30 min
+child,price
+indian,diner
+50,child
+2,thai
+wheelchair,indian
+type,10
+walkable,price
+quiet place,4
+10 min,drive through
+distance,10
+30 min,diner
+accomodation,30
+20,chinese
+people,20
+50,20 min
+250,pet friendly
+accomodation,quiet place
+diner,child
+20,50
+pet friendly,price
+indian,20 min
+50,chinese
+10,10 min
+30,4
+walkable,people
+type,30 min
+thai,wheelchair
+distance,drive through
+250,10
+20,2
+drive through,4
+price,20
+10 min,30 min
+diner,wheelchair
+10,walkable
+accomodation,50
+pet friendly,20 min
+quiet place,250
+20,people
+50,type
+30,distance
+10,child
+chinese,thai
+2,indian
+type,2
+child,20 min
+50,people
+indian,quiet place
+accomodation,wheelchair
+thai,walkable
+30,10 min
+10,diner
+50,20
+chinese,distance
+20,drive through
+price,4
+250,30 min
+10,pet friendly
+250,20
+pet friendly,accomodation
+quiet place,10 min
+10,indian
+50,10
+thai,chinese
+20,drive through
+child,price
+wheelchair,type
+30,20 min
+distance,people
+walkable,4
+2,30 min
+50,diner
+distance,thai
+20 min,250
+50,50
+10,walkable
+wheelchair,indian
+accomodation,diner
+price,4
+chinese,20
+drive through,child
+people,quiet place
+10 min,30
+pet friendly,type
+2,30 min
+10,20
+2,pet friendly
+people,child
+type,quiet place
+chinese,diner
+30 min,walkable
+drive through,distance
+50,thai
+20 min,250
+4,10
+30,20
+10 min,10
+wheelchair,50
+20,indian
+accomodation,price
+2,drive through
+type,20 min
+distance,50
+people,10
+quiet place,child
+indian,20
+accomodation,4
+wheelchair,20
+30 min,10
+50,250
+thai,price
+10 min,walkable
+diner,chinese
+30,pet friendly
+pet friendly,20
+diner,drive through
+people,10
+wheelchair,250
+20 min,4
+accomodation,30
+2,chinese
+price,10 min
+50,walkable
+indian,thai
+20,quiet place
+10,child
+type,50
+30 min,distance
+20 min,drive through
+distance,people
+10 min,wheelchair
+diner,4
+quiet place,10
+pet friendly,250
+child,30
+chinese,20
+50,price
+2,walkable
+10,30 min
+type,20
+thai,accomodation
+indian,50
+chinese,people
+thai,wheelchair
+20 min,30
+10,drive through
+2,250
+50,pet friendly
+price,20
+indian,10
+distance,20
+diner,50
+accomodation,quiet place
+10 min,30 min
+4,child
+walkable,type
+pet friendly,accomodation
+diner,price
+child,20 min
+50,20
+chinese,wheelchair
+50,people
+thai,10
+4,30 min
+distance,walkable
+type,10 min
+indian,20
+2,quiet place
+250,30
+drive through,10
+30 min,price
+20,quiet place
+people,indian
+walkable,drive through
+50,10
+pet friendly,4
+thai,chinese
+distance,20 min
+10 min,50
+2,child
+wheelchair,10
+30,type
+accomodation,diner
+20,250
+pet friendly,10
+quiet place,walkable
+20 min,price
+wheelchair,10 min
+drive through,250
+type,chinese
+indian,30 min
+accomodation,20
+4,child
+50,10
+2,50
+diner,30
+20,thai
+people,distance
+30 min,distance
+chinese,10
+walkable,20 min
+quiet place,drive through
+people,2
+10,30
+wheelchair,diner
+50,child
+250,pet friendly
+20,4
+50,indian
+thai,20
+type,price
+accomodation,10 min
+walkable,accomodation
+diner,type
+chinese,people
+50,drive through
+distance,indian
+thai,wheelchair
+30,250
+child,4
+10,pet friendly
+20 min,30 min
+20,10 min
+50,2
+quiet place,price
+10,20
+pet friendly,10
+drive through,chinese
+2,10 min
+child,quiet place
+indian,30
+4,20
+type,30 min
+20,walkable
+wheelchair,price
+250,accomodation
+distance,10
+thai,50
+50,people
+20 min,diner
+4,20
+price,50
+walkable,diner
+type,quiet place
+pet friendly,accomodation
+wheelchair,10
+50,people
+30,20 min
+drive through,10 min
+30 min,250
+10,20
+distance,child
+indian,thai
+2,chinese
+child,price
+10,distance
+people,20
+20,2
+wheelchair,10
+30,30 min
+type,drive through
+50,10 min
+walkable,250
+accomodation,diner
+indian,50
+pet friendly,4
+thai,chinese
+20 min,quiet place
+50,wheelchair
+thai,20 min
+type,250
+chinese,quiet place
+indian,accomodation
+20,4
+20,50
+diner,pet friendly
+10,10 min
+walkable,child
+2,30 min
+drive through,10
+price,distance
+30,people
+30 min,pet friendly
+thai,2
+10 min,drive through
+10,distance
+10,250
+30,child
+indian,20
+walkable,people
+diner,4
+wheelchair,20
+quiet place,50
+price,accomodation
+50,type
+chinese,20 min
+wheelchair,20
+walkable,chinese
+2,20
+30,10
+pet friendly,people
+type,price
+drive through,4
+10 min,child
+diner,accomodation
+50,50
+250,thai
+quiet place,10
+indian,20 min
+30 min,distance
+type,20 min
+20,quiet place
+people,diner
+10,30
+10 min,chinese
+250,20
+drive through,50
+child,thai
+4,indian
+walkable,wheelchair
+distance,10
+50,pet friendly
+2,30 min
+price,accomodation
+20 min,pet friendly
+30 min,2
+type,drive through
+child,4
+walkable,30
+10,20
+chinese,indian
+distance,10 min
+50,thai
+diner,accomodation
+price,wheelchair
+20,quiet place
+250,50
+people,10
+distance,chinese
+20 min,diner
+quiet place,drive through
+type,wheelchair
+10,10
+2,20
+people,50
+thai,child
+price,pet friendly
+30 min,walkable
+50,4
+indian,10 min
+30,accomodation
+250,20
+wheelchair,10
+250,20
+4,indian
+price,50
+chinese,30
+child,pet friendly
+distance,people
+30 min,diner
+quiet place,20 min
+type,2
+thai,10
+50,drive through
+walkable,10 min
+accomodation,20
+walkable,pet friendly
+thai,child
+type,drive through
+quiet place,price
+wheelchair,distance
+4,10
+250,20
+accomodation,2
+30,50
+chinese,10
+20 min,50
+30 min,20
+indian,10 min
+diner,people
+4,10
+quiet place,drive through
+2,20
+indian,people
+walkable,10
+accomodation,chinese
+diner,30
+250,thai
+10 min,distance
+50,30 min
+20,wheelchair
+20 min,price
+50,type
+pet friendly,child
+thai,drive through
+walkable,quiet place
+indian,wheelchair
+4,accomodation
+20,10 min
+distance,50
+30,child
+people,pet friendly
+20 min,2
+chinese,250
+10,price
+diner,10
+20,30 min
+50,type
+indian,wheelchair
+people,thai
+50,drive through
+4,20 min
+pet friendly,distance
+quiet place,child
+10,250
+50,10
+walkable,20
+20,10 min
+diner,2
+price,30
+chinese,accomodation
+type,30 min
+pet friendly,distance
+quiet place,250
+20 min,people
+20,child
+thai,20
+wheelchair,indian
+chinese,drive through
+accomodation,price
+2,50
+type,30
+10,10
+10 min,50
+walkable,diner
+4,30 min
+pet friendly,quiet place
+250,type
+10 min,50
+20,30
+walkable,2
+drive through,50
+wheelchair,child
+accomodation,10
+chinese,30 min
+4,distance
+thai,diner
+20 min,20
+10,indian
+people,price
+walkable,4
+20,pet friendly
+50,diner
+child,20 min
+indian,accomodation
+wheelchair,price
+quiet place,people
+250,10 min
+chinese,distance
+thai,50
+10,10
+20,30 min
+2,drive through
+30,type
+10 min,type
+drive through,distance
+50,250
+thai,10
+30,20
+quiet place,30 min
+walkable,price
+accomodation,wheelchair
+4,child
+people,pet friendly
+indian,20 min
+50,20
+chinese,diner
+2,10
+indian,250
+30,50
+chinese,thai
+10,distance
+20,50
+2,accomodation
+people,20 min
+4,diner
+20,type
+child,10
+quiet place,30 min
+walkable,10 min
+pet friendly,wheelchair
+price,drive through
+thai,pet friendly
+30 min,10 min
+wheelchair,10
+4,type
+drive through,accomodation
+50,250
+20,child
+2,20
+30,distance
+price,indian
+20 min,diner
+quiet place,chinese
+walkable,people
+50,10
+diner,10
+wheelchair,quiet place
+distance,50
+type,10 min
+4,drive through
+30 min,20 min
+2,thai
+pet friendly,20
+people,250
+chinese,50
+accomodation,child
+indian,walkable
+price,30
+20,10
+pet friendly,price
+10,2
+20,wheelchair
+people,distance
+4,quiet place
+20 min,250
+10,drive through
+child,30 min
+thai,indian
+10 min,diner
+20,50
+50,type
+walkable,accomodation
+30,chinese
+drive through,20
+30 min,distance
+10,indian
+price,child
+2,20 min
+wheelchair,20
+10,diner
+10 min,quiet place
+pet friendly,chinese
+30,250
+accomodation,walkable
+thai,people
+4,type
+50,50
+20,diner
+distance,50
+30 min,drive through
+quiet place,4
+people,type
+child,20
+chinese,10
+250,30
+50,accomodation
+10 min,20 min
+price,thai
+pet friendly,indian
+walkable,10
+2,wheelchair
+10,20
+30,accomodation
+2,30 min
+20,price
+50,250
+wheelchair,indian
+drive through,walkable
+20 min,quiet place
+diner,4
+type,distance
+chinese,10 min
+pet friendly,50
+10,child
+people,thai
+10,4
+drive through,20 min
+walkable,30 min
+10,accomodation
+price,diner
+250,chinese
+50,10 min
+wheelchair,pet friendly
+people,indian
+2,30
+child,thai
+quiet place,distance
+type,20
+50,20
+10,20
+accomodation,drive through
+30,chinese
+50,child
+10 min,20
+4,2
+wheelchair,pet friendly
+20 min,indian
+250,price
+30 min,quiet place
+10,50
+distance,people
+thai,walkable
+diner,type
+30,10
+pet friendly,250
+50,distance
+2,20 min
+walkable,thai
+wheelchair,price
+20,20
+drive through,indian
+4,type
+10,child
+chinese,diner
+accomodation,people
+50,30 min
+10 min,quiet place
+30,wheelchair
+30 min,distance
+thai,quiet place
+10,drive through
+accomodation,4
+diner,10
+walkable,people
+250,10 min
+pet friendly,type
+20 min,20
+50,child
+indian,20
+50,price
+chinese,2
+distance,quiet place
+50,indian
+diner,10 min
+chinese,drive through
+10,accomodation
+pet friendly,50
+wheelchair,20
+child,30
+30 min,4
+walkable,20 min
+20,2
+250,price
+thai,10
+people,type
+distance,indian
+walkable,50
+accomodation,20 min
+wheelchair,10
+20,10
+30,pet friendly
+child,20
+4,drive through
+250,type
+10 min,diner
+thai,2
+50,price
+people,chinese
+quiet place,30 min
+indian,10
+50,2
+walkable,wheelchair
+distance,type
+20,30 min
+child,accomodation
+price,chinese
+people,thai
+50,diner
+30,4
+10 min,quiet place
+20 min,drive through
+20,10
+pet friendly,250
+10 min,2
+drive through,30
+price,wheelchair
+people,50
+20,indian
+10,type
+50,pet friendly
+thai,30 min
+diner,walkable
+250,distance
+10,accomodation
+chinese,quiet place
+20,20 min
+4,child
+drive through,20 min
+child,20
+30,wheelchair
+10,diner
+50,250
+indian,50
+30 min,people
+10,type
+10 min,2
+price,thai
+distance,quiet place
+4,pet friendly
+20,accomodation
+walkable,chinese
+4,quiet place
+10,drive through
+20 min,20
+walkable,child
+250,chinese
+diner,50
+indian,thai
+distance,2
+10 min,price
+20,pet friendly
+wheelchair,type
+50,accomodation
+30,10
+people,30 min
+20 min,drive through
+quiet place,wheelchair
+diner,price
+50,chinese
+10 min,distance
+thai,4
+250,pet friendly
+people,child
+2,20
+10,30 min
+20,indian
+50,type
+30,10
+walkable,accomodation
+10,type
+chinese,50
+quiet place,price
+30 min,accomodation
+distance,2
+20 min,people
+wheelchair,diner
+indian,20
+walkable,drive through
+4,20
+50,10
+10 min,thai
+child,30
+pet friendly,250
+20,quiet place
+2,10 min
+20,50
+distance,20 min
+diner,chinese
+child,30
+drive through,10
+pet friendly,accomodation
+50,30 min
+people,price
+walkable,250
+type,thai
+4,10
+wheelchair,indian
+child,50
+30 min,walkable
+diner,30
+10 min,50
+price,chinese
+20,quiet place
+pet friendly,2
+distance,20 min
+drive through,wheelchair
+250,10
+20,type
+people,10
+indian,4
+accomodation,thai
+chinese,250
+pet friendly,wheelchair
+10 min,accomodation
+distance,quiet place
+walkable,10
+4,people
+50,20 min
+20,30
+indian,thai
+30 min,type
+drive through,20
+10,2
+price,50
+child,diner
+distance,2
+thai,pet friendly
+20 min,10
+people,walkable
+quiet place,20
+20,30 min
+chinese,price
+child,30
+indian,drive through
+type,50
+10,250
+50,accomodation
+4,diner
+wheelchair,10 min
+type,pet friendly
+250,wheelchair
+drive through,4
+10,10
+walkable,2
+20,20 min
+50,20
+chinese,distance
+indian,10 min
+people,child
+price,30 min
+diner,quiet place
+accomodation,30
+thai,50
+4,20 min
+type,50
+10,child
+thai,walkable
+10,50
+chinese,accomodation
+250,30
+10 min,20
+diner,quiet place
+30 min,people
+pet friendly,wheelchair
+distance,indian
+2,drive through
+price,20
+distance,child
+2,wheelchair
+250,diner
+quiet place,50
+walkable,10
+people,20 min
+pet friendly,drive through
+20,20
+price,4
+type,50
+thai,indian
+chinese,10 min
+accomodation,10
+30,30 min
+2,indian
+20,thai
+child,50
+wheelchair,30
+diner,accomodation
+20 min,20
+50,distance
+10,10 min
+250,30 min
+pet friendly,type
+walkable,10
+price,quiet place
+chinese,4
+people,drive through
+accomodation,250
+pet friendly,distance
+wheelchair,20 min
+price,20
+type,50
+50,people
+quiet place,diner
+4,child
+2,walkable
+chinese,30 min
+indian,30
+thai,drive through
+10 min,10
+20,10
+250,4
+pet friendly,10 min
+wheelchair,distance
+accomodation,people
+child,30 min
+20,50
+quiet place,walkable
+30,10
+drive through,20 min
+50,2
+chinese,thai
+type,10
+indian,price
+20,diner
+distance,drive through
+chinese,pet friendly
+2,10
+diner,10
+accomodation,quiet place
+price,30 min
+30,indian
+50,type
+thai,child
+wheelchair,10 min
+50,20
+4,people
+walkable,20 min
+250,20
+child,drive through
+accomodation,4
+people,20
+50,wheelchair
+250,indian
+walkable,2
+10 min,price
+20,type
+distance,20 min
+10,30
+chinese,30 min
+quiet place,10
+diner,50
+pet friendly,thai
+wheelchair,10 min
+30 min,2
+quiet place,diner
+20,50
+drive through,20
+people,50
+20 min,indian
+child,distance
+10,10
+4,pet friendly
+thai,walkable
+price,type
+accomodation,chinese
+30,250
+wheelchair,thai
+people,20 min
+quiet place,30
+10 min,30 min
+indian,50
+price,drive through
+50,type
+accomodation,250
+walkable,20
+distance,chinese
+10,4
+2,20
+child,10
+diner,pet friendly
+price,child
+10,accomodation
+pet friendly,10 min
+30,walkable
+diner,type
+quiet place,20
+20,drive through
+30 min,thai
+50,indian
+distance,people
+50,wheelchair
+2,10
+250,4
+chinese,20 min
+250,10
+diner,quiet place
+20,walkable
+50,accomodation
+child,type
+price,indian
+wheelchair,4
+20,20 min
+10 min,30
+people,drive through
+chinese,10
+2,thai
+distance,30 min
+50,pet friendly
+distance,50
+2,20
+30,accomodation
+50,walkable
+diner,10 min
+drive through,250
+4,20 min
+indian,10
+price,10
+pet friendly,chinese
+30 min,type
+wheelchair,child
+20,people
+thai,quiet place
+chinese,10
+4,price
+30 min,10
+20 min,20
+250,50
+walkable,pet friendly
+2,drive through
+type,accomodation
+10 min,thai
+child,wheelchair
+30,50
+indian,20
+people,diner
+quiet place,distance
+drive through,walkable
+diner,type
+250,20
+accomodation,people
+4,quiet place
+distance,chinese
+10,20
+wheelchair,10
+price,child
+30 min,2
+30,10 min
+50,thai
+indian,pet friendly
+20 min,50
+20 min,distance
+accomodation,quiet place
+drive through,20
+30,people
+price,wheelchair
+50,diner
+walkable,chinese
+4,thai
+pet friendly,10
+10,20
+30 min,indian
+50,10 min
+250,2
+child,type
+pet friendly,30
+50,wheelchair
+accomodation,20 min
+250,people
+2,chinese
+30 min,20
+diner,20
+walkable,distance
+type,price
+thai,4
+50,quiet place
+indian,10 min
+child,10
+10,drive through
+type,20
+thai,20 min
+distance,50
+accomodation,30
+2,walkable
+10 min,20
+drive through,4
+wheelchair,30 min
+50,pet friendly
+chinese,price
+indian,250
+diner,child
+10,10
+people,quiet place
+4,type
+10 min,wheelchair
+20,drive through
+chinese,diner
+thai,pet friendly
+distance,quiet place
+250,30
+10,2
+20 min,10
+50,30 min
+indian,20
+people,50
+price,child
+accomodation,walkable
+quiet place,10 min
+250,diner
+chinese,wheelchair
+20,drive through
+30 min,thai
+20,2
+30,distance
+10,20 min
+pet friendly,4
+50,10
+walkable,50
+accomodation,child
+indian,type
+price,people
+wheelchair,accomodation
+pet friendly,distance
+drive through,indian
+30 min,20
+2,10
+people,50
+30,20 min
+quiet place,250
+type,price
+diner,chinese
+4,walkable
+10,child
+50,20
+10 min,thai
+thai,distance
+wheelchair,20
+50,indian
+10,diner
+30 min,20
+drive through,type
+20 min,child
+pet friendly,people
+walkable,10 min
+quiet place,250
+price,chinese
+30,4
+2,50
+accomodation,10
+pet friendly,4
+250,walkable
+diner,10
+wheelchair,type
+20,10 min
+accomodation,2
+quiet place,price
+indian,50
+chinese,20
+drive through,50
+people,distance
+30,child
+20 min,30 min
+10,thai
+20,50
+indian,price
+10,drive through
+50,accomodation
+10,250
+thai,chinese
+20,type
+quiet place,30 min
+2,child
+10 min,pet friendly
+wheelchair,4
+walkable,20 min
+30,diner
+distance,people
+pet friendly,price
+type,10 min
+thai,quiet place
+indian,walkable
+child,10
+20 min,people
+50,chinese
+4,wheelchair
+250,20
+diner,30 min
+50,drive through
+30,accomodation
+20,2
+10,distance
+wheelchair,pet friendly
+price,people
+walkable,distance
+accomodation,50
+chinese,10
+thai,quiet place
+drive through,20
+indian,diner
+30 min,30
+20,20 min
+2,250
+4,10
+50,10 min
+type,child
+30,diner
+2,drive through
+indian,10
+50,accomodation
+10,50
+10 min,price
+people,250
+child,20 min
+type,wheelchair
+30 min,20
+chinese,4
+quiet place,20
+walkable,distance
+thai,pet friendly
+50,50
+chinese,price
+10,indian
+4,10
+30 min,child
+30,diner
+quiet place,drive through
+type,wheelchair
+people,250
+thai,20 min
+10 min,pet friendly
+walkable,distance
+20,20
+accomodation,2
+wheelchair,drive through
+walkable,indian
+10 min,30
+accomodation,pet friendly
+50,diner
+quiet place,50
+30 min,20
+20 min,4
+people,2
+distance,price
+type,chinese
+thai,10
+250,20
+child,10
+walkable,20 min
+price,50
+child,distance
+thai,4
+250,quiet place
+20,people
+50,accomodation
+drive through,30 min
+30,2
+chinese,indian
+10,wheelchair
+10 min,20
+10,pet friendly
+diner,type
+50,30
+10 min,drive through
+10,10
+child,20
+250,quiet place
+2,20 min
+price,indian
+chinese,wheelchair
+type,people
+walkable,thai
+30 min,pet friendly
+distance,20
+50,diner
+accomodation,4
+drive through,thai
+indian,diner
+10,child
+20 min,type
+10,250
+30,30 min
+4,10 min
+50,distance
+2,price
+walkable,20
+people,pet friendly
+accomodation,20
+wheelchair,quiet place
+chinese,50
+20,thai
+price,pet friendly
+10,30
+4,30 min
+50,250
+walkable,20 min
+people,wheelchair
+chinese,drive through
+accomodation,type
+2,child
+indian,quiet place
+50,diner
+20,10
+10 min,distance
+30,child
+quiet place,4
+diner,10
+250,50
+2,price
+10 min,chinese
+thai,wheelchair
+pet friendly,accomodation
+distance,drive through
+walkable,50
+type,10
+people,indian
+20 min,30 min
+20,20
+chinese,50
+10,30 min
+4,distance
+30,price
+wheelchair,20 min
+20,type
+quiet place,2
+drive through,diner
+250,accomodation
+people,20
+10,thai
+walkable,pet friendly
+50,child
+10 min,indian
+10 min,4
+10,50
+walkable,20
+diner,price
+indian,pet friendly
+people,50
+2,type
+wheelchair,drive through
+10,250
+30 min,accomodation
+distance,child
+chinese,thai
+quiet place,20
+30,20 min
+20,10
+people,10
+type,pet friendly
+20,drive through
+30,indian
+10 min,chinese
+distance,4
+50,thai
+wheelchair,20 min
+accomodation,diner
+30 min,quiet place
+250,price
+walkable,child
+50,2
+drive through,price
+distance,10 min
+50,thai
+30,child
+50,diner
+chinese,accomodation
+2,250
+quiet place,type
+20 min,people
+20,20
+indian,walkable
+4,wheelchair
+10,10
+30 min,pet friendly
+30,10
+10 min,chinese
+walkable,indian
+30 min,2
+diner,accomodation
+4,thai
+50,20 min
+quiet place,people
+20,child
+drive through,price
+distance,type
+10,20
+50,wheelchair
+pet friendly,250
+20,30
+2,drive through
+price,10
+quiet place,accomodation
+chinese,child
+pet friendly,10 min
+diner,thai
+50,30 min
+distance,250
+people,walkable
+wheelchair,4
+10,20 min
+type,indian
+20,50
+20 min,accomodation
+type,10
+thai,30 min
+child,250
+pet friendly,price
+30,indian
+20,drive through
+10,2
+walkable,20
+people,quiet place
+50,10 min
+4,distance
+50,wheelchair
+chinese,diner
+chinese,diner
+people,30 min
+10,price
+child,2
+wheelchair,250
+thai,10
+drive through,walkable
+indian,4
+50,accomodation
+50,30
+20,quiet place
+20 min,distance
+20,pet friendly
+type,10 min
+walkable,price
+thai,20 min
+quiet place,20
+child,distance
+wheelchair,pet friendly
+chinese,30
+4,250
+people,accomodation
+50,10
+type,50
+diner,drive through
+20,indian
+10 min,30 min
+10,2
+250,price
+10,30 min
+child,50
+20 min,pet friendly
+type,thai
+walkable,10 min
+10,people
+2,distance
+20,50
+wheelchair,30
+drive through,20
+diner,quiet place
+accomodation,indian
+4,chinese
+accomodation,20
+indian,30 min
+people,20 min
+10,child
+4,wheelchair
+walkable,30
+price,pet friendly
+20,distance
+2,250
+10 min,drive through
+quiet place,10
+chinese,50
+thai,50
+diner,type
+type,accomodation
+10,50
+wheelchair,50
+pet friendly,10
+250,indian
+thai,4
+20 min,distance
+chinese,30 min
+20,price
+quiet place,child
+people,30
+diner,walkable
+10 min,drive through
+20,2
+quiet place,walkable
+wheelchair,2
+20,child
+people,indian
+4,distance
+250,30
+20,type
+50,20 min
+30 min,10
+accomodation,drive through
+diner,thai
+50,10 min
+pet friendly,chinese
+10,price
+accomodation,30 min
+walkable,chinese
+2,30
+price,50
+10,10 min
+20,people
+child,4
+thai,quiet place
+type,pet friendly
+250,drive through
+50,20 min
+wheelchair,diner
+10,indian
+distance,20
+thai,50
+walkable,child
+people,20 min
+drive through,10
+chinese,indian
+20,type
+250,wheelchair
+50,4
+quiet place,30 min
+2,30
+accomodation,10
+20,diner
+distance,10 min
+pet friendly,price
+chinese,10
+price,2
+quiet place,walkable
+20 min,drive through
+diner,distance
+pet friendly,wheelchair
+30,250
+4,20
+20,child
+type,30 min
+thai,50
+people,indian
+10 min,50
+10,accomodation
+20,distance
+accomodation,50
+20 min,250
+4,20
+10 min,pet friendly
+drive through,10
+quiet place,chinese
+thai,30
+type,wheelchair
+diner,50
+child,30 min
+2,10
+indian,walkable
+price,people
+20,4
+thai,50
+10 min,diner
+accomodation,30
+2,wheelchair
+chinese,10
+drive through,250
+20,distance
+child,50
+type,30 min
+people,price
+quiet place,20 min
+10,walkable
+indian,pet friendly
+250,child
+wheelchair,diner
+10 min,10
+10,20
+drive through,people
+pet friendly,quiet place
+indian,type
+20 min,20
+30 min,4
+thai,distance
+50,50
+2,accomodation
+walkable,30
+price,chinese
+accomodation,diner
+wheelchair,20 min
+50,drive through
+indian,child
+4,10
+type,50
+pet friendly,quiet place
+10,distance
+thai,chinese
+30 min,30
+250,people
+20,2
+price,20
+walkable,10 min
+250,4
+pet friendly,10
+50,drive through
+diner,distance
+20,20
+people,thai
+10,walkable
+wheelchair,10 min
+50,2
+indian,30 min
+price,type
+accomodation,quiet place
+20 min,child
+30,chinese
+price,2
+4,pet friendly
+drive through,thai
+wheelchair,walkable
+20,30 min
+50,diner
+20,child
+indian,type
+distance,10
+10 min,30
+50,quiet place
+chinese,10
+20 min,accomodation
+people,250
+pet friendly,type
+diner,20
+price,people
+10 min,10
+accomodation,wheelchair
+50,30 min
+drive through,2
+quiet place,20 min
+20,distance
+30,chinese
+250,50
+walkable,indian
+thai,4
+child,10
+10 min,30 min
+child,pet friendly
+price,walkable
+20,250
+20 min,10
+accomodation,diner
+wheelchair,2
+distance,30
+thai,drive through
+quiet place,20
+type,50
+people,50
+10,chinese
+indian,4
+price,walkable
+drive through,diner
+10 min,indian
+20 min,10
+distance,50
+20,type
+people,50
+10,accomodation
+30,30 min
+thai,250
+20,2
+4,quiet place
+child,chinese
+pet friendly,wheelchair
+diner,10 min
+type,accomodation
+50,30 min
+30,50
+distance,indian
+drive through,people
+20,walkable
+child,4
+10,pet friendly
+chinese,thai
+250,20 min
+20,quiet place
+10,2
+wheelchair,price
+30,pet friendly
+accomodation,chinese
+diner,4
+30 min,quiet place
+50,20
+price,indian
+2,250
+drive through,50
+child,10
+10 min,distance
+thai,type
+20 min,20
+walkable,people
+wheelchair,10
+wheelchair,10
+thai,30 min
+child,indian
+20 min,accomodation
