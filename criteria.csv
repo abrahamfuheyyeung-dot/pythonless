@@ -1,6 +1,8 @@
-distance,people,accomodation,type,price
-walkable,2,wheelchair,indian,10
-10 min,4,pet friendly,drive through,20
-20 min,10,child,diner,30
-30 min,20,quiet place,chinese,50
-,50,,thai,250
+col1,col2
+A,B
+B,A
+A,B
+C,D
+D,C
+E,F
+G,H

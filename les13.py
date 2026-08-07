@@ -1,27 +1,41 @@
 """
-Simple image slideshow / quick-photo video player.
+Create a real video file from a folder of images.
 
 Usage:
-    python les13.py "C:/path/to/folder" 0.2
+    python les13.py "C:/path/to/folder" 0.2 output.mp4
 
 The first argument is the folder containing images.
 The second argument is the delay between images in seconds.
+The third argument is the output video file name.
 
-
-
-make it so that video can see if picture out of order
+Make sure you name your frames properly; the script reads the frames in numerical sequence.
 """
 
+import os
 import sys
-import tkinter as tk
 from pathlib import Path
 
 try:
-    from PIL import Image, ImageTk, UnidentifiedImageError
+    from PIL import Image, UnidentifiedImageError
 except ImportError:  # pragma: no cover - handled at runtime
     Image = None
-    ImageTk = None
     UnidentifiedImageError = None
+
+try:
+    import imageio.v2 as imageio
+except ImportError:  # pragma: no cover - handled at runtime
+    imageio = None
+
+try:
+    from transformers import pipeline
+except ImportError:  # pragma: no cover - handled at runtime
+    pipeline = None
+
+try:
+    from transformers import AutoProcessor, BlipForConditionalGeneration
+except ImportError:  # pragma: no cover - handled at runtime
+    AutoProcessor = None
+    BlipForConditionalGeneration = None
 
 try:
     import pillow_heif  # noqa: F401
@@ -35,6 +49,28 @@ if pillow_heif is not None:
         pass
 
 SUPPORTED_EXTENSIONS = {".jpg", ".jpeg", ".png", ".gif", ".bmp", ".webp", ".tif", ".tiff", ".heic", ".heif"}
+
+
+class LocalVisionCaptionGenerator:
+    def __init__(self, model_name: str = "nlpconnect/vit-gpt2-image-captioning"):
+        self.model_name = model_name
+        from transformers import AutoFeatureExtractor, VisionEncoderDecoderModel
+
+        self.feature_extractor = AutoFeatureExtractor.from_pretrained(model_name)
+        self.model = VisionEncoderDecoderModel.from_pretrained(model_name)
+
+    def generate_caption(self, image_path: str) -> str:
+        from transformers import AutoTokenizer
+
+        image = load_image(Path(image_path))
+        if image is None:
+            return ""
+
+        image = image.convert("RGB")
+        inputs = self.feature_extractor(images=image, return_tensors="pt")
+        generated_ids = self.model.generate(**inputs)
+        tokenizer = AutoTokenizer.from_pretrained(self.model_name)
+        return tokenizer.decode(generated_ids[0], skip_special_tokens=True)
 
 
 def extract_number(name: str):
@@ -74,8 +110,8 @@ def find_images(folder_path: str):
     return images
 
 
-def load_photo(path: Path, width: int, height: int):
-    if Image is None or ImageTk is None:
+def load_image(path: Path):
+    if Image is None:
         raise RuntimeError("Pillow is required. Install it with: pip install pillow")
 
     if path.suffix.lower() in {".heic", ".heif"} and pillow_heif is None:
@@ -83,63 +119,176 @@ def load_photo(path: Path, width: int, height: int):
 
     try:
         with Image.open(path) as img:
-            img = img.convert("RGBA")
-            resampling = getattr(Image, "Resampling", Image).LANCZOS
-            img.thumbnail((width, height), resampling)
-            return ImageTk.PhotoImage(img)
+            return img.convert("RGBA")
     except (UnidentifiedImageError, OSError) as error:
         raise RuntimeError(f"Could not read image: {path}\n{error}") from error
 
 
-class ImagePlayer:
-    def __init__(self, root: tk.Tk, image_paths, delay_seconds: float):
-        self.root = root
-        self.image_paths = image_paths
-        self.delay_ms = max(50, int(delay_seconds * 1000))
-        self.index = 0
-        self.paused = False
+def _extract_caption_text(result):
+    if isinstance(result, dict):
+        for key in ("generated_text", "caption", "text", "output_text"):
+            value = result.get(key)
+            if isinstance(value, str) and value.strip():
+                return value.strip()
+    elif isinstance(result, list):
+        for item in result:
+            text = _extract_caption_text(item)
+            if text:
+                return text
+    elif isinstance(result, str):
+        text = result.strip()
+        if text:
+            return text
 
-        self.label = tk.Label(root, bg="black")
-        self.label.pack(fill="both", expand=True)
+    return ""
 
-        root.title("Image Slideshow")
-        root.configure(bg="black")
-        root.attributes("-fullscreen", True)
-        root.bind("<Escape>", lambda event: root.destroy())
-        root.bind("q", lambda event: root.destroy())
-        root.bind("<space>", lambda event: self.toggle_pause())
 
-        self.show_next()
+def _create_caption_pipeline(model_name: str):
+    if pipeline is not None:
+        for task_name in ("image-captioning", "image-to-text"):
+            try:
+                return pipeline(task_name, model=model_name)
+            except Exception:
+                continue
 
-    def toggle_pause(self):
-        self.paused = not self.paused
+    if AutoProcessor is not None and BlipForConditionalGeneration is not None:
+        try:
+            processor = AutoProcessor.from_pretrained(model_name)
+            model = BlipForConditionalGeneration.from_pretrained(model_name)
+            return _BLIPCaptioner(processor, model)
+        except Exception:
+            return None
 
-    def display_image(self, path: Path):
-        self.root.update_idletasks()
-        width = max(1, self.root.winfo_width())
-        height = max(1, self.root.winfo_height())
-        photo = load_photo(path, width, height)
-        self.label.configure(image=photo)
-        self.label.image = photo
-        self.root.title(path.name)
+    return None
 
-    def show_next(self):
-        if self.paused:
-            self.root.after(100, self.show_next)
-            return
 
-        if self.index >= len(self.image_paths):
-            self.index = 0
+class _BLIPCaptioner:
+    def __init__(self, processor, model):
+        self.processor = processor
+        self.model = model
 
-        path = self.image_paths[self.index]
-        self.index += 1
-        self.display_image(path)
-        self.root.after(self.delay_ms, self.show_next)
+    def __call__(self, image):
+        inputs = self.processor(images=image, return_tensors="pt")
+        generated_ids = self.model.generate(**inputs)
+        caption = self.processor.decode(generated_ids[0], skip_special_tokens=True)
+        return [{"generated_text": caption}]
+
+
+def summarize_captions(captions):
+    if not captions:
+        return "No images were provided."
+
+    unique_captions = []
+    for caption in captions:
+        if caption not in unique_captions:
+            unique_captions.append(caption)
+
+    cleaned_captions = [caption.strip().rstrip(".") for caption in unique_captions if caption and caption.strip()]
+
+    if not cleaned_captions:
+        return "No images were provided."
+
+    if len(cleaned_captions) == 1:
+        return f"The video shows {cleaned_captions[0]}."
+
+    if len(cleaned_captions) == 2:
+        return f"The video shows {cleaned_captions[0]}, then {cleaned_captions[1]}."
+
+    first_caption = cleaned_captions[0]
+    later_captions = ", then ".join(cleaned_captions[1:4])
+    return f"The video shows {first_caption}, then {later_captions}."
+
+
+def describe_video_locally(image_paths, delay_seconds: float):
+    count = len(image_paths)
+    if count == 0:
+        return "No images were provided."
+
+    captions = []
+    if pipeline is not None:
+        try:
+            captioner = _create_caption_pipeline("Salesforce/blip-image-captioning-base")
+            if captioner is None:
+                raise RuntimeError("Unable to initialize a Hugging Face image captioning model")
+            for path in image_paths:
+                try:
+                    image = load_image(path).convert("RGB")
+                    result = captioner(image)
+                    caption = _extract_caption_text(result)
+                    if caption:
+                        captions.append(caption)
+                except Exception:
+                    continue
+        except Exception:
+            captions = []
+    else:
+        try:
+            generator = LocalVisionCaptionGenerator()
+            for path in image_paths:
+                try:
+                    caption = generator.generate_caption(str(path))
+                    if caption:
+                        captions.append(caption)
+                except Exception:
+                    continue
+        except Exception:
+            captions = []
+
+    if captions:
+        return summarize_captions(captions)
+
+    names = [Path(path.name).stem for path in image_paths]
+    cleaned_names = []
+    for name in names:
+        cleaned = name.replace("_", " ").replace("-", " ").replace(".", " ")
+        cleaned_names.append(cleaned)
+
+    first_name = cleaned_names[0]
+    last_name = cleaned_names[-1]
+
+    if count == 1:
+        return f"The video shows a single image depicting {first_name}."
+
+    if first_name.lower() == last_name.lower():
+        return f"The video shows a sequence of images centered around {first_name}."
+
+    if first_name and last_name and first_name.lower() != last_name.lower():
+        return (
+            f"The video shows a sequence of frames beginning with {first_name} and ending with {last_name}, "
+            f"suggesting a changing scene across the clip."
+        )
+
+    return f"The video shows a sequence of frames centered around {first_name}."
+
+
+def create_video(image_paths, output_path: str, delay_seconds: float):
+    if imageio is None:
+        raise RuntimeError("imageio is required. Install it with: pip install imageio")
+
+    frames = []
+    for path in image_paths:
+        image = load_image(path)
+        frames.append(image)
+
+    fps = max(1, int(round(1 / delay_seconds)))
+    imageio.mimsave(output_path, frames, fps=fps, format="FFMPEG")
+    print(f"Video saved to: {output_path}")
+
+    description = describe_video_locally(image_paths, delay_seconds)
+    print("Local video description:")
+    print(description)
+
+    if os.name == "nt":
+        os.startfile(output_path)
+    else:
+        print("Open the video file manually:")
+        print(output_path)
 
 
 if __name__ == "__main__":
     folder = sys.argv[1] if len(sys.argv) > 1 else "."
     delay = float(sys.argv[2]) if len(sys.argv) > 2 else 0.2
+    output = sys.argv[3] if len(sys.argv) > 3 else "output.mp4"
 
     try:
         images = find_images(folder)
@@ -147,6 +296,8 @@ if __name__ == "__main__":
         print(error)
         sys.exit(1)
 
-    root = tk.Tk()
-    ImagePlayer(root, images, delay)
-    root.mainloop()
+    try:
+        create_video(images, output, delay)
+    except Exception as error:
+        print(error)
+        sys.exit(1)
