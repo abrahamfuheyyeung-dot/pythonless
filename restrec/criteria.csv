@@ -1,6 +1,6 @@
 distance,people,accomodation,type,price
-walkable,2 people,wheelchair,indian,around 10 bucks
-10 minutes,4 people,pet friendly,drive through,under 20 dollars
-20 minutes,10 people,accomodates children,diner,within 30 dollars
-30 minutes,20 people,quiet place,chinese,within 50 dollars
-,50 people,,thai, within 250 dollars
+at a walkable distance,is good for 2 people, is wheelchair accessible,indian,around 10 bucks
+is within 10 minutes of me,4 people,is pet friendly,is a drive through,under 20 dollars
+is within 20 minutes of me,10 people,accomodates children,is a diner,is under 30 dollars
+is within 30 minutes,20 people,quiet place,is a chinese place,is within 50 dollars
+,holds 50 people,,is a thai restaurant,is within 250 dollars

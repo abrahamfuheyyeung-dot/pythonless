@@ -1,9 +1,10 @@
+import argparse
 import csv
+import itertools
 import os
 import random
-import re
 from pathlib import Path
-from typing import List, Sequence, Iterable, Tuple, Union
+from typing import List, Optional, Sequence, Iterable, Tuple, Union
 
 try:
     import openpyxl  # optional, tests may use .xlsx
@@ -11,8 +12,38 @@ except Exception:
     openpyxl = None
 
 # Config
-ROW_COUNT = int(os.environ.get("ROW_COUNT", "100"))
+DEFAULT_ROW_COUNT = 1000
 OUTPUT_CSV = "criteria_output.csv"
+
+CRITERIA_HEADERS: List[str] = []
+CRITERIA_HEADERS_NORM: List[str] = []
+
+
+def _set_criteria_headers(headers: List[str]) -> None:
+    global CRITERIA_HEADERS, CRITERIA_HEADERS_NORM
+    CRITERIA_HEADERS = headers
+    CRITERIA_HEADERS_NORM = [str(h).strip().lower() if h is not None else "" for h in headers]
+
+
+def get_row_count() -> int:
+    value = os.environ.get("ROW_COUNT")
+    if value is None:
+        return DEFAULT_ROW_COUNT
+    try:
+        return int(value)
+    except ValueError:
+        return DEFAULT_ROW_COUNT
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Generate random criteria rows into a CSV file.")
+    parser.add_argument(
+        "--rows",
+        "-r",
+        type=int,
+        help="Number of rows to generate. Overrides ROW_COUNT environment variable.",
+    )
+    return parser.parse_args()
 
 
 def load_columns_from_csv(csv_path: str | Path) -> List[List[str]]:
@@ -39,9 +70,7 @@ def load_columns_from_csv(csv_path: str | Path) -> List[List[str]]:
     if not rows:
         return []
 
-    global CRITERIA_HEADERS, CRITERIA_HEADERS_NORM
-    CRITERIA_HEADERS = rows[0]
-    CRITERIA_HEADERS_NORM = [str(h).strip().lower() if h is not None else "" for h in rows[0]]
+    _set_criteria_headers(rows[0])
 
     data_rows = rows[1:]
     if not data_rows:
@@ -65,9 +94,13 @@ def load_criteria_from_csv(csv_path: str | Path) -> List[str]:
     This is for tests and other modules that expect a flat list (including
     header names). It flattens `load_columns_from_csv` results.
     """
-    # Return columns (list of lists) as the user requested: each inner list is
-    # the nth cell from each data row (empty strings preserved).
-    return load_columns_from_csv(csv_path)
+    columns = load_columns_from_csv(csv_path)
+    return [item for column in columns for item in column]
+
+
+def load_flat_criteria_from_csv(csv_path: str | Path) -> List[str]:
+    """Backward-compatible alias for loading a flat criteria list."""
+    return load_criteria_from_csv(csv_path)
 
 
 def load_phrase_pairs(csv_path: str | Path) -> List[Tuple[str, str]]:
@@ -88,13 +121,11 @@ def load_phrase_pairs(csv_path: str | Path) -> List[Tuple[str, str]]:
 
 
 def generate_rows(columns: Sequence[Sequence[str]], row_count: int, criteria_per_row: int = 2) -> List[List[str]]:
-    """Generate rows from either a flat criteria list or a sequence of columns.
+    """Generate rows by sampling independently from distinct columns.
 
-    If `columns` is a flat Sequence[str] (no nested lists), this behaves like the
-    previous flat-pool sampler used in tests: it samples without replacement
-    from the flat pool for each row, refilling when exhausted. If `columns` is
-    a Sequence[Sequence[str]] (columns), it randomly selects distinct columns
-    per row and samples one value from each column (preserving empty cells).
+    Each element of `columns` must itself be a sequence of criteria values for a
+    distinct column. For each row, this function selects `criteria_per_row`
+    different columns and then picks one value from each selected column.
     """
     if criteria_per_row <= 0:
         raise ValueError("criteria_per_row must be greater than zero")
@@ -104,43 +135,33 @@ def generate_rows(columns: Sequence[Sequence[str]], row_count: int, criteria_per
     if not columns:
         return []
 
-    # detect flat list: elements are not lists/tuples
-    is_flat = all(not isinstance(x, (list, tuple)) for x in columns)
-    if is_flat:
-        pool = list(columns)
-        if len(pool) < criteria_per_row:
-            raise ValueError("Not enough criteria to form rows")
+    if not all(isinstance(column, (list, tuple)) for column in columns):
+        raise TypeError("generate_rows expects a sequence of columns, where each column is a list or tuple")
 
-        rows: List[List[str]] = []
-        for _ in range(row_count):
-            if len(pool) < criteria_per_row:
-                pool = list(columns)
-            selected = random.sample(pool, criteria_per_row)
-            rows.append(selected)
-            for item in selected:
-                pool.remove(item)
-        return rows
+    pools: List[List[str]] = [
+        [str(item).strip() for item in column if str(item).strip()]
+        for column in columns
+    ]
 
-    # treat as columns
-    num_columns = len(columns)
-    if num_columns < criteria_per_row:
+    if len(pools) < criteria_per_row:
         raise ValueError("Not enough columns to choose from")
+
+    if sum(bool(col) for col in pools) < criteria_per_row:
+        raise ValueError("Not enough non-empty columns to choose from")
 
     rows: List[List[str]] = []
     for _ in range(row_count):
-        col_indices = random.sample(range(num_columns), criteria_per_row)
-        selected: List[str] = []
-        for ci in col_indices:
-            col = columns[ci]
-            if not col:
-                selected.append("")
-            else:
-                selected.append(random.choice(col))
-        rows.append(selected)
+        available_columns = [idx for idx, col in enumerate(pools) if col]
+        if len(available_columns) < criteria_per_row:
+            raise ValueError("Not enough non-empty columns to choose from")
+
+        selected_columns = random.sample(available_columns, criteria_per_row)
+        rows.append([random.choice(pools[ci]) for ci in selected_columns])
+
     return rows
 
 
-def format_row_as_sentence(row: Sequence[str], introductions: Sequence[str] = (), endings: Sequence[str] = ()) -> str:
+def format_row_as_sentence(row: Sequence[str], phrase_pairs) -> str:
     """Format a row as a simple sentence.
 
     Defaults match the tests: intro `Find a place` and ending `.`.
@@ -148,49 +169,46 @@ def format_row_as_sentence(row: Sequence[str], introductions: Sequence[str] = ()
     criteria = [str(x).strip() for x in row if str(x).strip()]
     if not criteria:
         return "Find a place that fits my preferences."
+    phrase_pair = random.choice(phrase_pairs) if phrase_pairs else ("Find a place", ".")
+    intro, ending = phrase_pair
+    # intro = random.choice(list(introductions)) if introductions else "Find a place"
+    # ending = random.choice(list(endings)) if endings else "."
 
-    intro = random.choice(list(introductions)) if introductions else "Find a place"
-    ending = random.choice(list(endings)) if endings else "."
+    if len(criteria) == 1:
+        criteria_text = criteria[0]
+    elif len(criteria) == 2:
+        criteria_text = " and ".join(criteria)
+    else:
+        criteria_text = ", ".join(criteria[:-1]) + ", and " + criteria[-1]
 
-    # Keep simple comma-separated list to match existing tests and expectations
-    criteria_text = ", ".join(criteria)
-    return f"{intro} that is {criteria_text}{ending}".strip()
+    return f"{intro} {criteria_text}{ending}".strip()
 
-
-def grammar_rewrite_text(text: str) -> str:
-    s = text.strip()
-    # NOTE: preserve duplicate adjacent words (user requested no deduping)
-
-    s = re.sub(r"\s+([,;:.!?])", r"\1", s)
-    s = re.sub(r"([,;:])([^\s])", r"\1 \2", s)
-    s = re.sub(r"\s+", " ", s)
-
-    s = re.sub(r"\bthat is (\d+)\s*minutes\b", r"that's within \1 minutes", s, flags=re.I)
-    s = re.sub(r"\bin (about |around )?(\d+)\s*minutes\b", r"within \2 minutes", s, flags=re.I)
-    s = re.sub(r"\baround\s+(\d+)\s*(bucks|dollars)?\b", r"around $\1", s, flags=re.I)
-
-    # collapse numeric+unit lists (people)
-    try:
-        matches = list(re.finditer(r"(\d+)\s+(people|person|persons|guests)\b", s, flags=re.I))
-        if len(matches) >= 2:
-            units = [m.group(2).lower() for m in matches]
-            if all(u == units[0] for u in units):
-                first = matches[0].start()
-                last = matches[-1].end()
-                values = [m.group(1) for m in matches]
-                if len(values) == 2:
-                    joined = f"{values[0]} and {values[1]}"
-                else:
-                    joined = ", ".join(values[:-1]) + f", and {values[-1]}"
-                replacement = f"groups of {joined} {units[0]}"
-                s = s[:first] + replacement + s[last:]
-    except Exception:
-        pass
-
-    return s
+'''
+def _build_ai_rewrite_prompt(sentence: str, row: Optional[Sequence[str]] = None, phrase_pairs: Sequence[Tuple[str, str]] = ()) -> str:
+    intro_phrases = [a for a, b in phrase_pairs if a]
+    ending_phrases = [b for a, b in phrase_pairs if b]
+    prompt = (
+        "Rewrite the following sentence into clear, natural English while preserving the "
+        "criteria and retaining the original intent from the preferred phrase templates. "
+        "Fix grammar, punctuation, and any repeated words. Do not add or remove any facts.\n\n"
+    )
+    if row:
+        criteria_values = [str(x).strip() for x in row if str(x).strip()]
+        if criteria_values:
+            prompt += "Criteria values: " + ", ".join(criteria_values) + ".\n"
+    if intro_phrases:
+        prompt += "Possible introduction phrases: " + "; ".join(intro_phrases) + ".\n"
+    if ending_phrases:
+        prompt += "Possible ending phrases: " + "; ".join(ending_phrases) + ".\n"
+    prompt += f"\nSentence:\n\n{sentence}"
+    return prompt
 
 
-def ai_rewrite_sentences(sentences: List[str]) -> List[str]:
+def ai_rewrite_sentences(
+    sentences: List[str],
+    rows: Optional[Sequence[Sequence[str]]] = None,
+    phrase_pairs: Sequence[Tuple[str, str]] = (),
+) -> List[str]:
     """Rewrite sentences using an external AI service when enabled.
 
     Controlled by `USE_AI_REWRITE` (truthy) and `HF_API_TOKEN` environment
@@ -207,7 +225,7 @@ def ai_rewrite_sentences(sentences: List[str]) -> List[str]:
         print(f"AI rewrite unavailable: requests import failed: {e}")
         return sentences
 
-    url = "https://api-inference.huggingface.co/models/google/flan-t5-small"
+    url = "https://api-inference.huggingface.co/models/google/flan-t5-xl"
     headers = {"Authorization": f"Bearer {token}"}
     rewritten: List[str] = []
 
@@ -220,11 +238,12 @@ def ai_rewrite_sentences(sentences: List[str]) -> List[str]:
     for i in range(0, len(sentences), chunk_size):
         batch = sentences[i : i + chunk_size]
         prompts = [
-            (
-                "Rewrite the following sentence into clear, natural English while preserving "
-                "the criteria exactly (do not add or remove information). Sentence:\n\n" + s
+            _build_ai_rewrite_prompt(
+                s,
+                row=rows[i + idx] if rows is not None else None,
+                phrase_pairs=phrase_pairs,
             )
-            for s in batch
+            for idx, s in enumerate(batch)
         ]
         try:
             resp = requests.post(url, headers=headers, json={"inputs": prompts}, timeout=60)
@@ -259,17 +278,25 @@ def ai_rewrite_sentences(sentences: List[str]) -> List[str]:
 
     return rewritten
 
+'''
+def ai_rewrite_sentences(
+    sentences: List[str],
+    rows: Optional[Sequence[Sequence[str]]] = None,
+    phrase_pairs: Sequence[Tuple[str, str]] = (),
+) -> List[str]:
+    """AI rewrite stub disabled for current operation."""
+    # AI rewrite is currently disabled. Return original sentences unchanged.
+    return sentences
+
 
 def write_output(rows: Iterable[Sequence[str]], phrase_pairs: Sequence[Tuple[str, str]], output_path: str | Path = OUTPUT_CSV) -> None:
     path = Path(output_path)
     with path.open("w", newline="", encoding="utf-8") as fh:
         writer = csv.writer(fh)
-        introductions = [a for a, b in phrase_pairs if a] if phrase_pairs else []
-        endings = [b for a, b in phrase_pairs if b] if phrase_pairs else []
         rows_list = list(rows)
-        sentences = [format_row_as_sentence(row, introductions, endings) for row in rows_list]
-        # Run optional AI rewrite step (external service) if enabled via env
-        sentences = ai_rewrite_sentences(sentences)
+        sentences = [format_row_as_sentence(row, phrase_pairs) for row in rows_list]
+        # AI rewrite disabled for now; keep the original formatted sentences.
+        # sentences = ai_rewrite_sentences(sentences, rows=rows_list, phrase_pairs=phrase_pairs)
         for row, sentence in zip(rows_list, sentences):
             writer.writerow([*row, sentence])
 
@@ -279,8 +306,9 @@ def write_rows(rows: Iterable[Sequence[str]], output_path: str | Path, introduct
     path = Path(output_path)
     with path.open("w", newline="", encoding="utf-8") as fh:
         writer = csv.writer(fh)
+        phrase_pairs = tuple(zip(introductions, endings)) if introductions or endings else ()
         for row in rows:
-            sentence = format_row_as_sentence(row, introductions, endings)
+            sentence = format_row_as_sentence(row, phrase_pairs)
             writer.writerow([*row, sentence])
 
 
@@ -301,13 +329,15 @@ def count_first_two_columns_unordered(rows: Iterable[Sequence[str]]) -> Tuple[in
 
 def main() -> None:
     base = Path(__file__).resolve().parent
-    criteria_csv = base / "criteria.csv"
-    phrases_csv = base / "phrases.csv"
+    criteria_csv = base / "restrec" / "criteria.csv"
+    phrases_csv = base / "restrec" / "phrases.csv"
 
+    args = parse_args()
     cols = load_columns_from_csv(criteria_csv)
     phrase_pairs = load_phrase_pairs(phrases_csv)
 
-    rows = generate_rows(cols, row_count=ROW_COUNT, criteria_per_row=2)
+    row_count = args.rows if args.rows is not None else get_row_count()
+    rows = generate_rows(cols, row_count=row_count, criteria_per_row=2)
     write_output(rows, phrase_pairs, OUTPUT_CSV)
 
     dup_count, counts = count_first_two_columns_unordered(rows)
