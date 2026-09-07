@@ -9,9 +9,9 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - name: Checkout Code
-       uses: actions/checkout@v4
+       uses: actions/checkout
      - name: Set Up Python
-       uses: actions/setup-python@v5
+       uses: actions/setup-python
        with:
          python-version: '3.13.14' # Specify your Python version
      #- name: Install Dependencies
