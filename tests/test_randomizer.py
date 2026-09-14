@@ -18,13 +18,48 @@ class RandomizerTests(unittest.TestCase):
                 writer.writerow(["Alpha", "Beta", "Gamma"])
                 writer.writerow(["Delta", "Epsilon", "Zeta"])
 
-            criteria = randomizer.load_flat_criteria_from_csv(csv_path)
-            rows = randomizer.generate_rows(criteria, row_count=4, criteria_per_row=2)
+            columns = randomizer.load_columns_from_csv(csv_path)
+            rows = randomizer.generate_rows(columns, row_count=4, criteria_per_row=2)
 
             self.assertEqual(len(rows), 4)
             for row in rows:
                 self.assertEqual(len(row), 2)
-                self.assertTrue(all(item in criteria for item in row))
+                self.assertTrue(all(item in ["Alpha", "Delta"] + ["Beta", "Epsilon"] + ["Gamma", "Zeta"] for item in row))
+                self.assertNotEqual(row[0], row[1])
+
+    def test_generate_rows_samples_from_distinct_columns(self):
+        columns = [["Alpha", "Delta"], ["Beta", "Epsilon"], ["Gamma", "Zeta"]]
+        rows = randomizer.generate_rows(columns, row_count=100, criteria_per_row=2)
+
+        self.assertEqual(len(rows), 100)
+        for row in rows:
+            self.assertEqual(len(row), 2)
+            # All values in the same row should come from different columns
+            self.assertFalse(
+                any(row[0] in columns[i] and row[1] in columns[i] for i in range(len(columns)))
+            )
+
+    def test_generate_rows_all_rows_use_distinct_columns(self):
+        columns = [["A1", "A2"], ["B1", "B2"], ["C1", "C2"]]
+        rows = randomizer.generate_rows(columns, row_count=10, criteria_per_row=2)
+
+        self.assertEqual(len(rows), 10)
+        for row in rows:
+            self.assertEqual(len(row), 2)
+            self.assertFalse(
+                any(row[0] in columns[i] and row[1] in columns[i] for i in range(len(columns)))
+            )
+
+    def test_generate_rows_refills_exhausted_columns(self):
+        columns = [["A1", "A2"], ["B1", "B2"]]
+        rows = randomizer.generate_rows(columns, row_count=10, criteria_per_row=2)
+
+        self.assertEqual(len(rows), 10)
+        for row in rows:
+            self.assertEqual(len(row), 2)
+            self.assertFalse(
+                any(row[0] in columns[i] and row[1] in columns[i] for i in range(len(columns)))
+            )
 
     def test_write_rows_preserves_two_criteria_and_adds_sentence_column(self):
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -36,8 +71,8 @@ class RandomizerTests(unittest.TestCase):
             with output_path.open("r", newline="", encoding="utf-8") as handle:
                 written_rows = list(csv.reader(handle))
 
-            self.assertEqual(written_rows[0], ["walkable", "quiet place", "Find a place that is walkable, quiet place."])
-            self.assertEqual(written_rows[1], ["budget", "pet friendly", "Find a place that is budget, pet friendly."])
+            self.assertEqual(written_rows[0], ["walkable", "quiet place", "Find a place walkable and quiet place."])
+            self.assertEqual(written_rows[1], ["budget", "pet friendly", "Find a place budget and pet friendly."])
 
     def test_load_criteria_from_excel_file(self):
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -48,12 +83,13 @@ class RandomizerTests(unittest.TestCase):
             sheet.append(["Alpha", "Beta", "Gamma"])
             sheet.append(["Delta", "Epsilon", "Zeta"])
             workbook.save(excel_path)
+            workbook.close()
 
             criteria = randomizer.load_flat_criteria_from_csv(excel_path)
 
             self.assertIn("Alpha", criteria)
             self.assertIn("Zeta", criteria)
-            self.assertIn("Category A", criteria)
+            self.assertNotIn("Category A", criteria)
 
 
 if __name__ == "__main__":

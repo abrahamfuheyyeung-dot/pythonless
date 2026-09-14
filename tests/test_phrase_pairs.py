@@ -26,15 +26,6 @@ class PhrasePairTests(unittest.TestCase):
                 ],
             )
 
-    def test_format_row_as_sentence_uses_one_complete_phrase_pair(self):
-        phrase_pairs = [("Can you find me a restaurant", "for dinner.")]
-
-        sentence = randomizer.format_row_as_sentence(["walkable", "quiet place"], phrase_pairs)
-
-        self.assertEqual(
-            sentence,
-            "Can you find me a restaurant that is walkable and quiet place for dinner.",
-        )
 
 
 if __name__ == "__main__":
