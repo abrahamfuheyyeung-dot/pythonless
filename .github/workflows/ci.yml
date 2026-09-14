@@ -16,9 +16,9 @@ jobs:
       with:
         node-version: 24
      - name: Set Up Python
-      uses: actions/setup-python@v6
-      with:
-        python-version: '3.13.14' # Specify your Python version
+       uses: actions/setup-python@v6
+       with:
+         python-version: '3.13.14' # Specify your Python version
      # - name: Install Dependencies
      #   run: pip install -r requirements.txt
      - name: Run Tests
