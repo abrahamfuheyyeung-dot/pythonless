@@ -65,7 +65,7 @@ if args.name == '' or (args.name not in test_scores ["Name"] and args.name != 'a
         print("Error: Not in system")
         sys.exit(1)
           
-elif args.name in test_scores:
+elif args.name in test_scores["Name"]:
      print(test_scores)
      
      field_names = test_scores.keys()
@@ -95,7 +95,7 @@ elif args.name in test_scores:
  
  
      if args.writecsv:
-        write_score = chaos(test_scores, args.name)
+        write_score = chaos(args.name, test_scores)
         with open("myfile.csv", "w", newline="") as csvfile:
                 field_names = test_scores.keys()
                 writer = csv.DictWriter (csvfile, fieldnames=field_names)
