@@ -23,4 +23,4 @@ jobs:
      - name: Install Test Dependencies
        run: |
          python -m pip install pytest requests
-         python -m pytest pytests
+         python -m pytest pytests --override-ini=python_files=pytest*.py
