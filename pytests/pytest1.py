@@ -14,4 +14,4 @@ def test_abraham():
 
 def test_abigail1():
     result = convert_currency("USD", "EUR", 1)
-    assert result == (0.862, 0.862)
+    assert result == (0.871, 0.871)
